@@ -57,7 +57,7 @@ function createMarkerIcon(company: Company) {
       ">
         ${logo_initial ? `
           <img 
-            src="https://logo.clearbit.com/${company.domain || company.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}" 
+            src="https://www.google.com/s2/favicons?sz=128&domain=${company.domain || company.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}" 
             alt="${company.name}" 
             style="width: 100%; height: 100%; object-fit: contain; padding: 2px;"
             onerror="this.style.setProperty('display', 'none', 'important'); this.nextElementSibling.style.setProperty('display', 'flex', 'important');"
@@ -110,7 +110,7 @@ function buildPopupHTML(c: Company) {
         <div style="width:40px;height:40px;border-radius:10px;background:#ffffff;
                     display:flex;align-items:center;justify-content:center;flex-shrink:0;overflow:hidden;border:1px solid rgba(255,255,255,0.1);">
           <img 
-            src="https://logo.clearbit.com/${c.domain || c.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}" 
+            src="https://www.google.com/s2/favicons?sz=128&domain=${c.domain || c.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}" 
             alt="${c.name}" 
             style="width: 100%; height: 100%; object-fit: contain; padding: 2px;"
             onerror="this.style.setProperty('display', 'none', 'important'); this.nextElementSibling.style.setProperty('display', 'flex', 'important');"
@@ -204,7 +204,7 @@ export default function MapView({ companies, filters, selectedCompany, onDeleteC
           return `
             <div style="display:flex;align-items:center;gap:8px;padding:4px 0;">
               <div style="width:24px;height:24px;border-radius:4px;background:#ffffff;display:flex;align-items:center;justify-content:center;color:white;font-size:10px;font-weight:bold;overflow:hidden;flex-shrink:0;">
-                <img src="https://logo.clearbit.com/${c.domain || c.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}" onerror="this.style.setProperty('display','none','important'); this.nextElementSibling.style.setProperty('display','flex','important');" style="width:100%;height:100%;object-fit:contain;padding:2px;" />
+                <img src="https://www.google.com/s2/favicons?sz=128&domain=${c.domain || c.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}" onerror="this.style.setProperty('display','none','important'); this.nextElementSibling.style.setProperty('display','flex','important');" style="width:100%;height:100%;object-fit:contain;padding:2px;" />
                 <div style="display:none;align-items:center;justify-content:center;width:100%;height:100%;background:${c.logo_color || '#3b82f6'};">${c.logo_initial}</div>
               </div>
               <div style="font-size:12px;font-weight:600;color:white;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:140px;">

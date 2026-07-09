@@ -101,7 +101,7 @@ function CompanyCard({ company, onClick, onDelete }: { company: Company; onClick
           className="w-14 h-14 rounded-2xl flex-shrink-0 flex items-center justify-center bg-white shadow-lg overflow-hidden border border-white/10"
         >
           <img 
-            src={`https://logo.clearbit.com/${company.domain || company.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}`}
+            src={`https://www.google.com/s2/favicons?sz=128&domain=${company.domain || company.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}`}
             alt={company.name}
             className="w-full h-full object-contain p-2"
             onError={(e) => {
