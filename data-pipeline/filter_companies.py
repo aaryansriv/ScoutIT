@@ -7,12 +7,13 @@ output_path = 'd:/ScoutIT/frontend/src/lib/mock-companies.json'
 with open(input_path, 'r', encoding='utf-8') as f:
     companies = json.load(f)
 
-# Keywords indicating non-IT companies
+# Keywords indicating non-IT companies or scraper artifacts
 BAD_KEYWORDS = [
     r'\bbank\b', r'\bfinance\b', r'\bcapital\b', r'\binsurance\b', 
     r'\bcredit\b', r'\bcard[s]?\b', r'\binvestment\b', r'\bwealth\b', 
     r'\bholdings\b', r'\bgroup\b', r'\bfund\b', r'\bequity\b',
-    r'\bloan\b', r'\bmicrofinance\b', r'\bfinancial\b', r'\bbanking\b'
+    r'\bloan\b', r'\bmicrofinance\b', r'\bfinancial\b', r'\bbanking\b',
+    r'popular collections'
 ]
 bad_pattern = re.compile('|'.join(BAD_KEYWORDS), re.IGNORECASE)
 

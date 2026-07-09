@@ -311,68 +311,6 @@
     "domain": "ltmlimited.com"
   },
   {
-    "id": "09d6d19f-0379-4652-b6f0-1b4d1316e28c",
-    "name": "Popular Collections by Industry in Bengaluru",
-    "slug": "popular-collections-by-industry-in-bengaluru-8606",
-    "lat": 12.932550921731487,
-    "lng": 77.66856564995533,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 133,
-    "tech_stack": [
-      "Kubernetes",
-      "Next.js",
-      "Angular"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyindustryinbengaluru.com"
-  },
-  {
-    "id": "53274b7d-3fc5-4c0f-b954-3686658014bb",
-    "name": "Popular Collections by Role in Bengaluru",
-    "slug": "popular-collections-by-role-in-bengaluru-8272",
-    "lat": 13.108117334567527,
-    "lng": 77.64423533654785,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 37,
-    "tech_stack": [
-      "PHP",
-      "PostgreSQL",
-      "Java",
-      "C++",
-      "Ruby",
-      "MongoDB"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyroleinbengaluru.com"
-  },
-  {
-    "id": "13bf1aa8-4b4d-47fb-9aed-8aaf3209e143",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-5050",
-    "lat": 12.948576711974464,
-    "lng": 77.64717140308926,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 20,
-    "tech_stack": [
-      "Go",
-      "Angular"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "1f38add9-596c-4bce-aea1-dda92738afe9",
     "name": "IBM",
     "slug": "ibm-7465",
@@ -703,69 +641,6 @@
     "domain": "mahindra.com"
   },
   {
-    "id": "b1ef030f-68a8-4614-b7f4-407609a2ccc6",
-    "name": "Popular Collections by Industry in Bengaluru",
-    "slug": "popular-collections-by-industry-in-bengaluru-5750",
-    "lat": 13.00819482130295,
-    "lng": 77.6628738465962,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 82,
-    "tech_stack": [
-      "AWS",
-      "C++",
-      "Docker"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyindustryinbengaluru.com"
-  },
-  {
-    "id": "c580f56a-c963-47a9-82b2-0f68ed443ad5",
-    "name": "Popular Collections by Role in Bengaluru",
-    "slug": "popular-collections-by-role-in-bengaluru-9302",
-    "lat": 12.92937187440283,
-    "lng": 77.63392668956213,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 3,
-    "tech_stack": [
-      "AWS",
-      "Next.js",
-      "Ruby"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyroleinbengaluru.com"
-  },
-  {
-    "id": "4445b92f-ca2e-4afc-878a-7cf540909e05",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-3013",
-    "lat": 12.967070850140148,
-    "lng": 77.54905911733022,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 105,
-    "tech_stack": [
-      "Ruby",
-      "Python",
-      "Go",
-      "PostgreSQL",
-      "Redis",
-      "C++"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "ade1f40a-7735-44d5-989e-5a9048959a4b",
     "name": "Infosys BPM",
     "slug": "infosys-bpm-8905",
@@ -1086,71 +961,6 @@
     "location_name": "Bengaluru Hub",
     "city": "Bengaluru",
     "domain": "cipla.com"
-  },
-  {
-    "id": "f7aba5de-ae30-46c8-a0fc-82486f313e98",
-    "name": "Popular Collections by Industry in Bengaluru",
-    "slug": "popular-collections-by-industry-in-bengaluru-5739",
-    "lat": 13.11654337705396,
-    "lng": 77.62117781378053,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 124,
-    "tech_stack": [
-      "Python",
-      "Rust",
-      "Vue"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyindustryinbengaluru.com"
-  },
-  {
-    "id": "072a066f-2b41-4be0-abc0-71594734236d",
-    "name": "Popular Collections by Role in Bengaluru",
-    "slug": "popular-collections-by-role-in-bengaluru-3085",
-    "lat": 12.924304489767447,
-    "lng": 77.59011009107505,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 36,
-    "tech_stack": [
-      "Docker",
-      "Vue",
-      "PostgreSQL",
-      "React",
-      "PHP"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyroleinbengaluru.com"
-  },
-  {
-    "id": "fe7d5875-9df9-4e43-ab90-10f704725bb5",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-9008",
-    "lat": 13.064036140861072,
-    "lng": 77.58246222682936,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 92,
-    "tech_stack": [
-      "Python",
-      "C++",
-      "Rust",
-      "Swift",
-      "Node.js",
-      "TypeScript"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "32995666-3dc7-4635-85c5-ce0b5a890e74",
@@ -1496,69 +1306,6 @@
     "domain": "lupinepet.com"
   },
   {
-    "id": "2313d048-d872-4733-a130-950180337997",
-    "name": "Popular Collections by Industry in Bengaluru",
-    "slug": "popular-collections-by-industry-in-bengaluru-8793",
-    "lat": 12.936330691354124,
-    "lng": 77.73608687382205,
-    "company_type": "unicorn",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 19,
-    "tech_stack": [
-      "Kubernetes",
-      "Python"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyindustryinbengaluru.com"
-  },
-  {
-    "id": "ef4e4f5e-14d9-4227-b8bd-261807c76ddf",
-    "name": "Popular Collections by Role in Bengaluru",
-    "slug": "popular-collections-by-role-in-bengaluru-2794",
-    "lat": 12.887031799063081,
-    "lng": 77.51140358249572,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 129,
-    "tech_stack": [
-      "Python",
-      "Go",
-      "TypeScript",
-      "Docker"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyroleinbengaluru.com"
-  },
-  {
-    "id": "4cad5412-df69-4b86-893b-cb20f5febb5d",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-5072",
-    "lat": 12.934185183449879,
-    "lng": 77.58311751067362,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 119,
-    "tech_stack": [
-      "Angular",
-      "PHP",
-      "Ruby",
-      "Go",
-      "Vue",
-      "Python"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "39b78500-9617-43a0-9efc-33f087d8cb05",
     "name": "L&T Construction",
     "slug": "lt-construction-2225",
@@ -1881,68 +1628,6 @@
     "domain": "indiamartintermesh.com"
   },
   {
-    "id": "10fa8ff5-56dd-4658-ad3c-3ab9671c6ae9",
-    "name": "Popular Collections by Industry in Bengaluru",
-    "slug": "popular-collections-by-industry-in-bengaluru-2565",
-    "lat": 12.985424060006178,
-    "lng": 77.52261280134965,
-    "company_type": "product",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 121,
-    "tech_stack": [
-      "React",
-      "PHP",
-      "MongoDB",
-      "AWS",
-      "Python"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyindustryinbengaluru.com"
-  },
-  {
-    "id": "b6dd6e32-4c63-436f-9f64-c5d2ed44e72b",
-    "name": "Popular Collections by Role in Bengaluru",
-    "slug": "popular-collections-by-role-in-bengaluru-8686",
-    "lat": 13.096030196511112,
-    "lng": 77.51942793871646,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 123,
-    "tech_stack": [
-      "C++",
-      "Next.js",
-      "Python",
-      "Angular"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyroleinbengaluru.com"
-  },
-  {
-    "id": "8e621724-a48a-4bb6-b96a-587a082dcadc",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-4662",
-    "lat": 12.850543211590653,
-    "lng": 77.67742119536945,
-    "company_type": "product",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 87,
-    "tech_stack": [
-      "PHP",
-      "Kubernetes"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "6524ffa2-047a-417c-8c34-0eb5ecf5c5dc",
     "name": "Virtusa Consulting Services",
     "slug": "virtusa-consulting-services-6199",
@@ -2191,65 +1876,6 @@
     "location_name": "Bengaluru Hub",
     "city": "Bengaluru",
     "domain": "bosch-softwaretechnologies.com"
-  },
-  {
-    "id": "ef9e0c66-9e7b-41bc-b56e-7def08faefdd",
-    "name": "Popular Collections by Industry in Bengaluru",
-    "slug": "popular-collections-by-industry-in-bengaluru-4769",
-    "lat": 13.040897556665998,
-    "lng": 77.58515423321676,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 101,
-    "tech_stack": [
-      "Java",
-      "C++"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyindustryinbengaluru.com"
-  },
-  {
-    "id": "b5a5ab73-b09c-4a66-a884-70bf13164667",
-    "name": "Popular Collections by Role in Bengaluru",
-    "slug": "popular-collections-by-role-in-bengaluru-1146",
-    "lat": 12.882672403683454,
-    "lng": 77.56576681895669,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 37,
-    "tech_stack": [
-      "PostgreSQL",
-      "Rust"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyroleinbengaluru.com"
-  },
-  {
-    "id": "c187443c-1353-4513-8ea7-c46398abd29b",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-7636",
-    "lat": 12.975182884537947,
-    "lng": 77.71346529395288,
-    "company_type": "startup",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 118,
-    "tech_stack": [
-      "Docker",
-      "C++",
-      "Next.js",
-      "Python"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "76f54f60-9995-4337-a409-08e0902d5a45",
@@ -2614,67 +2240,6 @@
     "domain": "kecrpg.com"
   },
   {
-    "id": "950e661b-4387-4ef7-9dfc-d2c98e59f249",
-    "name": "Popular Collections by Industry in Bengaluru",
-    "slug": "popular-collections-by-industry-in-bengaluru-4530",
-    "lat": 13.100927859914412,
-    "lng": 77.45966014303005,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 114,
-    "tech_stack": [
-      "Kubernetes",
-      "Docker"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyindustryinbengaluru.com"
-  },
-  {
-    "id": "3bd53363-5981-42ba-8ef0-febb6dafaf1d",
-    "name": "Popular Collections by Role in Bengaluru",
-    "slug": "popular-collections-by-role-in-bengaluru-2787",
-    "lat": 13.034022006078372,
-    "lng": 77.6996568066171,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 39,
-    "tech_stack": [
-      "Angular",
-      "Rust",
-      "Ruby",
-      "Swift"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyroleinbengaluru.com"
-  },
-  {
-    "id": "11ea7142-773b-4459-8866-48b61e12c40b",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-5505",
-    "lat": 12.840275989966138,
-    "lng": 77.61799824786465,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 77,
-    "tech_stack": [
-      "Redis",
-      "PHP",
-      "React",
-      "Docker"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "c89aaf9f-1be3-4a92-96f8-9dc1e9d4caae",
     "name": "ITC Infotech",
     "slug": "itc-infotech-1602",
@@ -3026,69 +2591,6 @@
     "domain": "hpe.com"
   },
   {
-    "id": "c65c1285-560f-49fd-95de-64fea2dc44a8",
-    "name": "Popular Collections by Industry in Bengaluru",
-    "slug": "popular-collections-by-industry-in-bengaluru-7675",
-    "lat": 12.839219322182599,
-    "lng": 77.69309035341365,
-    "company_type": "unicorn",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 79,
-    "tech_stack": [
-      "Kubernetes",
-      "Go",
-      "Next.js",
-      "TypeScript"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyindustryinbengaluru.com"
-  },
-  {
-    "id": "897b6162-dffe-49ea-96f5-1e45ca7f4a94",
-    "name": "Popular Collections by Role in Bengaluru",
-    "slug": "popular-collections-by-role-in-bengaluru-4535",
-    "lat": 12.92414783542016,
-    "lng": 77.69626396788277,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 118,
-    "tech_stack": [
-      "Go",
-      "C++",
-      "Node.js",
-      "Redis",
-      "MongoDB"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyroleinbengaluru.com"
-  },
-  {
-    "id": "b3550bb6-42e2-4d2c-b7af-db70c1ce35d5",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-9386",
-    "lat": 13.02676456477533,
-    "lng": 77.63943791014906,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 69,
-    "tech_stack": [
-      "Docker",
-      "Node.js",
-      "MongoDB"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "b68c4d46-b8bc-4427-b274-c9a987bf2173",
     "name": "Cars24",
     "slug": "cars24-1386",
@@ -3419,73 +2921,6 @@
     "domain": "statestreetco.com"
   },
   {
-    "id": "d1810132-c1f7-437b-95e6-3b1c4746341b",
-    "name": "Popular Collections by Industry in Bengaluru",
-    "slug": "popular-collections-by-industry-in-bengaluru-4379",
-    "lat": 13.015826119333486,
-    "lng": 77.59335910987643,
-    "company_type": "startup",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 36,
-    "tech_stack": [
-      "Kubernetes",
-      "PHP",
-      "MongoDB",
-      "Java",
-      "Redis",
-      "Rust"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyindustryinbengaluru.com"
-  },
-  {
-    "id": "ee37b694-8e8b-43a0-b32e-1df07ce00ebe",
-    "name": "Popular Collections by Role in Bengaluru",
-    "slug": "popular-collections-by-role-in-bengaluru-7795",
-    "lat": 12.986416876284757,
-    "lng": 77.4621571510768,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 122,
-    "tech_stack": [
-      "PHP",
-      "Kubernetes",
-      "AWS",
-      "React",
-      "Redis",
-      "MongoDB"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyroleinbengaluru.com"
-  },
-  {
-    "id": "627d726a-c1bc-4337-9d3b-93862bab48be",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-8298",
-    "lat": 12.82689332996703,
-    "lng": 77.48271899329656,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 143,
-    "tech_stack": [
-      "Redis",
-      "Angular",
-      "PostgreSQL",
-      "Next.js"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "c51da004-9535-49b0-8f39-4877d9074665",
     "name": "Bajaj Auto",
     "slug": "bajaj-auto-5338",
@@ -3802,71 +3237,6 @@
     "location_name": "Bengaluru Hub",
     "city": "Bengaluru",
     "domain": "pnbmetlife.com"
-  },
-  {
-    "id": "e5b3d81d-e4a7-4501-8e3e-2ac4ac84b0d6",
-    "name": "Popular Collections by Industry in Bengaluru",
-    "slug": "popular-collections-by-industry-in-bengaluru-3833",
-    "lat": 12.932920621628714,
-    "lng": 77.46090583520848,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 106,
-    "tech_stack": [
-      "Java",
-      "C++",
-      "Ruby",
-      "TypeScript",
-      "Python",
-      "MongoDB"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyindustryinbengaluru.com"
-  },
-  {
-    "id": "7afe2f68-b0e9-4a94-ad55-17e628b97e37",
-    "name": "Popular Collections by Role in Bengaluru",
-    "slug": "popular-collections-by-role-in-bengaluru-2518",
-    "lat": 13.018524049712536,
-    "lng": 77.46634805865033,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 130,
-    "tech_stack": [
-      "Kubernetes",
-      "Java",
-      "C++",
-      "Vue"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsbyroleinbengaluru.com"
-  },
-  {
-    "id": "c58cfbaa-92b4-4f07-aef5-70bcafa61a36",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-7018",
-    "lat": 12.862205730031526,
-    "lng": 77.60006116001028,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 22,
-    "tech_stack": [
-      "Angular",
-      "MongoDB",
-      "Swift",
-      "React"
-    ],
-    "location_name": "Bengaluru Hub",
-    "city": "Bengaluru",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "6065bda2-d254-49a5-9524-abcc97df9f15",
@@ -4189,49 +3559,6 @@
     "location_name": "Noida Hub",
     "city": "Noida",
     "domain": "ltmlimited.com"
-  },
-  {
-    "id": "92c3ee4a-3ce0-4b57-9f6e-02565f8c0262",
-    "name": "Popular Collections by Role in Noida",
-    "slug": "popular-collections-by-role-in-noida-1055",
-    "lat": 28.6284386032978,
-    "lng": 77.28383237199154,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 115,
-    "tech_stack": [
-      "Go",
-      "React",
-      "Rust",
-      "Vue"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsbyroleinnoida.com"
-  },
-  {
-    "id": "4e03373d-c981-4fed-bd66-aa24690b256c",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-8186",
-    "lat": 28.670968239746937,
-    "lng": 77.28497010574712,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 145,
-    "tech_stack": [
-      "Node.js",
-      "Java",
-      "Redis",
-      "Kubernetes",
-      "Python"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "77273bbb-2882-484e-9268-71b4604c781c",
@@ -4570,48 +3897,6 @@
     "domain": "mahindra.com"
   },
   {
-    "id": "14f439ee-691e-41d1-9228-b083ed663d89",
-    "name": "Popular Collections by Role in Noida",
-    "slug": "popular-collections-by-role-in-noida-4840",
-    "lat": 28.447391681109153,
-    "lng": 77.50330298881167,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 47,
-    "tech_stack": [
-      "Go",
-      "Swift"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsbyroleinnoida.com"
-  },
-  {
-    "id": "f9faf1c3-d180-455c-aeb3-ff24d60eecae",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-9181",
-    "lat": 28.66614630232666,
-    "lng": 77.26319064495168,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 93,
-    "tech_stack": [
-      "Vue",
-      "Angular",
-      "PostgreSQL",
-      "Docker",
-      "C++",
-      "Ruby"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "39689469-5d4f-4c41-8d73-9baf4887f4b5",
     "name": "Infosys BPM",
     "slug": "infosys-bpm-5187",
@@ -4933,49 +4218,6 @@
     "location_name": "Noida Hub",
     "city": "Noida",
     "domain": "cipla.com"
-  },
-  {
-    "id": "f8b6fe29-7561-463d-b7b9-88b17ab43295",
-    "name": "Popular Collections by Role in Noida",
-    "slug": "popular-collections-by-role-in-noida-5348",
-    "lat": 28.5834588074219,
-    "lng": 77.53605953689082,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 53,
-    "tech_stack": [
-      "Node.js",
-      "React",
-      "Next.js",
-      "AWS",
-      "C++",
-      "Kubernetes"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsbyroleinnoida.com"
-  },
-  {
-    "id": "0ec0bb5e-79ca-4aa0-ae15-a310f466d767",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-2054",
-    "lat": 28.5497843665433,
-    "lng": 77.35540922425736,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 94,
-    "tech_stack": [
-      "MongoDB",
-      "Ruby",
-      "Java"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "dd26b44b-5202-480f-98e0-db8979ecfe6b",
@@ -5322,52 +4564,6 @@
     "domain": "lupinepet.com"
   },
   {
-    "id": "3ba217c5-9e01-4d1b-a57a-ac0220f87f71",
-    "name": "Popular Collections by Role in Noida",
-    "slug": "popular-collections-by-role-in-noida-8615",
-    "lat": 28.541035438757028,
-    "lng": 77.39575235857554,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 143,
-    "tech_stack": [
-      "PHP",
-      "Next.js",
-      "Go",
-      "Java",
-      "Node.js",
-      "Kubernetes"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsbyroleinnoida.com"
-  },
-  {
-    "id": "571ec410-5ece-4cf8-8389-f2416531f9e3",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-7977",
-    "lat": 28.44455766173327,
-    "lng": 77.35139448927629,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 85,
-    "tech_stack": [
-      "Python",
-      "C++",
-      "Vue",
-      "Rust",
-      "Go",
-      "Next.js"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "256dfac8-931d-48ea-adf8-e0b1c504dc24",
     "name": "L&T Construction",
     "slug": "lt-construction-5410",
@@ -5682,47 +4878,6 @@
     "domain": "indiamartintermesh.com"
   },
   {
-    "id": "b82d0843-fff5-409a-bef7-fbae3cadb582",
-    "name": "Popular Collections by Role in Noida",
-    "slug": "popular-collections-by-role-in-noida-7582",
-    "lat": 28.606636892062966,
-    "lng": 77.39754111552796,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 13,
-    "tech_stack": [
-      "Swift",
-      "Rust",
-      "Node.js"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsbyroleinnoida.com"
-  },
-  {
-    "id": "0ee5e502-0e0c-4cfa-934b-814f221c4221",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-1404",
-    "lat": 28.56929194009988,
-    "lng": 77.44999628539613,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 115,
-    "tech_stack": [
-      "Rust",
-      "Docker",
-      "Ruby",
-      "TypeScript"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "72203e4b-d131-462a-b6e2-c3a383f450b8",
     "name": "Virtusa Consulting Services",
     "slug": "virtusa-consulting-services-1573",
@@ -5976,46 +5131,6 @@
     "location_name": "Noida Hub",
     "city": "Noida",
     "domain": "udaancapital.com"
-  },
-  {
-    "id": "8e74b7c1-9728-41e5-83f8-e98450a12d7c",
-    "name": "Popular Collections by Role in Noida",
-    "slug": "popular-collections-by-role-in-noida-1392",
-    "lat": 28.530795007365434,
-    "lng": 77.33676811100278,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 46,
-    "tech_stack": [
-      "Angular",
-      "C++",
-      "React",
-      "PostgreSQL"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsbyroleinnoida.com"
-  },
-  {
-    "id": "b1dcb923-83e9-44a2-9d66-52c04a4e5f5b",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-2757",
-    "lat": 28.64054792492861,
-    "lng": 77.52503713693733,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 20,
-    "tech_stack": [
-      "Kubernetes",
-      "Java"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "635d62ae-1728-45c5-8a98-6afdef30762e",
@@ -6373,50 +5488,6 @@
     "domain": "itcinfotech.com"
   },
   {
-    "id": "5ac4c3b9-1f38-414b-ae4a-e489236be6ae",
-    "name": "Popular Collections by Role in Noida",
-    "slug": "popular-collections-by-role-in-noida-1394",
-    "lat": 28.62680292079227,
-    "lng": 77.35791318524352,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 37,
-    "tech_stack": [
-      "Node.js",
-      "Angular",
-      "MongoDB",
-      "Ruby"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsbyroleinnoida.com"
-  },
-  {
-    "id": "03150e9f-57cc-4110-9e20-1b20c4df4a8c",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-3363",
-    "lat": 28.60855770194907,
-    "lng": 77.39914656839144,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 58,
-    "tech_stack": [
-      "PostgreSQL",
-      "Angular",
-      "MongoDB",
-      "Docker",
-      "Swift",
-      "React"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "3c3c05fe-003e-498f-8b2e-64f846619b61",
     "name": "Atos",
     "slug": "atos-5050",
@@ -6741,51 +5812,6 @@
     "location_name": "Noida Hub",
     "city": "Noida",
     "domain": "adityabirlafashionandretail.com"
-  },
-  {
-    "id": "14ed52fe-3a3e-4d6d-a473-bc8ef71470f7",
-    "name": "Popular Collections by Role in Noida",
-    "slug": "popular-collections-by-role-in-noida-2193",
-    "lat": 28.604061754198042,
-    "lng": 77.35187885830864,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 103,
-    "tech_stack": [
-      "Docker",
-      "Swift",
-      "Ruby",
-      "Kubernetes",
-      "TypeScript",
-      "PHP"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsbyroleinnoida.com"
-  },
-  {
-    "id": "7063f692-3062-47f5-8c53-cf7a03d24b3e",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-2923",
-    "lat": 28.488191625878436,
-    "lng": 77.28067141016749,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 36,
-    "tech_stack": [
-      "Ruby",
-      "Go",
-      "Angular",
-      "TypeScript",
-      "Vue"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "f26c927b-8704-4369-ab37-72d9ddfbbf3c",
@@ -7146,47 +6172,6 @@
     "domain": "hindalco.com"
   },
   {
-    "id": "7948ad29-9cdb-4411-9cb2-2241ff6cee71",
-    "name": "Popular Collections by Role in Noida",
-    "slug": "popular-collections-by-role-in-noida-1645",
-    "lat": 28.489766218836426,
-    "lng": 77.2550304423404,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 136,
-    "tech_stack": [
-      "Vue",
-      "Redis",
-      "Ruby",
-      "C++",
-      "Go"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsbyroleinnoida.com"
-  },
-  {
-    "id": "4226e4a1-daea-443d-9ec5-4f0e3463f85a",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-2161",
-    "lat": 28.50269965940325,
-    "lng": 77.30704049334553,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 79,
-    "tech_stack": [
-      "Rust",
-      "Swift"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "3e36f315-93d7-4909-8896-a513f8455ca1",
     "name": "LG Electronics",
     "slug": "lg-electronics-4217",
@@ -7476,48 +6461,6 @@
     "location_name": "Noida Hub",
     "city": "Noida",
     "domain": "pnbmetlife.com"
-  },
-  {
-    "id": "e303b9fd-68ad-4970-80c9-c07c48387183",
-    "name": "Popular Collections by Role in Noida",
-    "slug": "popular-collections-by-role-in-noida-6874",
-    "lat": 28.480138287975212,
-    "lng": 77.42041556631409,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 58,
-    "tech_stack": [
-      "TypeScript",
-      "AWS"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsbyroleinnoida.com"
-  },
-  {
-    "id": "d5c6ff6f-62d6-4b84-ad1d-8f930fb73992",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-5617",
-    "lat": 28.505441992113116,
-    "lng": 77.32102070899572,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 56,
-    "tech_stack": [
-      "Go",
-      "Python",
-      "Redis",
-      "Swift",
-      "Vue",
-      "PHP"
-    ],
-    "location_name": "Noida Hub",
-    "city": "Noida",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "23461f07-cb6e-41c6-b5a8-616afca21aea",
@@ -7835,69 +6778,6 @@
     "location_name": "Hyderabad Hub",
     "city": "Hyderabad",
     "domain": "ltmlimited.com"
-  },
-  {
-    "id": "084d44e2-18df-422d-bd08-6a41c7c868d0",
-    "name": "Popular Collections by Industry in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-industry-in-hyderabad-secunderabad-4998",
-    "lat": 17.29475614003102,
-    "lng": 78.42376994323496,
-    "company_type": "unicorn",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 4,
-    "tech_stack": [
-      "Docker",
-      "Java",
-      "C++",
-      "Redis",
-      "Rust"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyindustryinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "dd298c19-ce5a-4207-a77f-4e40d581f60f",
-    "name": "Popular Collections by Role in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-role-in-hyderabad-secunderabad-4249",
-    "lat": 17.32927010463007,
-    "lng": 78.3805025030899,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 119,
-    "tech_stack": [
-      "Python",
-      "AWS",
-      "Ruby",
-      "Java",
-      "Docker"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyroleinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "d6ae86cb-fc95-4a36-9735-4754f32cb88e",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-5832",
-    "lat": 17.321696980479558,
-    "lng": 78.51223651236351,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 52,
-    "tech_stack": [
-      "Ruby",
-      "Java"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "1747cb1c-336f-49c8-9354-d004c05f8535",
@@ -8224,68 +7104,6 @@
     "domain": "mahindra.com"
   },
   {
-    "id": "ca610585-8544-45b3-8391-53f22ef34d30",
-    "name": "Popular Collections by Industry in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-industry-in-hyderabad-secunderabad-9296",
-    "lat": 17.25279715629107,
-    "lng": 78.4421785292946,
-    "company_type": "unicorn",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 94,
-    "tech_stack": [
-      "Docker",
-      "Swift",
-      "Vue"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyindustryinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "944787d3-b74e-42b2-891b-2e48d4916530",
-    "name": "Popular Collections by Role in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-role-in-hyderabad-secunderabad-5237",
-    "lat": 17.42140484946586,
-    "lng": 78.49093839532145,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 143,
-    "tech_stack": [
-      "Kubernetes",
-      "MongoDB",
-      "Ruby",
-      "Redis",
-      "Vue",
-      "Swift"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyroleinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "c7b09e8a-03b4-4049-b5bb-ee983ab02004",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-1042",
-    "lat": 17.263029037523484,
-    "lng": 78.45183445631329,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 100,
-    "tech_stack": [
-      "Node.js",
-      "MongoDB"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "e69f1d21-8370-4e0d-9fac-a134d9c6b533",
     "name": "Infosys BPM",
     "slug": "infosys-bpm-9686",
@@ -8596,64 +7414,6 @@
     "location_name": "Hyderabad Hub",
     "city": "Hyderabad",
     "domain": "cipla.com"
-  },
-  {
-    "id": "d82a1872-9b22-4636-8c47-f68bfa4eb19f",
-    "name": "Popular Collections by Industry in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-industry-in-hyderabad-secunderabad-4491",
-    "lat": 17.373104843153712,
-    "lng": 78.35660206058681,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 56,
-    "tech_stack": [
-      "Node.js",
-      "PHP",
-      "PostgreSQL"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyindustryinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "6fa1f6fc-6e68-42bf-89d5-70c72ff950df",
-    "name": "Popular Collections by Role in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-role-in-hyderabad-secunderabad-4279",
-    "lat": 17.43552385049135,
-    "lng": 78.36724400140878,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 9,
-    "tech_stack": [
-      "Python",
-      "React"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyroleinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "b2dbae10-c4e3-4f10-9d6a-cad532333eef",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-1921",
-    "lat": 17.29164234276904,
-    "lng": 78.61834596648809,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 40,
-    "tech_stack": [
-      "AWS",
-      "Java"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "a11ff937-823c-4dc5-8bc9-d0eb72a63f0c",
@@ -8996,70 +7756,6 @@
     "domain": "lupinepet.com"
   },
   {
-    "id": "3b86c000-a782-4d15-9296-57f5de6ffcd5",
-    "name": "Popular Collections by Industry in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-industry-in-hyderabad-secunderabad-5944",
-    "lat": 17.49165927664632,
-    "lng": 78.61232982581565,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 13,
-    "tech_stack": [
-      "Next.js",
-      "Python",
-      "React",
-      "Node.js",
-      "Go",
-      "Docker"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyindustryinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "f02cb9ac-f6b6-44df-a806-d7c202edd19f",
-    "name": "Popular Collections by Role in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-role-in-hyderabad-secunderabad-6748",
-    "lat": 17.435683397002023,
-    "lng": 78.49218647341478,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 137,
-    "tech_stack": [
-      "Rust",
-      "MongoDB",
-      "Ruby",
-      "Go"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyroleinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "ee631673-cc9d-490e-a23b-b4d305b14b1c",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-3170",
-    "lat": 17.387872033118985,
-    "lng": 78.35259971550377,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 94,
-    "tech_stack": [
-      "Redis",
-      "React",
-      "PostgreSQL"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "ce6caa52-4718-4693-8924-739bb566f671",
     "name": "L&T Construction",
     "slug": "lt-construction-3019",
@@ -9377,69 +8073,6 @@
     "domain": "indiamartintermesh.com"
   },
   {
-    "id": "4a832ad3-c711-4106-aee2-70bad4e1f9ab",
-    "name": "Popular Collections by Industry in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-industry-in-hyderabad-secunderabad-9303",
-    "lat": 17.27541840077289,
-    "lng": 78.43626062941586,
-    "company_type": "product",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 51,
-    "tech_stack": [
-      "MongoDB",
-      "Swift",
-      "AWS"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyindustryinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "26ede0d5-8e8b-4b00-a7ca-14716495de39",
-    "name": "Popular Collections by Role in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-role-in-hyderabad-secunderabad-4840",
-    "lat": 17.33194168127238,
-    "lng": 78.42638899723505,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 57,
-    "tech_stack": [
-      "MongoDB",
-      "Redis",
-      "React"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyroleinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "bdd06d76-5203-42e4-989e-d8107b306d9c",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-5191",
-    "lat": 17.387219788738214,
-    "lng": 78.56656760447211,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 76,
-    "tech_stack": [
-      "Docker",
-      "Node.js",
-      "Ruby",
-      "C++",
-      "Python",
-      "Vue"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "643a7710-6f4d-4dcb-8a38-52e67e7b6fef",
     "name": "Virtusa Consulting Services",
     "slug": "virtusa-consulting-services-1483",
@@ -9683,69 +8316,6 @@
     "location_name": "Hyderabad Hub",
     "city": "Hyderabad",
     "domain": "bosch-softwaretechnologies.com"
-  },
-  {
-    "id": "ec3a849b-950f-4b55-8a4a-56652c58e3da",
-    "name": "Popular Collections by Industry in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-industry-in-hyderabad-secunderabad-4954",
-    "lat": 17.26856077837596,
-    "lng": 78.38710439522187,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 85,
-    "tech_stack": [
-      "Python",
-      "Go",
-      "Redis",
-      "Docker"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyindustryinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "977b85bc-22e2-46c1-bfee-a1e3b9598e04",
-    "name": "Popular Collections by Role in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-role-in-hyderabad-secunderabad-1382",
-    "lat": 17.50572460191053,
-    "lng": 78.47808775906844,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 73,
-    "tech_stack": [
-      "C++",
-      "TypeScript"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyroleinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "6bb3e562-96c7-4fe8-b4a0-ca1628ecfac1",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-9031",
-    "lat": 17.466427452479635,
-    "lng": 78.44433014366948,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 79,
-    "tech_stack": [
-      "Rust",
-      "Python",
-      "MongoDB",
-      "Angular",
-      "Go",
-      "AWS"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "26a129c8-5d8d-4844-b42c-0a56643d8b1e",
@@ -10102,71 +8672,6 @@
     "domain": "kecrpg.com"
   },
   {
-    "id": "03722568-b591-4ed3-81f0-a3483504585a",
-    "name": "Popular Collections by Industry in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-industry-in-hyderabad-secunderabad-8350",
-    "lat": 17.440893600592098,
-    "lng": 78.53558068817426,
-    "company_type": "product",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 41,
-    "tech_stack": [
-      "Vue",
-      "Rust",
-      "AWS",
-      "Python",
-      "Next.js"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyindustryinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "5101e59a-c575-4c34-b406-b298d4df2f4c",
-    "name": "Popular Collections by Role in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-role-in-hyderabad-secunderabad-3966",
-    "lat": 17.44923692011653,
-    "lng": 78.50068220342115,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 51,
-    "tech_stack": [
-      "Docker",
-      "PostgreSQL",
-      "Node.js",
-      "Swift"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyroleinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "1f03abc2-7d00-4f1f-aca7-40f4f98f62b4",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-5607",
-    "lat": 17.475938727579212,
-    "lng": 78.44147738501168,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 24,
-    "tech_stack": [
-      "Kubernetes",
-      "Ruby",
-      "Node.js",
-      "AWS",
-      "Next.js"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "0fd1b42c-12c1-4ffd-b7ce-7fbeb060ef81",
     "name": "ITC Infotech",
     "slug": "itc-infotech-6347",
@@ -10517,72 +9022,6 @@
     "domain": "hpe.com"
   },
   {
-    "id": "0eb50c56-f727-41e9-8d97-42f22776f68c",
-    "name": "Popular Collections by Industry in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-industry-in-hyderabad-secunderabad-7787",
-    "lat": 17.368695622497718,
-    "lng": 78.43694467570546,
-    "company_type": "startup",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 7,
-    "tech_stack": [
-      "Swift",
-      "Java",
-      "Node.js",
-      "C++",
-      "Vue"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyindustryinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "09d6bfc3-0806-44cd-a212-f3aefd4c03ee",
-    "name": "Popular Collections by Role in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-role-in-hyderabad-secunderabad-1171",
-    "lat": 17.383365296463264,
-    "lng": 78.59049111287645,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 72,
-    "tech_stack": [
-      "Vue",
-      "Kubernetes",
-      "Swift",
-      "Rust",
-      "Ruby"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyroleinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "084ca84a-22e5-4878-a56a-a00da588183f",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-9624",
-    "lat": 17.346917242380556,
-    "lng": 78.55626904402345,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 139,
-    "tech_stack": [
-      "PostgreSQL",
-      "MongoDB",
-      "Rust",
-      "C++",
-      "Java"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "934eb598-d592-4326-821c-08e7a74f1744",
     "name": "Cars24",
     "slug": "cars24-6033",
@@ -10917,71 +9356,6 @@
     "domain": "statestreetco.com"
   },
   {
-    "id": "c5dcb45e-f764-4a65-a872-9f8a4cf374b5",
-    "name": "Popular Collections by Industry in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-industry-in-hyderabad-secunderabad-3424",
-    "lat": 17.50139540946795,
-    "lng": 78.38947226184003,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 71,
-    "tech_stack": [
-      "Swift",
-      "Kubernetes",
-      "MongoDB",
-      "Redis",
-      "AWS"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyindustryinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "6f0cae1e-4286-43cb-8a3a-84c0360886ee",
-    "name": "Popular Collections by Role in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-role-in-hyderabad-secunderabad-6960",
-    "lat": 17.28927406717801,
-    "lng": 78.49880664199257,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 17,
-    "tech_stack": [
-      "PostgreSQL",
-      "TypeScript",
-      "Ruby",
-      "Next.js",
-      "Redis",
-      "Docker"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyroleinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "1f9129af-6599-443a-9536-9e5c456e2563",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-5304",
-    "lat": 17.357354679734527,
-    "lng": 78.49216514619044,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 63,
-    "tech_stack": [
-      "Kubernetes",
-      "Angular",
-      "Go"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "0e0de12b-6264-4512-b499-402d2c6cbf0a",
     "name": "Bajaj Auto",
     "slug": "bajaj-auto-2770",
@@ -11289,72 +9663,6 @@
     "location_name": "Hyderabad Hub",
     "city": "Hyderabad",
     "domain": "pnbmetlife.com"
-  },
-  {
-    "id": "d04da02e-6603-45ec-8ab8-776b68b45cd7",
-    "name": "Popular Collections by Industry in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-industry-in-hyderabad-secunderabad-6347",
-    "lat": 17.28951150472781,
-    "lng": 78.57406267760983,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 92,
-    "tech_stack": [
-      "Next.js",
-      "React",
-      "Angular"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyindustryinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "22a50c97-1dfa-42cb-9794-c2122fc5f0b3",
-    "name": "Popular Collections by Role in Hyderabad / Secunderabad",
-    "slug": "popular-collections-by-role-in-hyderabad-secunderabad-6371",
-    "lat": 17.40506673787032,
-    "lng": 78.58826901063277,
-    "company_type": "unicorn",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 82,
-    "tech_stack": [
-      "MongoDB",
-      "Ruby",
-      "Rust",
-      "Next.js",
-      "Python",
-      "Vue"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsbyroleinhyderabadsecunderabad.com"
-  },
-  {
-    "id": "15eea58e-ac98-4c8a-87e7-1b2dd36935bb",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-4747",
-    "lat": 17.241324981924446,
-    "lng": 78.46977807030564,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 62,
-    "tech_stack": [
-      "Angular",
-      "C++",
-      "PostgreSQL",
-      "Python",
-      "Swift",
-      "Go"
-    ],
-    "location_name": "Hyderabad Hub",
-    "city": "Hyderabad",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "2a0e7540-bcc2-4109-a175-9765a6c13ec7",
@@ -11673,68 +9981,6 @@
     "location_name": "Pune Hub",
     "city": "Pune",
     "domain": "ltmlimited.com"
-  },
-  {
-    "id": "054e9204-a51e-455d-960f-2d7f5213c9cc",
-    "name": "Popular Collections by Industry in Pune",
-    "slug": "popular-collections-by-industry-in-pune-2442",
-    "lat": 18.53730626929223,
-    "lng": 73.97429479565874,
-    "company_type": "unicorn",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 129,
-    "tech_stack": [
-      "Python",
-      "TypeScript",
-      "Next.js",
-      "Rust",
-      "Angular",
-      "MongoDB"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyindustryinpune.com"
-  },
-  {
-    "id": "eeec0636-0e40-4b7f-bfa0-682da634d03d",
-    "name": "Popular Collections by Role in Pune",
-    "slug": "popular-collections-by-role-in-pune-6001",
-    "lat": 18.604765787376426,
-    "lng": 73.80255300481629,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 122,
-    "tech_stack": [
-      "C++",
-      "TypeScript"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyroleinpune.com"
-  },
-  {
-    "id": "67c51570-6769-4e25-801b-5ae809ac6343",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-3861",
-    "lat": 18.579668330237805,
-    "lng": 73.74516209456463,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 145,
-    "tech_stack": [
-      "Ruby",
-      "PHP",
-      "Kubernetes"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "67643b44-5936-4ae3-93d3-b16f13f8d26b",
@@ -12071,68 +10317,6 @@
     "domain": "mahindra.com"
   },
   {
-    "id": "4ed735fe-64b1-4b14-838d-0ef7818c70c2",
-    "name": "Popular Collections by Industry in Pune",
-    "slug": "popular-collections-by-industry-in-pune-3603",
-    "lat": 18.539871451908443,
-    "lng": 73.79403438155575,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 47,
-    "tech_stack": [
-      "PostgreSQL",
-      "Docker"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyindustryinpune.com"
-  },
-  {
-    "id": "b43f3036-8644-45c2-8497-cf233fec4d30",
-    "name": "Popular Collections by Role in Pune",
-    "slug": "popular-collections-by-role-in-pune-6191",
-    "lat": 18.58406925046989,
-    "lng": 73.92712669706503,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 26,
-    "tech_stack": [
-      "Java",
-      "Node.js",
-      "MongoDB",
-      "React",
-      "C++"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyroleinpune.com"
-  },
-  {
-    "id": "0b7ddb80-8622-4d1b-9b8b-649f2752cf11",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-6044",
-    "lat": 18.55334604231241,
-    "lng": 73.9993780785338,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 118,
-    "tech_stack": [
-      "MongoDB",
-      "AWS",
-      "Vue",
-      "Rust"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "41c867be-b79f-4b61-9c1d-4a1660446772",
     "name": "Infosys BPM",
     "slug": "infosys-bpm-5023",
@@ -12443,70 +10627,6 @@
     "location_name": "Pune Hub",
     "city": "Pune",
     "domain": "cipla.com"
-  },
-  {
-    "id": "a90ad48e-e10f-42d5-83b8-f2c3eb0fcb45",
-    "name": "Popular Collections by Industry in Pune",
-    "slug": "popular-collections-by-industry-in-pune-9362",
-    "lat": 18.5552817922063,
-    "lng": 73.71326374017923,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 54,
-    "tech_stack": [
-      "Kubernetes",
-      "Python",
-      "Ruby",
-      "MongoDB"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyindustryinpune.com"
-  },
-  {
-    "id": "55be720a-54e2-4754-86b0-e7b937fe47a2",
-    "name": "Popular Collections by Role in Pune",
-    "slug": "popular-collections-by-role-in-pune-8070",
-    "lat": 18.538645694573393,
-    "lng": 73.74638575182931,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 6,
-    "tech_stack": [
-      "Next.js",
-      "Angular",
-      "Rust",
-      "C++"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyroleinpune.com"
-  },
-  {
-    "id": "5624b324-124a-4451-b19d-e5e823c981ec",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-9775",
-    "lat": 18.648762887612655,
-    "lng": 73.76872835625382,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 144,
-    "tech_stack": [
-      "PostgreSQL",
-      "Vue",
-      "MongoDB",
-      "Rust",
-      "Node.js"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "ff9db761-8f9c-4528-83b7-c7903982293f",
@@ -12847,69 +10967,6 @@
     "domain": "lupinepet.com"
   },
   {
-    "id": "89a7f16f-3ec5-4299-8c42-156df0dac68f",
-    "name": "Popular Collections by Industry in Pune",
-    "slug": "popular-collections-by-industry-in-pune-7205",
-    "lat": 18.653907030758663,
-    "lng": 73.74659072183653,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 6,
-    "tech_stack": [
-      "TypeScript",
-      "React",
-      "Swift",
-      "PostgreSQL",
-      "AWS"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyindustryinpune.com"
-  },
-  {
-    "id": "7b8aa5c3-7b89-4036-939d-7b6b015d55ce",
-    "name": "Popular Collections by Role in Pune",
-    "slug": "popular-collections-by-role-in-pune-4285",
-    "lat": 18.617932275168414,
-    "lng": 73.74143484155277,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 86,
-    "tech_stack": [
-      "MongoDB",
-      "C++",
-      "Rust",
-      "Redis"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyroleinpune.com"
-  },
-  {
-    "id": "ed0b2c4c-b3f4-4cee-9969-393a29d58ec0",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-4282",
-    "lat": 18.4294230429793,
-    "lng": 73.72040618814206,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 146,
-    "tech_stack": [
-      "TypeScript",
-      "Vue",
-      "PHP"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "25058d9d-8605-4023-996a-a42d37a8b891",
     "name": "L&T Construction",
     "slug": "lt-construction-3828",
@@ -13222,63 +11279,6 @@
     "domain": "indiamartintermesh.com"
   },
   {
-    "id": "baea504f-ac1c-44c8-8fdc-f00ce2ca2f1d",
-    "name": "Popular Collections by Industry in Pune",
-    "slug": "popular-collections-by-industry-in-pune-9752",
-    "lat": 18.61532148031272,
-    "lng": 73.87915271194126,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 64,
-    "tech_stack": [
-      "Rust",
-      "Python"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyindustryinpune.com"
-  },
-  {
-    "id": "40579ea5-0237-4b03-9957-f916795dfedf",
-    "name": "Popular Collections by Role in Pune",
-    "slug": "popular-collections-by-role-in-pune-2569",
-    "lat": 18.612109200202415,
-    "lng": 73.79188561372582,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 131,
-    "tech_stack": [
-      "Node.js",
-      "Ruby"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyroleinpune.com"
-  },
-  {
-    "id": "2f0ce947-c820-48a9-a235-ff850cfc3d7a",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-8833",
-    "lat": 18.544405795283517,
-    "lng": 73.77612599863802,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 148,
-    "tech_stack": [
-      "MongoDB",
-      "AWS"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "7f8bd5f9-7a7a-4123-b4b5-93e9c97540cb",
     "name": "Virtusa Consulting Services",
     "slug": "virtusa-consulting-services-6727",
@@ -13530,74 +11530,6 @@
     "location_name": "Pune Hub",
     "city": "Pune",
     "domain": "bosch-softwaretechnologies.com"
-  },
-  {
-    "id": "f89b76af-9f8e-47f6-90a9-29e66f1a5848",
-    "name": "Popular Collections by Industry in Pune",
-    "slug": "popular-collections-by-industry-in-pune-7225",
-    "lat": 18.57262177337281,
-    "lng": 73.76807558316754,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 9,
-    "tech_stack": [
-      "Ruby",
-      "Redis",
-      "Next.js",
-      "Docker",
-      "MongoDB"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyindustryinpune.com"
-  },
-  {
-    "id": "6bc26d3f-a36b-4e58-a429-444e99ab0f97",
-    "name": "Popular Collections by Role in Pune",
-    "slug": "popular-collections-by-role-in-pune-3699",
-    "lat": 18.510783088370243,
-    "lng": 73.81775663305181,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 7,
-    "tech_stack": [
-      "Node.js",
-      "Go",
-      "Vue",
-      "Docker",
-      "Java",
-      "AWS"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyroleinpune.com"
-  },
-  {
-    "id": "dac59bba-9047-46dd-b172-f175dd3dc8a1",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-2399",
-    "lat": 18.48882360094497,
-    "lng": 73.76419553438144,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 132,
-    "tech_stack": [
-      "AWS",
-      "Node.js",
-      "React",
-      "Angular",
-      "Swift",
-      "Java"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "ba725041-8ae8-4cdf-8402-4e1c79eaceed",
@@ -13958,66 +11890,6 @@
     "location_name": "Pune Hub",
     "city": "Pune",
     "domain": "kecrpg.com"
-  },
-  {
-    "id": "58e526c1-7f1c-4fdb-9b68-8c91708bc567",
-    "name": "Popular Collections by Industry in Pune",
-    "slug": "popular-collections-by-industry-in-pune-6139",
-    "lat": 18.472672820537948,
-    "lng": 73.79859449525307,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 140,
-    "tech_stack": [
-      "TypeScript",
-      "Python",
-      "C++",
-      "Java"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyindustryinpune.com"
-  },
-  {
-    "id": "42d54113-ab47-400a-9726-a8b19c7adbc3",
-    "name": "Popular Collections by Role in Pune",
-    "slug": "popular-collections-by-role-in-pune-6407",
-    "lat": 18.524393527431794,
-    "lng": 73.83359213482251,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 150,
-    "tech_stack": [
-      "React",
-      "MongoDB",
-      "Node.js"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyroleinpune.com"
-  },
-  {
-    "id": "31cb1558-a686-4e81-87f8-38af457b5ce1",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-4231",
-    "lat": 18.660179308064436,
-    "lng": 73.84013164555687,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 49,
-    "tech_stack": [
-      "PHP",
-      "Kubernetes"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "4decca6d-9104-467a-9243-68bbded67c76",
@@ -14385,69 +12257,6 @@
     "domain": "hpe.com"
   },
   {
-    "id": "bffd9a23-0d5d-4a3b-a640-4763b7819b67",
-    "name": "Popular Collections by Industry in Pune",
-    "slug": "popular-collections-by-industry-in-pune-6780",
-    "lat": 18.517953870295603,
-    "lng": 74.0044653803689,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 83,
-    "tech_stack": [
-      "Next.js",
-      "Vue"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyindustryinpune.com"
-  },
-  {
-    "id": "270505c9-4ca3-40b2-8aba-d9522eb68269",
-    "name": "Popular Collections by Role in Pune",
-    "slug": "popular-collections-by-role-in-pune-1785",
-    "lat": 18.622425010303232,
-    "lng": 73.85633726713657,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 86,
-    "tech_stack": [
-      "Next.js",
-      "Swift",
-      "Python",
-      "Ruby",
-      "Kubernetes"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyroleinpune.com"
-  },
-  {
-    "id": "13e8f05d-d38c-464d-b3b3-59fb19aa54b8",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-4173",
-    "lat": 18.619148913059902,
-    "lng": 73.82840705640854,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 117,
-    "tech_stack": [
-      "Java",
-      "TypeScript",
-      "React",
-      "PHP",
-      "Swift"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "b4d93536-b385-4841-852a-eff54033230b",
     "name": "Cars24",
     "slug": "cars24-5864",
@@ -14786,66 +12595,6 @@
     "domain": "statestreetco.com"
   },
   {
-    "id": "758cfb70-77f8-46a3-9099-742905a25b57",
-    "name": "Popular Collections by Industry in Pune",
-    "slug": "popular-collections-by-industry-in-pune-2268",
-    "lat": 18.535353864686375,
-    "lng": 73.95086771052392,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 88,
-    "tech_stack": [
-      "TypeScript",
-      "Swift",
-      "Docker",
-      "MongoDB"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyindustryinpune.com"
-  },
-  {
-    "id": "ef33b44b-35a2-49a4-913e-04105e869537",
-    "name": "Popular Collections by Role in Pune",
-    "slug": "popular-collections-by-role-in-pune-1293",
-    "lat": 18.53374557457498,
-    "lng": 73.94260132611541,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 144,
-    "tech_stack": [
-      "TypeScript",
-      "PHP",
-      "Node.js"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyroleinpune.com"
-  },
-  {
-    "id": "574465ce-0456-41b1-a77a-839fdcd8f860",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-8783",
-    "lat": 18.410721064202264,
-    "lng": 73.98683354003434,
-    "company_type": "startup",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 99,
-    "tech_stack": [
-      "Angular",
-      "Vue"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "494ecc2d-9ab8-45e8-9583-b086d2d7b73b",
     "name": "Bajaj Auto",
     "slug": "bajaj-auto-3882",
@@ -15128,69 +12877,6 @@
     "location_name": "Pune Hub",
     "city": "Pune",
     "domain": "americanexpress.com"
-  },
-  {
-    "id": "155ac340-d68b-40be-a38a-7089568028c5",
-    "name": "Popular Collections by Industry in Pune",
-    "slug": "popular-collections-by-industry-in-pune-1795",
-    "lat": 18.588716192616417,
-    "lng": 73.93537769677593,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 71,
-    "tech_stack": [
-      "PostgreSQL",
-      "Swift",
-      "Go",
-      "Angular",
-      "Java",
-      "Rust"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyindustryinpune.com"
-  },
-  {
-    "id": "fdbde702-ef31-46d5-b14e-a31e5db32c5c",
-    "name": "Popular Collections by Role in Pune",
-    "slug": "popular-collections-by-role-in-pune-6057",
-    "lat": 18.493344609821538,
-    "lng": 73.71484325855424,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 0,
-    "tech_stack": [
-      "MongoDB",
-      "Vue",
-      "React",
-      "Swift"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsbyroleinpune.com"
-  },
-  {
-    "id": "dafa19f3-6fa3-4465-a24a-c77cde5fc446",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-3004",
-    "lat": 18.604961913906912,
-    "lng": 73.8020569467105,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 82,
-    "tech_stack": [
-      "Docker",
-      "MongoDB"
-    ],
-    "location_name": "Pune Hub",
-    "city": "Pune",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "b56ef928-0564-42d9-88df-7a3d2ba0d217",
@@ -15507,71 +13193,6 @@
     "location_name": "Gurugram Hub",
     "city": "Gurugram",
     "domain": "ltmlimited.com"
-  },
-  {
-    "id": "05133094-4464-430d-a1f1-7af0a1d2cea2",
-    "name": "Popular Collections by Industry in Gurugram",
-    "slug": "popular-collections-by-industry-in-gurugram-2473",
-    "lat": 28.360481542383084,
-    "lng": 77.17604093725974,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 10,
-    "tech_stack": [
-      "Kubernetes",
-      "Ruby",
-      "Rust",
-      "TypeScript",
-      "Java"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyindustryingurugram.com"
-  },
-  {
-    "id": "68f1f804-b233-413d-92fe-269ef975c04a",
-    "name": "Popular Collections by Role in Gurugram",
-    "slug": "popular-collections-by-role-in-gurugram-2902",
-    "lat": 28.35399782496475,
-    "lng": 77.13735124852447,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 61,
-    "tech_stack": [
-      "Swift",
-      "Vue",
-      "PostgreSQL",
-      "PHP",
-      "Docker"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyroleingurugram.com"
-  },
-  {
-    "id": "b686ca89-aa18-40f6-8f62-d7c7a94402a6",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-6583",
-    "lat": 28.33899393105397,
-    "lng": 77.04119373520979,
-    "company_type": "product",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 60,
-    "tech_stack": [
-      "Redis",
-      "Ruby",
-      "C++",
-      "Docker"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "d87522fa-0f6e-4f46-9529-58de07ea8529",
@@ -15910,69 +13531,6 @@
     "domain": "mahindra.com"
   },
   {
-    "id": "ac85de05-735f-4e9a-9cc2-b46ebbf038a1",
-    "name": "Popular Collections by Industry in Gurugram",
-    "slug": "popular-collections-by-industry-in-gurugram-5976",
-    "lat": 28.376591273570174,
-    "lng": 76.9947600235456,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 83,
-    "tech_stack": [
-      "Node.js",
-      "C++",
-      "PostgreSQL"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyindustryingurugram.com"
-  },
-  {
-    "id": "0121d728-fcf1-4682-9fd6-45f71ad25e91",
-    "name": "Popular Collections by Role in Gurugram",
-    "slug": "popular-collections-by-role-in-gurugram-6918",
-    "lat": 28.34499588842231,
-    "lng": 77.03333158227858,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 134,
-    "tech_stack": [
-      "Ruby",
-      "Vue",
-      "MongoDB",
-      "PHP"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyroleingurugram.com"
-  },
-  {
-    "id": "caea3fd6-7a23-45c3-84aa-bac361b4668a",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-6660",
-    "lat": 28.469230250654327,
-    "lng": 76.920216141964,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 88,
-    "tech_stack": [
-      "Java",
-      "TypeScript",
-      "Node.js",
-      "C++",
-      "Redis"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "82032cb8-74e1-47c1-902a-f14ff6c6a977",
     "name": "Infosys BPM",
     "slug": "infosys-bpm-4767",
@@ -16280,72 +13838,6 @@
     "location_name": "Gurugram Hub",
     "city": "Gurugram",
     "domain": "cipla.com"
-  },
-  {
-    "id": "2c92ac38-36f0-4232-8324-5a36e04942b0",
-    "name": "Popular Collections by Industry in Gurugram",
-    "slug": "popular-collections-by-industry-in-gurugram-8195",
-    "lat": 28.464796694688417,
-    "lng": 77.02439385678606,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 99,
-    "tech_stack": [
-      "Kubernetes",
-      "Go",
-      "Python",
-      "Java",
-      "PostgreSQL",
-      "Swift"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyindustryingurugram.com"
-  },
-  {
-    "id": "6cb429c1-301f-45c3-8656-b5ad5f1e4e43",
-    "name": "Popular Collections by Role in Gurugram",
-    "slug": "popular-collections-by-role-in-gurugram-8854",
-    "lat": 28.311133298408286,
-    "lng": 77.13876916271204,
-    "company_type": "startup",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 136,
-    "tech_stack": [
-      "Docker",
-      "Swift",
-      "MongoDB"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyroleingurugram.com"
-  },
-  {
-    "id": "e5b06a53-b87a-4aeb-bf7f-1b48bbafb94f",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-8366",
-    "lat": 28.364665213644045,
-    "lng": 76.8959306269177,
-    "company_type": "startup",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 94,
-    "tech_stack": [
-      "Angular",
-      "Java",
-      "Swift",
-      "Python",
-      "Redis",
-      "Docker"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "8a601500-751d-4e67-ba41-0e8109ff1416",
@@ -16682,69 +14174,6 @@
     "domain": "lupinepet.com"
   },
   {
-    "id": "5b3463a0-a6fe-4f14-bb6c-8551f8cec826",
-    "name": "Popular Collections by Industry in Gurugram",
-    "slug": "popular-collections-by-industry-in-gurugram-1179",
-    "lat": 28.481604658111284,
-    "lng": 77.16460360843027,
-    "company_type": "product",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 70,
-    "tech_stack": [
-      "PostgreSQL",
-      "Kubernetes",
-      "Next.js",
-      "Node.js",
-      "Python",
-      "Docker"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyindustryingurugram.com"
-  },
-  {
-    "id": "a2b172db-02fe-4c31-934e-b8bc3cd0d88f",
-    "name": "Popular Collections by Role in Gurugram",
-    "slug": "popular-collections-by-role-in-gurugram-4337",
-    "lat": 28.4248191380157,
-    "lng": 76.94776047982612,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 105,
-    "tech_stack": [
-      "MongoDB",
-      "PostgreSQL",
-      "Docker",
-      "PHP"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyroleingurugram.com"
-  },
-  {
-    "id": "a43b719d-8769-451f-ac29-136313975f93",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-1344",
-    "lat": 28.384909830374074,
-    "lng": 77.06687514920944,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 82,
-    "tech_stack": [
-      "Kubernetes",
-      "C++"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "02a30f31-8786-4bfd-b14f-2cd7b44d09ab",
     "name": "L&T Construction",
     "slug": "lt-construction-1553",
@@ -17063,66 +14492,6 @@
     "domain": "virtusaconsultingservices.com"
   },
   {
-    "id": "6b4c66aa-d715-499d-8dc9-07efe2a7d6b0",
-    "name": "Popular Collections by Industry in Gurugram",
-    "slug": "popular-collections-by-industry-in-gurugram-9441",
-    "lat": 28.489607470121037,
-    "lng": 76.97461882901548,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 144,
-    "tech_stack": [
-      "Next.js",
-      "AWS"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyindustryingurugram.com"
-  },
-  {
-    "id": "66e3e199-a690-494b-8371-785cee913d13",
-    "name": "Popular Collections by Role in Gurugram",
-    "slug": "popular-collections-by-role-in-gurugram-5239",
-    "lat": 28.567087975444917,
-    "lng": 77.17419608464628,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 46,
-    "tech_stack": [
-      "Java",
-      "AWS",
-      "Next.js",
-      "Rust"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyroleingurugram.com"
-  },
-  {
-    "id": "8f6d1d68-80e3-4ab9-b30b-c982e9439ce4",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-3305",
-    "lat": 28.47195222384188,
-    "lng": 77.14594132002752,
-    "company_type": "unicorn",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 18,
-    "tech_stack": [
-      "PHP",
-      "Kubernetes",
-      "Node.js"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "72340d6d-f486-485e-8c3c-415e1f630546",
     "name": "Access Healthcare",
     "slug": "access-healthcare-6697",
@@ -17372,70 +14741,6 @@
     "location_name": "Gurugram Hub",
     "city": "Gurugram",
     "domain": "udaancapital.com"
-  },
-  {
-    "id": "6488b517-5e8e-458b-bd3d-5598db0c6e8b",
-    "name": "Popular Collections by Industry in Gurugram",
-    "slug": "popular-collections-by-industry-in-gurugram-7630",
-    "lat": 28.36236546489231,
-    "lng": 76.88106390003954,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 88,
-    "tech_stack": [
-      "Redis",
-      "AWS",
-      "Python",
-      "Next.js",
-      "PostgreSQL"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyindustryingurugram.com"
-  },
-  {
-    "id": "a8986507-eda4-4a1d-a84a-13060d5c99b0",
-    "name": "Popular Collections by Role in Gurugram",
-    "slug": "popular-collections-by-role-in-gurugram-7419",
-    "lat": 28.39182914521352,
-    "lng": 77.1302285508624,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 146,
-    "tech_stack": [
-      "Node.js",
-      "MongoDB",
-      "Docker",
-      "Angular"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyroleingurugram.com"
-  },
-  {
-    "id": "200876fe-d473-4923-b6e8-a303b885a2eb",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-5446",
-    "lat": 28.312944195181988,
-    "lng": 77.09989894931373,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 68,
-    "tech_stack": [
-      "PHP",
-      "TypeScript",
-      "Python",
-      "MongoDB"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "547da4fd-5a6b-4515-a65c-d8d0be9790a1",
@@ -17798,66 +15103,6 @@
     "domain": "itcinfotech.com"
   },
   {
-    "id": "947a585f-3bbd-4e0f-9edc-1cb10748935d",
-    "name": "Popular Collections by Industry in Gurugram",
-    "slug": "popular-collections-by-industry-in-gurugram-9629",
-    "lat": 28.345186094382196,
-    "lng": 77.10610781176014,
-    "company_type": "product",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 102,
-    "tech_stack": [
-      "Next.js",
-      "Java"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyindustryingurugram.com"
-  },
-  {
-    "id": "18a3d7ec-f7cd-47bf-a067-fef759d21146",
-    "name": "Popular Collections by Role in Gurugram",
-    "slug": "popular-collections-by-role-in-gurugram-6522",
-    "lat": 28.334513439970642,
-    "lng": 77.02884062942333,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 107,
-    "tech_stack": [
-      "Node.js",
-      "Java",
-      "Vue"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyroleingurugram.com"
-  },
-  {
-    "id": "9dc67d75-cafd-4406-af68-26713c4fc6ff",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-7291",
-    "lat": 28.435111094434852,
-    "lng": 77.11593598212886,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 29,
-    "tech_stack": [
-      "Python",
-      "Redis",
-      "MongoDB",
-      "Kubernetes"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "1321bf1a-d727-483e-9269-39876707af4f",
     "name": "Atos",
     "slug": "atos-2861",
@@ -18193,66 +15438,6 @@
     "location_name": "Gurugram Hub",
     "city": "Gurugram",
     "domain": "cars.com"
-  },
-  {
-    "id": "893655ed-fafd-4bc0-9add-6194734af550",
-    "name": "Popular Collections by Industry in Gurugram",
-    "slug": "popular-collections-by-industry-in-gurugram-1315",
-    "lat": 28.388759565326083,
-    "lng": 76.95088554169642,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 50,
-    "tech_stack": [
-      "Ruby",
-      "Next.js",
-      "Swift"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyindustryingurugram.com"
-  },
-  {
-    "id": "6d7ea5ee-2402-4faf-9ff5-7590dbe68081",
-    "name": "Popular Collections by Role in Gurugram",
-    "slug": "popular-collections-by-role-in-gurugram-2757",
-    "lat": 28.411460799528548,
-    "lng": 76.89781669244097,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 130,
-    "tech_stack": [
-      "Node.js",
-      "Go"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyroleingurugram.com"
-  },
-  {
-    "id": "010a64f2-29fa-4c25-bd24-c25a31ab174b",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-5561",
-    "lat": 28.437634556450675,
-    "lng": 77.03107305287362,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 31,
-    "tech_stack": [
-      "TypeScript",
-      "Vue",
-      "Ruby",
-      "PHP"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "7c15a96f-c1c8-4773-98c3-9d08fb477317",
@@ -18611,74 +15796,6 @@
     "domain": "hindalco.com"
   },
   {
-    "id": "7548219b-2142-41db-8467-9d4d899ad258",
-    "name": "Popular Collections by Industry in Gurugram",
-    "slug": "popular-collections-by-industry-in-gurugram-9249",
-    "lat": 28.378330227775333,
-    "lng": 77.11457265111622,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 28,
-    "tech_stack": [
-      "Ruby",
-      "Docker",
-      "Swift",
-      "Go",
-      "PHP"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyindustryingurugram.com"
-  },
-  {
-    "id": "6c4ea85a-cc3d-4c4a-9580-18db513981a0",
-    "name": "Popular Collections by Role in Gurugram",
-    "slug": "popular-collections-by-role-in-gurugram-5049",
-    "lat": 28.390767207819607,
-    "lng": 77.06484204268644,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 19,
-    "tech_stack": [
-      "MongoDB",
-      "Swift",
-      "PostgreSQL",
-      "Python",
-      "Rust",
-      "TypeScript"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyroleingurugram.com"
-  },
-  {
-    "id": "0b64823f-672e-48bb-adc3-00d77efb7d22",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-8056",
-    "lat": 28.460164347125996,
-    "lng": 77.02254510462,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 57,
-    "tech_stack": [
-      "TypeScript",
-      "Vue",
-      "Angular",
-      "Ruby",
-      "AWS",
-      "Next.js"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "6757f66c-db53-46ec-aab9-6fb8f543a261",
     "name": "LG Electronics",
     "slug": "lg-electronics-5996",
@@ -18972,68 +16089,6 @@
     "location_name": "Gurugram Hub",
     "city": "Gurugram",
     "domain": "kyndryl.com"
-  },
-  {
-    "id": "afc012ee-1865-4e46-844a-cad5aab7ba25",
-    "name": "Popular Collections by Industry in Gurugram",
-    "slug": "popular-collections-by-industry-in-gurugram-6611",
-    "lat": 28.523757433470752,
-    "lng": 77.03116038385997,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 146,
-    "tech_stack": [
-      "TypeScript",
-      "Ruby",
-      "Go",
-      "Vue",
-      "Redis"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyindustryingurugram.com"
-  },
-  {
-    "id": "b3a01129-d755-4287-9af7-07a6f6a3fdab",
-    "name": "Popular Collections by Role in Gurugram",
-    "slug": "popular-collections-by-role-in-gurugram-5622",
-    "lat": 28.38899086591296,
-    "lng": 76.87889497037288,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 91,
-    "tech_stack": [
-      "Redis",
-      "PostgreSQL",
-      "PHP"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsbyroleingurugram.com"
-  },
-  {
-    "id": "f17d8822-405f-410b-91eb-03bffb969b78",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-5420",
-    "lat": 28.499961483543544,
-    "lng": 77.01093309581826,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 68,
-    "tech_stack": [
-      "Java",
-      "AWS",
-      "Rust"
-    ],
-    "location_name": "Gurugram Hub",
-    "city": "Gurugram",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "cd495895-9d54-4d99-904d-f5b0623337e6",
@@ -19357,68 +16412,6 @@
     "location_name": "Mumbai Hub",
     "city": "Mumbai",
     "domain": "ltmlimited.com"
-  },
-  {
-    "id": "251bc381-376c-4bf0-8ee4-27c063c2815f",
-    "name": "Popular Collections by Industry in Mumbai",
-    "slug": "popular-collections-by-industry-in-mumbai-9167",
-    "lat": 19.09247302533157,
-    "lng": 72.83844827007788,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 140,
-    "tech_stack": [
-      "TypeScript",
-      "C++",
-      "Rust"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyindustryinmumbai.com"
-  },
-  {
-    "id": "f6cd956e-259d-4d93-9313-7ed2a0994e9f",
-    "name": "Popular Collections by Role in Mumbai",
-    "slug": "popular-collections-by-role-in-mumbai-5754",
-    "lat": 18.946717644151185,
-    "lng": 72.94518650151535,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 131,
-    "tech_stack": [
-      "Angular",
-      "Ruby",
-      "Next.js",
-      "Kubernetes",
-      "AWS"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyroleinmumbai.com"
-  },
-  {
-    "id": "032a4707-d09b-421a-ae9f-196f6e6b647c",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-4857",
-    "lat": 19.194122179732034,
-    "lng": 72.91602744651182,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 90,
-    "tech_stack": [
-      "MongoDB",
-      "Vue",
-      "Python"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "fd967db9-e158-4437-8373-1a5cfcc89d42",
@@ -19759,72 +16752,6 @@
     "domain": "mahindra.com"
   },
   {
-    "id": "1c751a53-ac1b-4b95-b76a-08fc588d1ca4",
-    "name": "Popular Collections by Industry in Mumbai",
-    "slug": "popular-collections-by-industry-in-mumbai-5512",
-    "lat": 18.961688771109714,
-    "lng": 72.757499232713,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 55,
-    "tech_stack": [
-      "Java",
-      "AWS",
-      "TypeScript",
-      "React"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyindustryinmumbai.com"
-  },
-  {
-    "id": "cd6c651c-f0d4-4083-88ec-0d477a746cbf",
-    "name": "Popular Collections by Role in Mumbai",
-    "slug": "popular-collections-by-role-in-mumbai-7889",
-    "lat": 18.93689113699799,
-    "lng": 72.84606073475219,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 45,
-    "tech_stack": [
-      "Go",
-      "Redis",
-      "MongoDB",
-      "Angular",
-      "TypeScript"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyroleinmumbai.com"
-  },
-  {
-    "id": "e096c915-3a18-4348-a263-9d7668b19c68",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-2936",
-    "lat": 18.94561758475293,
-    "lng": 72.91595156460531,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 70,
-    "tech_stack": [
-      "Next.js",
-      "Docker",
-      "TypeScript",
-      "PostgreSQL",
-      "C++",
-      "React"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "93d8e727-d64f-4bff-bc5e-9912f8d36d3d",
     "name": "Infosys BPM",
     "slug": "infosys-bpm-5900",
@@ -20134,67 +17061,6 @@
     "location_name": "Mumbai Hub",
     "city": "Mumbai",
     "domain": "cipla.com"
-  },
-  {
-    "id": "0b36964c-1b75-466a-81bd-59574478d960",
-    "name": "Popular Collections by Industry in Mumbai",
-    "slug": "popular-collections-by-industry-in-mumbai-1246",
-    "lat": 19.182294644565022,
-    "lng": 72.98421796576143,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 36,
-    "tech_stack": [
-      "Ruby",
-      "Redis",
-      "Java",
-      "Angular",
-      "Node.js",
-      "MongoDB"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyindustryinmumbai.com"
-  },
-  {
-    "id": "5d9eafbb-55d7-42f2-a2a8-6bebba230bd2",
-    "name": "Popular Collections by Role in Mumbai",
-    "slug": "popular-collections-by-role-in-mumbai-5640",
-    "lat": 19.19642752044103,
-    "lng": 72.940492285066,
-    "company_type": "startup",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 23,
-    "tech_stack": [
-      "React",
-      "Swift"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyroleinmumbai.com"
-  },
-  {
-    "id": "b5366e79-106a-4f6a-9176-83df5bf98f28",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-6428",
-    "lat": 19.202884917435455,
-    "lng": 72.87239575024317,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 123,
-    "tech_stack": [
-      "Node.js",
-      "Kubernetes"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "d749e526-80c7-4757-83e2-104721872c86",
@@ -20542,72 +17408,6 @@
     "domain": "lupinepet.com"
   },
   {
-    "id": "f34e8831-aa57-41fe-9d50-b586a2642850",
-    "name": "Popular Collections by Industry in Mumbai",
-    "slug": "popular-collections-by-industry-in-mumbai-9819",
-    "lat": 19.00545878705654,
-    "lng": 72.80782105461859,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 128,
-    "tech_stack": [
-      "TypeScript",
-      "MongoDB",
-      "Docker",
-      "AWS",
-      "Go"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyindustryinmumbai.com"
-  },
-  {
-    "id": "d6ff925b-dae1-475d-ae5a-b8147c55fc0b",
-    "name": "Popular Collections by Role in Mumbai",
-    "slug": "popular-collections-by-role-in-mumbai-8323",
-    "lat": 19.19007282158433,
-    "lng": 72.94823172804466,
-    "company_type": "product",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 129,
-    "tech_stack": [
-      "Redis",
-      "Rust",
-      "AWS",
-      "Java",
-      "React"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyroleinmumbai.com"
-  },
-  {
-    "id": "e5f3c1d0-5c99-4a4d-88d3-de2eef2e6b24",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-3543",
-    "lat": 19.127893454405868,
-    "lng": 72.78536247836186,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 98,
-    "tech_stack": [
-      "Docker",
-      "PHP",
-      "Rust",
-      "Ruby",
-      "PostgreSQL"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "0dd7bdb8-b4f6-4708-bec4-50e76e556072",
     "name": "L&T Construction",
     "slug": "lt-construction-4393",
@@ -20925,70 +17725,6 @@
     "domain": "indiamartintermesh.com"
   },
   {
-    "id": "e1509694-d188-478f-b716-6bdb33934a73",
-    "name": "Popular Collections by Industry in Mumbai",
-    "slug": "popular-collections-by-industry-in-mumbai-5035",
-    "lat": 18.93778021757636,
-    "lng": 73.02256340387527,
-    "company_type": "product",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 132,
-    "tech_stack": [
-      "Go",
-      "Python",
-      "Vue",
-      "Angular",
-      "C++"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyindustryinmumbai.com"
-  },
-  {
-    "id": "31770cdd-9442-48e4-936f-10ad73d63971",
-    "name": "Popular Collections by Role in Mumbai",
-    "slug": "popular-collections-by-role-in-mumbai-9370",
-    "lat": 19.026894269759705,
-    "lng": 72.9528967889047,
-    "company_type": "product",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 98,
-    "tech_stack": [
-      "MongoDB",
-      "Vue",
-      "Go",
-      "Swift",
-      "Java"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyroleinmumbai.com"
-  },
-  {
-    "id": "568c2e0f-2e53-4a2e-9508-006d8a91f1cd",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-2216",
-    "lat": 19.087999736749357,
-    "lng": 72.88286426439747,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 57,
-    "tech_stack": [
-      "Redis",
-      "C++",
-      "Swift"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "fd8569d2-7aac-4bdb-9082-7a6ebb82f598",
     "name": "Virtusa Consulting Services",
     "slug": "virtusa-consulting-services-5429",
@@ -21237,68 +17973,6 @@
     "location_name": "Mumbai Hub",
     "city": "Mumbai",
     "domain": "bosch-softwaretechnologies.com"
-  },
-  {
-    "id": "92159e8d-b992-4c2a-86eb-52c9332dccb3",
-    "name": "Popular Collections by Industry in Mumbai",
-    "slug": "popular-collections-by-industry-in-mumbai-6323",
-    "lat": 19.073015162904102,
-    "lng": 72.98199339086791,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 121,
-    "tech_stack": [
-      "Docker",
-      "C++",
-      "Ruby",
-      "Go"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyindustryinmumbai.com"
-  },
-  {
-    "id": "f88af515-856b-4985-9b50-7ea6c5f1196e",
-    "name": "Popular Collections by Role in Mumbai",
-    "slug": "popular-collections-by-role-in-mumbai-4292",
-    "lat": 19.131798528093316,
-    "lng": 73.01118458199578,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 133,
-    "tech_stack": [
-      "Ruby",
-      "Angular"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyroleinmumbai.com"
-  },
-  {
-    "id": "23d66d57-8941-4f51-a83d-b401a93198e5",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-2908",
-    "lat": 19.017497169027187,
-    "lng": 72.91847472559527,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 126,
-    "tech_stack": [
-      "Vue",
-      "React",
-      "PostgreSQL",
-      "Kubernetes",
-      "Ruby"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "b5676983-7d4e-46a6-8147-671146b16200",
@@ -21659,68 +18333,6 @@
     "domain": "kecrpg.com"
   },
   {
-    "id": "14cb7a5b-0580-4f85-ba53-cdbb97e302c0",
-    "name": "Popular Collections by Industry in Mumbai",
-    "slug": "popular-collections-by-industry-in-mumbai-9282",
-    "lat": 19.193375670104558,
-    "lng": 72.99113172485708,
-    "company_type": "startup",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 94,
-    "tech_stack": [
-      "Node.js",
-      "Kubernetes"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyindustryinmumbai.com"
-  },
-  {
-    "id": "aa9bc6b4-f901-4014-9822-7d02b593afc8",
-    "name": "Popular Collections by Role in Mumbai",
-    "slug": "popular-collections-by-role-in-mumbai-2918",
-    "lat": 19.004380533666744,
-    "lng": 72.86400442686099,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 3,
-    "tech_stack": [
-      "AWS",
-      "React",
-      "Vue"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyroleinmumbai.com"
-  },
-  {
-    "id": "1fda9e4c-cb09-4333-aa8c-609d89a01a45",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-9889",
-    "lat": 19.09767566483875,
-    "lng": 72.73455935673758,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 141,
-    "tech_stack": [
-      "Rust",
-      "MongoDB",
-      "Ruby",
-      "Vue",
-      "AWS",
-      "Docker"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "bf7ba762-1185-4d7c-87c5-8c9557c7933d",
     "name": "ITC Infotech",
     "slug": "itc-infotech-5998",
@@ -22072,69 +18684,6 @@
     "domain": "hpe.com"
   },
   {
-    "id": "a8baec57-9f90-47e1-97da-2994f3e1ac9f",
-    "name": "Popular Collections by Industry in Mumbai",
-    "slug": "popular-collections-by-industry-in-mumbai-5185",
-    "lat": 18.933441751578854,
-    "lng": 72.78209830740116,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 126,
-    "tech_stack": [
-      "React",
-      "Python",
-      "Swift",
-      "Vue",
-      "C++",
-      "Next.js"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyindustryinmumbai.com"
-  },
-  {
-    "id": "0f7c1147-98e1-4729-af35-873e5902c299",
-    "name": "Popular Collections by Role in Mumbai",
-    "slug": "popular-collections-by-role-in-mumbai-9973",
-    "lat": 19.118241676292023,
-    "lng": 72.85639634025968,
-    "company_type": "unicorn",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 14,
-    "tech_stack": [
-      "Rust",
-      "PHP",
-      "TypeScript",
-      "Swift"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyroleinmumbai.com"
-  },
-  {
-    "id": "19afe30e-67e7-45e3-b177-cbfa49cdc33e",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-4578",
-    "lat": 19.042976461702292,
-    "lng": 72.73578002070843,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 111,
-    "tech_stack": [
-      "Node.js",
-      "MongoDB"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "94810314-4ea6-45f2-9226-3a22f3a0808c",
     "name": "Cars24",
     "slug": "cars24-1205",
@@ -22470,68 +19019,6 @@
     "domain": "statestreetco.com"
   },
   {
-    "id": "b0272648-5678-4f27-a4b3-1bf7960b62f8",
-    "name": "Popular Collections by Industry in Mumbai",
-    "slug": "popular-collections-by-industry-in-mumbai-8936",
-    "lat": 19.177180823520686,
-    "lng": 73.00748453783046,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 88,
-    "tech_stack": [
-      "Ruby",
-      "PHP",
-      "Angular"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyindustryinmumbai.com"
-  },
-  {
-    "id": "4cd0542b-2626-4adf-9654-57e41a751373",
-    "name": "Popular Collections by Role in Mumbai",
-    "slug": "popular-collections-by-role-in-mumbai-8006",
-    "lat": 18.963165502815393,
-    "lng": 72.74935340982633,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 104,
-    "tech_stack": [
-      "Redis",
-      "Next.js",
-      "Go"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyroleinmumbai.com"
-  },
-  {
-    "id": "fa14fcd5-d058-464a-9ad2-9732366103ab",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-3838",
-    "lat": 19.212873444081705,
-    "lng": 73.00657261717491,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 103,
-    "tech_stack": [
-      "Redis",
-      "Ruby",
-      "PostgreSQL",
-      "Next.js",
-      "MongoDB"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "75b782ca-8380-4229-800d-bdc8f32d85a6",
     "name": "Bajaj Auto",
     "slug": "bajaj-auto-9960",
@@ -22828,70 +19315,6 @@
     "location_name": "Mumbai Hub",
     "city": "Mumbai",
     "domain": "americanexpress.com"
-  },
-  {
-    "id": "947440b9-01f5-4589-8251-dca82cc7ebfa",
-    "name": "Popular Collections by Industry in Mumbai",
-    "slug": "popular-collections-by-industry-in-mumbai-6788",
-    "lat": 19.04150344987281,
-    "lng": 72.8587680822632,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 15,
-    "tech_stack": [
-      "Python",
-      "MongoDB",
-      "Rust",
-      "PostgreSQL",
-      "Go",
-      "Swift"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyindustryinmumbai.com"
-  },
-  {
-    "id": "902cbb46-cb71-43e5-bab2-d6e45c04e2d5",
-    "name": "Popular Collections by Role in Mumbai",
-    "slug": "popular-collections-by-role-in-mumbai-1845",
-    "lat": 19.111051720707422,
-    "lng": 72.86809188645194,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 120,
-    "tech_stack": [
-      "Python",
-      "PostgreSQL",
-      "Angular"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsbyroleinmumbai.com"
-  },
-  {
-    "id": "6f261f5e-f69d-4167-bab5-9f1a4b80b76d",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-1563",
-    "lat": 18.97956469420811,
-    "lng": 72.86522470752378,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 27,
-    "tech_stack": [
-      "Java",
-      "Ruby",
-      "AWS",
-      "Redis"
-    ],
-    "location_name": "Mumbai Hub",
-    "city": "Mumbai",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "c161f740-ece3-4c71-91bf-a9e3478342e6",
@@ -23211,71 +19634,6 @@
     "location_name": "Chennai Hub",
     "city": "Chennai",
     "domain": "ltmlimited.com"
-  },
-  {
-    "id": "83394085-f6a3-449c-8557-a7d396a8f4e0",
-    "name": "Popular Collections by Industry in Chennai",
-    "slug": "popular-collections-by-industry-in-chennai-4471",
-    "lat": 12.933531558327198,
-    "lng": 80.28299699476344,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 82,
-    "tech_stack": [
-      "Java",
-      "Angular",
-      "PostgreSQL",
-      "AWS"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyindustryinchennai.com"
-  },
-  {
-    "id": "05b9259d-e340-4867-98ae-cd5b8b9eab03",
-    "name": "Popular Collections by Role in Chennai",
-    "slug": "popular-collections-by-role-in-chennai-2148",
-    "lat": 13.08900255733827,
-    "lng": 80.13057866644311,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 121,
-    "tech_stack": [
-      "MongoDB",
-      "React",
-      "Angular",
-      "PHP",
-      "Rust",
-      "Vue"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyroleinchennai.com"
-  },
-  {
-    "id": "f4dfb4bb-7b35-41eb-ae4b-cf7e2f3fe025",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-9299",
-    "lat": 12.979190533762942,
-    "lng": 80.33010839426166,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 81,
-    "tech_stack": [
-      "Node.js",
-      "Python",
-      "TypeScript",
-      "Next.js"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "03b180f7-f0a7-4276-9777-1abb75e73144",
@@ -23621,69 +19979,6 @@
     "domain": "mahindra.com"
   },
   {
-    "id": "f0a013a5-1534-4a12-b4c0-098bb97680e2",
-    "name": "Popular Collections by Industry in Chennai",
-    "slug": "popular-collections-by-industry-in-chennai-3747",
-    "lat": 13.229869709518553,
-    "lng": 80.34463665203278,
-    "company_type": "unicorn",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 9,
-    "tech_stack": [
-      "Angular",
-      "Next.js",
-      "React",
-      "Go",
-      "PostgreSQL",
-      "Python"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyindustryinchennai.com"
-  },
-  {
-    "id": "c1cb93f5-28f9-4d93-8a4e-3e972eb68790",
-    "name": "Popular Collections by Role in Chennai",
-    "slug": "popular-collections-by-role-in-chennai-8877",
-    "lat": 13.06333059274477,
-    "lng": 80.18675818606681,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 95,
-    "tech_stack": [
-      "Java",
-      "C++",
-      "PHP",
-      "Python"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyroleinchennai.com"
-  },
-  {
-    "id": "c0ab295a-5e92-4248-aa35-1e90237136a9",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-4567",
-    "lat": 13.113341137790389,
-    "lng": 80.34931333370338,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 52,
-    "tech_stack": [
-      "Vue",
-      "Angular"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "cc9c91a4-cad8-488c-93db-d31b8f98ba45",
     "name": "Infosys BPM",
     "slug": "infosys-bpm-1739",
@@ -24010,72 +20305,6 @@
     "location_name": "Chennai Hub",
     "city": "Chennai",
     "domain": "cipla.com"
-  },
-  {
-    "id": "0fed2f34-90fb-433c-b9f0-f6848de9cc11",
-    "name": "Popular Collections by Industry in Chennai",
-    "slug": "popular-collections-by-industry-in-chennai-7860",
-    "lat": 13.150089652589765,
-    "lng": 80.24502819269424,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 13,
-    "tech_stack": [
-      "Rust",
-      "Redis",
-      "TypeScript",
-      "PostgreSQL",
-      "PHP"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyindustryinchennai.com"
-  },
-  {
-    "id": "715c7af7-4fdd-4658-b9ab-63a0e6f65943",
-    "name": "Popular Collections by Role in Chennai",
-    "slug": "popular-collections-by-role-in-chennai-7083",
-    "lat": 13.118971109197155,
-    "lng": 80.25103005553376,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 38,
-    "tech_stack": [
-      "C++",
-      "Python",
-      "Next.js",
-      "Angular",
-      "PHP"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyroleinchennai.com"
-  },
-  {
-    "id": "4c0d990c-6e2d-4e93-a228-b37c4e42a973",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-9913",
-    "lat": 13.107382214231764,
-    "lng": 80.22142794738619,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 91,
-    "tech_stack": [
-      "Next.js",
-      "Angular",
-      "PHP",
-      "C++",
-      "Go"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "f3fb785e-c358-4617-b3f3-a78aba203bdf",
@@ -24425,70 +20654,6 @@
     "domain": "lupinepet.com"
   },
   {
-    "id": "9dd87e3b-a01b-4f89-9993-2f2deead56e4",
-    "name": "Popular Collections by Industry in Chennai",
-    "slug": "popular-collections-by-industry-in-chennai-5980",
-    "lat": 13.16452755176363,
-    "lng": 80.21559630467472,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 72,
-    "tech_stack": [
-      "Kubernetes",
-      "Node.js",
-      "TypeScript",
-      "Java",
-      "Swift"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyindustryinchennai.com"
-  },
-  {
-    "id": "5fe3043b-8fe4-45d9-bbab-ece46f725cea",
-    "name": "Popular Collections by Role in Chennai",
-    "slug": "popular-collections-by-role-in-chennai-6433",
-    "lat": 13.010384997455626,
-    "lng": 80.27391190960648,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 98,
-    "tech_stack": [
-      "Node.js",
-      "Python",
-      "TypeScript",
-      "React",
-      "Rust",
-      "PostgreSQL"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyroleinchennai.com"
-  },
-  {
-    "id": "381ab140-7569-4ba6-acf0-18b920427b4f",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-3607",
-    "lat": 13.032421621044177,
-    "lng": 80.27995364319332,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 41,
-    "tech_stack": [
-      "AWS",
-      "Python"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "ecbc978e-959a-429e-9c20-04cea888283a",
     "name": "L&T Construction",
     "slug": "lt-construction-6990",
@@ -24793,75 +20958,6 @@
     "domain": "virtusaconsultingservices.com"
   },
   {
-    "id": "fd0d26ad-7aae-432f-ab79-ed78b29c954c",
-    "name": "Popular Collections by Industry in Chennai",
-    "slug": "popular-collections-by-industry-in-chennai-7189",
-    "lat": 13.173979406073997,
-    "lng": 80.33619086154314,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 137,
-    "tech_stack": [
-      "PHP",
-      "Java",
-      "Docker",
-      "C++",
-      "MongoDB",
-      "Go"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyindustryinchennai.com"
-  },
-  {
-    "id": "cc5dd8c9-1ccc-45da-b5f7-6230abef5f88",
-    "name": "Popular Collections by Role in Chennai",
-    "slug": "popular-collections-by-role-in-chennai-2823",
-    "lat": 13.115816823215177,
-    "lng": 80.38912256663136,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 54,
-    "tech_stack": [
-      "Python",
-      "Rust",
-      "TypeScript",
-      "Go",
-      "React",
-      "MongoDB"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyroleinchennai.com"
-  },
-  {
-    "id": "e736232d-2b56-4378-9134-1762609c000f",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-8602",
-    "lat": 13.178793952200078,
-    "lng": 80.14954881739546,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 69,
-    "tech_stack": [
-      "Angular",
-      "PHP",
-      "Vue",
-      "Node.js",
-      "Docker",
-      "Redis"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "2d339dec-6678-4e39-b534-5742749badd9",
     "name": "Access Healthcare",
     "slug": "access-healthcare-4929",
@@ -25104,72 +21200,6 @@
     "location_name": "Chennai Hub",
     "city": "Chennai",
     "domain": "udaancapital.com"
-  },
-  {
-    "id": "6837c03c-13c9-47d8-af36-b646e5a1b74b",
-    "name": "Popular Collections by Industry in Chennai",
-    "slug": "popular-collections-by-industry-in-chennai-7994",
-    "lat": 13.014080744827265,
-    "lng": 80.41728439035421,
-    "company_type": "unicorn",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 100,
-    "tech_stack": [
-      "Redis",
-      "Docker",
-      "Next.js",
-      "Python",
-      "PHP"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyindustryinchennai.com"
-  },
-  {
-    "id": "1a881298-e559-43a7-abc5-325f22eee844",
-    "name": "Popular Collections by Role in Chennai",
-    "slug": "popular-collections-by-role-in-chennai-3442",
-    "lat": 13.156608328072043,
-    "lng": 80.26710331125244,
-    "company_type": "product",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 137,
-    "tech_stack": [
-      "Vue",
-      "Java",
-      "Kubernetes",
-      "Node.js",
-      "Python"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyroleinchennai.com"
-  },
-  {
-    "id": "1883c3f1-078f-4ce8-bb3c-fb34b0f8e35f",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-4729",
-    "lat": 13.201612370600774,
-    "lng": 80.23226402157056,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f97316",
-    "roles_count": 19,
-    "tech_stack": [
-      "Vue",
-      "Swift",
-      "Kubernetes",
-      "React",
-      "Docker"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "4f02c8a5-b297-4d0d-9592-dd46cdd34319",
@@ -25527,68 +21557,6 @@
     "domain": "itcinfotech.com"
   },
   {
-    "id": "1e08d619-64f8-445b-badd-7d05b360f828",
-    "name": "Popular Collections by Industry in Chennai",
-    "slug": "popular-collections-by-industry-in-chennai-8120",
-    "lat": 13.186885809170334,
-    "lng": 80.19777418854076,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 137,
-    "tech_stack": [
-      "C++",
-      "Ruby",
-      "PHP",
-      "Java",
-      "Node.js",
-      "AWS"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyindustryinchennai.com"
-  },
-  {
-    "id": "e9d676da-d78c-46c7-a67d-c30cbc794de2",
-    "name": "Popular Collections by Role in Chennai",
-    "slug": "popular-collections-by-role-in-chennai-2372",
-    "lat": 12.971482249330965,
-    "lng": 80.35838403313971,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 149,
-    "tech_stack": [
-      "C++",
-      "PHP"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyroleinchennai.com"
-  },
-  {
-    "id": "b9b16a8a-0c66-4c64-a7b4-0e8a1e847b77",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-6733",
-    "lat": 13.132070979175792,
-    "lng": 80.42031185660834,
-    "company_type": "mnc",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#ec4899",
-    "roles_count": 119,
-    "tech_stack": [
-      "Java",
-      "Python",
-      "Docker"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "2f923323-ab23-4e1b-a85e-04d79ec05dec",
     "name": "Atos",
     "slug": "atos-1840",
@@ -25926,71 +21894,6 @@
     "location_name": "Chennai Hub",
     "city": "Chennai",
     "domain": "hpe.com"
-  },
-  {
-    "id": "8a4bfe60-8842-4169-bf9b-7276319f33f1",
-    "name": "Popular Collections by Industry in Chennai",
-    "slug": "popular-collections-by-industry-in-chennai-9674",
-    "lat": 13.212782431883225,
-    "lng": 80.27205097148011,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 129,
-    "tech_stack": [
-      "React",
-      "Docker",
-      "Java",
-      "Ruby",
-      "Python",
-      "Swift"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyindustryinchennai.com"
-  },
-  {
-    "id": "7cdc0b91-3858-43b4-bcbd-291d6e87758f",
-    "name": "Popular Collections by Role in Chennai",
-    "slug": "popular-collections-by-role-in-chennai-1332",
-    "lat": 13.094127683926114,
-    "lng": 80.42027385800066,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 16,
-    "tech_stack": [
-      "Ruby",
-      "TypeScript",
-      "Rust"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyroleinchennai.com"
-  },
-  {
-    "id": "1ceb5025-8711-4a25-a960-2ffdc9eda525",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-8040",
-    "lat": 13.174446342027707,
-    "lng": 80.37030842273202,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#10b981",
-    "roles_count": 140,
-    "tech_stack": [
-      "Node.js",
-      "C++",
-      "Redis",
-      "Next.js",
-      "Vue"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsinothercities.com"
   },
   {
     "id": "ce53773c-29e2-4746-bc3e-5e657c6d5e99",
@@ -26344,70 +22247,6 @@
     "domain": "bajajauto.com"
   },
   {
-    "id": "ba76ea36-268b-41fe-af22-03f8f446b532",
-    "name": "Popular Collections by Industry in Chennai",
-    "slug": "popular-collections-by-industry-in-chennai-2232",
-    "lat": 12.96136610196962,
-    "lng": 80.39657855299944,
-    "company_type": "service",
-    "hiring": false,
-    "logo_initial": "PC",
-    "logo_color": "#3b82f6",
-    "roles_count": 56,
-    "tech_stack": [
-      "AWS",
-      "TypeScript",
-      "PostgreSQL",
-      "MongoDB",
-      "Vue",
-      "Node.js"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyindustryinchennai.com"
-  },
-  {
-    "id": "7ba192dd-31d6-42ec-bd2e-c2760becf973",
-    "name": "Popular Collections by Role in Chennai",
-    "slug": "popular-collections-by-role-in-chennai-2774",
-    "lat": 13.078578193312602,
-    "lng": 80.25759957395577,
-    "company_type": "product",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#14b8a6",
-    "roles_count": 136,
-    "tech_stack": [
-      "TypeScript",
-      "Rust",
-      "MongoDB",
-      "React",
-      "Node.js"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyroleinchennai.com"
-  },
-  {
-    "id": "ef438ff1-8344-4e44-b0d8-89b81f4c7e68",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-1854",
-    "lat": 13.13453847881606,
-    "lng": 80.21961115918894,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#8b5cf6",
-    "roles_count": 25,
-    "tech_stack": [
-      "Java",
-      "Ruby"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsinothercities.com"
-  },
-  {
     "id": "3c0b5d5a-f865-46ae-b6aa-8fc3ea461cd0",
     "name": "Hindalco Industries",
     "slug": "hindalco-industries-2007",
@@ -26715,66 +22554,5 @@
     "location_name": "Chennai Hub",
     "city": "Chennai",
     "domain": "kyndryl.com"
-  },
-  {
-    "id": "48921791-ae56-4468-8736-dffa1ef536ea",
-    "name": "Popular Collections by Industry in Chennai",
-    "slug": "popular-collections-by-industry-in-chennai-4804",
-    "lat": 12.965875771098338,
-    "lng": 80.40725879088485,
-    "company_type": "startup",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#ef4444",
-    "roles_count": 68,
-    "tech_stack": [
-      "Node.js",
-      "Python",
-      "PostgreSQL",
-      "Docker",
-      "Rust"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyindustryinchennai.com"
-  },
-  {
-    "id": "a07eb694-b3b7-466b-8c2c-7ba1c8ebf3e0",
-    "name": "Popular Collections by Role in Chennai",
-    "slug": "popular-collections-by-role-in-chennai-8973",
-    "lat": 13.07283663470023,
-    "lng": 80.4200257490044,
-    "company_type": "mnc",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 129,
-    "tech_stack": [
-      "MongoDB",
-      "Rust"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsbyroleinchennai.com"
-  },
-  {
-    "id": "0025a245-b4c5-47c1-bdd6-cc30c4737720",
-    "name": "Popular Collections in other Cities",
-    "slug": "popular-collections-in-other-cities-1388",
-    "lat": 12.964327416857145,
-    "lng": 80.24147463780224,
-    "company_type": "service",
-    "hiring": true,
-    "logo_initial": "PC",
-    "logo_color": "#f59e0b",
-    "roles_count": 35,
-    "tech_stack": [
-      "Next.js",
-      "AWS",
-      "Kubernetes"
-    ],
-    "location_name": "Chennai Hub",
-    "city": "Chennai",
-    "domain": "popularcollectionsinothercities.com"
   }
 ]
