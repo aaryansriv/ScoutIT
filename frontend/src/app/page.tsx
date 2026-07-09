@@ -93,7 +93,7 @@ const COMPANY_TYPES = [
 
 /* ─── Animation variants ──────────────────────────────────────────────────── */
 
-const fadeUp = {
+const fadeUp: any = {
   hidden: { opacity: 0, y: 30 },
   visible: (i: number = 0) => ({
     opacity: 1,

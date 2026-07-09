@@ -95,6 +95,8 @@ export default function MapPage() {
             onCitySelect={(city) => setFilters((f) => ({ ...f, city }))}
             onToggleSidebar={() => setSidebarOpen((o) => !o)}
             sidebarOpen={sidebarOpen}
+            companies={companies}
+            onCompanySelect={(c) => setSelectedCompany(c)}
           />
         }
       />
