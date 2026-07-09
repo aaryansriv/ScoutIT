@@ -1,0 +1,323 @@
+# ScoutIT – Product Requirements Document (PRD) — v2
+
+> **Tagline:** *Google Maps for Tech Careers in India*
+
+---
+
+# Overview
+
+ScoutIT is a map-first company discovery platform designed specifically for students, freshers, and job seekers.
+
+Unlike LinkedIn or Google Maps, ScoutIT allows users to geographically explore thousands of software companies, startups, product companies, MNCs, and service-based companies across India.
+
+The primary goal is not to become another job portal but rather a **company discovery engine** that helps users answer:
+
+> "What companies exist around me that I can apply to?"
+
+---
+
+# Problem Statement
+
+Today's job search experience is broken.
+
+Students generally know only the popular companies like:
+
+- TCS
+- Infosys
+- Wipro
+- Accenture
+- Microsoft
+- Amazon
+
+However, every major tech hub contains hundreds or even thousands of companies that students have never heard of.
+
+Current platforms have several limitations:
+
+## Google Maps
+- Shows inconsistent IT company results
+- Misses hundreds of companies
+- Includes irrelevant businesses
+- Cannot distinguish software companies from marketing agencies
+- No hiring information, no internship information, no company filtering
+
+## LinkedIn
+Requires already knowing the company. Users cannot simply explore:
+> Show me every software company in Noida.
+
+## Job Portals
+Job portals focus on jobs, not companies. Users miss opportunities simply because they don't know those companies exist.
+
+---
+
+# Vision
+
+Build India's largest searchable database of technology companies visualized on an interactive map. Eventually become the default discovery platform for students before they start applying.
+
+---
+
+# Target Audience
+
+**Primary**
+- B.Tech / MCA / BCA / Data Science Students
+- Freshers, Internship seekers
+
+**Secondary**
+- Experienced Developers
+- Recruiters
+- Placement Cells
+- Career Coaches
+
+---
+
+# Core Idea
+
+Users search a city (e.g. `Noida`) and immediately see every software company, startup, IT park, product company, and MNC on an interactive map — filtered by viewport, not a flat unbounded list.
+
+---
+
+# Major Features
+
+## Interactive Map
+- Smooth zooming, marker clustering, company popups, company logos
+- Nearby companies, radius search, geolocation
+- Dark mode, satellite mode, heatmaps, cluster expansion
+
+## Company Discovery
+Search by Company Name, City, Technology, Role, Domain, Tech Stack, Company Size
+
+## Filters
+- **Location:** City, State, Radius
+- **Company Type:** Startup, Product, Service, MNC, Unicorn
+- **Hiring:** Internship, Freshers, Experienced
+- **Industry:** AI, SaaS, FinTech, EdTech, HealthTech, Gaming, Cloud, Cybersecurity, E-commerce
+- **Tech Stack:** Python, Java, React, Node, Spring Boot, Angular, AWS, Azure, Docker, Kubernetes, TensorFlow, PyTorch, SQL, Power BI
+- **Company Size:** 1-10, 10-50, 50-200, 200-1000, 1000+
+
+## Company Profile
+Logo, Description, Careers Page, LinkedIn, Website, Employee Count, Funding, Office Locations, Tech Stack, Hiring Status, Freshers Friendly Score, Internship Availability, Open Positions, Salary Insights, Glassdoor Rating, Nearby Companies, Metro Station, IT Park
+
+## Bookmarks
+Collections: Dream Companies, Applied, Internship Targets, Product Companies, AI Companies
+
+## Application Tracker
+Applied → OA → Interview → HR → Rejected → Offer
+
+## Company Comparison
+Salary, Hiring, Tech Stack, Interview Difficulty, Freshers Score
+
+## AI Features (Phase 3)
+Resume Matching, Company Recommendation, Cold Email Generator, Cover Letter Generator, Referral Message Generator, Career Assistant
+
+---
+
+# Technical Challenges & Solutions
+
+## Challenge 1 — Fetching Companies (biggest challenge)
+
+No single API contains every startup/software company in India. This requires a **custom, tiered data aggregation pipeline**, prioritized by cost and legal risk:
+
+**Tier 1 — Free, structured, low-risk sources (build first)**
+- **OpenStreetMap Overpass API** — free, no API key. Query `office=it` / `office=company` tags within city bounding boxes. Real, pre-geocoded seed data.
+- **Startup India Directory / data.gov.in / MCA public registry** — bulk-downloadable, legally clean company names + registered addresses.
+- **YC Company Directory** — low-risk, semi-structured, good product-company coverage.
+
+**Tier 2 — Careers page crawling**
+- **Scrapy** as the crawl framework — free, handles concurrency, retries, and politeness (`AUTOTHROTTLE`) out of the box.
+- **Playwright** used selectively, only for JS-heavy careers pages. Many ATS platforms (Greenhouse, Lever, Workable) expose their own JSON APIs — hit those directly instead of rendering pages where possible.
+- Generic heuristic crawler: from a company's root domain, discover `/careers`, `/jobs`, and footer links matching "careers"/"jobs"/"hiring" — this generalizes across thousands of unique company sites without per-site rules.
+- Respect `robots.txt`; rate-limit per domain to avoid IP bans across a multi-thousand-domain crawl.
+
+**Tier 3 — LinkedIn / Wellfound (deprioritized)**
+- LinkedIn actively blocks and fingerprints scrapers, and scraping violates its ToS — meaningful legal exposure, not just a technical hurdle.
+- Recommendation: do **not** scrape LinkedIn directly. Store user-submitted LinkedIn URLs only as reference links, not scraped content.
+
+**Deduplication / entity resolution**
+- **`rapidfuzz`** (free, fast Python fuzzy matching) on company names.
+- Combine with proximity checks (`ST_DWithin` within ~200m) to catch "same office, different spelling" duplicates across sources.
+
+---
+
+## Challenge 2 — Mapping Companies to Exact Locations
+
+Pipeline: Company Name → Office Address → Geocoding → Lat/Long → Marker Placement.
+
+**Geocoding — self-host Nominatim**
+- Public Nominatim's API is capped at 1 request/second — a hard bottleneck for a pipeline processing thousands of addresses.
+- Self-host Nominatim (`mediagis/nominatim` Docker image) using an **India-only OSM extract**. Fully free, removes the rate ceiling, and keeps the whole pipeline within free infrastructure.
+- Detect duplicate offices and multi-branch companies via the same fuzzy-match + proximity logic as Challenge 1.
+
+---
+
+## Challenge 3 — Continuous Data Synchronization
+
+Companies move, open branches, close offices, rename, get acquired. Background workers should periodically:
+- Revalidate addresses
+- Re-check careers pages for hiring status changes
+- Refresh metadata
+- Re-run dedup against newly ingested records
+
+Use **Celery + Redis** (both free, self-hosted) for scheduled/retry-heavy crawl jobs — better suited to long-running scraping workloads than a purely event-driven system. Reserve **Inngest** for lighter, event-triggered app-level workflows (e.g., "user bookmarked a company → send digest").
+
+---
+
+## Challenge 4 — Marker Clustering (Performance-Critical)
+
+Large cities may contain 8,000–20,000+ markers. Rendering that many DOM nodes client-side is slow regardless of clustering library.
+
+**Do clustering server-side, not just client-side:**
+- Run **Supercluster** on the backend (it's a plain Node library).
+- Backend receives current map viewport bounds + zoom level, returns only cluster centroids + counts as lightweight GeoJSON.
+- Client only renders what it's given — no raw 20k-point payloads shipped to the browser.
+- Cache clustered responses in **Redis**, keyed by `city:zoom:bbox`. Most users converge on similar viewports (e.g., "Noida at zoom 12"), so cache hit rates will be high.
+
+---
+
+## Challenge 5 — Search Performance
+
+Query example: `Python startups in Noida under 500 employees` — needs to return in milliseconds.
+
+- **MVP:** PostgreSQL full-text search + `pg_trgm` for fuzzy name/city matching. One fewer service to run; sufficient for early scale.
+- **Once search UX demands more** (typo tolerance, instant-as-you-type, faceted filtering at scale): add **Meilisearch** — fully open-source, Rust-based, far lighter to self-host than Elasticsearch, and free-tier-friendly on Fly.io/Railway. Preferred over Typesense Cloud/Elasticsearch given free-tier constraints and India-scale (thousands, not millions, of records) data volume.
+
+---
+
+# Tech Stack (Final — Free / Self-Hostable First)
+
+## Frontend
+- Next.js 15, React 19, TypeScript
+- Tailwind CSS, shadcn/ui, Framer Motion
+- TanStack Query, React Hook Form, Zod
+
+## Maps
+- **Leaflet + React Leaflet** with **OpenStreetMap** tiles (free, no API key required)
+- Leaflet.markercluster (client) + **Supercluster (server-side pre-clustering)**
+- Turf.js for geospatial calculations
+- *Future/optional:* Mapbox GL JS or Google Maps if budget allows
+
+## Backend
+- FastAPI (Python) — preferred for the data-aggregation/crawling agent given Python's scraping ecosystem
+- SQLAlchemy, Pydantic, JWT Authentication
+- Next.js API Routes for lightweight app-facing endpoints
+
+## Database
+- **PostgreSQL + PostGIS** (spatial queries, GiST indexes on `geography(Point, 4326)` columns)
+- **Redis** (viewport/cluster caching, Celery broker)
+- Free hosting: **Supabase** (already used in Mentara AI) or **Neon** — both include PostGIS on free tier
+
+## Search
+- **PostgreSQL `pg_trgm`** for MVP
+- **Meilisearch** (self-hosted, free) once faceted/typo-tolerant search is needed
+
+## Geocoding
+- **Self-hosted Nominatim** (India OSM extract, Docker) — avoids public API's 1 req/sec ceiling
+
+## Crawling / Data Aggregation
+- **Scrapy** — primary crawl framework (concurrency, retries, throttling)
+- **Playwright** — selectively for JS-rendered careers pages
+- **rapidfuzz** — deduplication / entity resolution
+
+## Background Jobs
+- **Celery + Redis** — crawl/sync workers (long-running, retry-heavy)
+- **Inngest** — lightweight event-driven app workflows
+
+## Storage
+- Supabase Storage (free tier) — logos, assets
+
+## Authentication
+- Clerk or Better Auth
+
+## ORM
+- SQLAlchemy (backend/crawling) / Prisma (if using Next.js API routes)
+
+## Deployment
+- Frontend: Vercel (free tier)
+- Backend/Workers: Railway, Fly.io, or Render (free/low-cost tiers)
+- Database: Supabase or Neon
+
+## Monitoring & Analytics
+- Sentry (error monitoring)
+- PostHog (product analytics)
+
+## AI
+- OpenAI / Gemini / OpenRouter (Phase 3 features)
+
+---
+
+# Database Schema
+
+## Company
+```
+id, name, slug, description, logo, website, linkedin, career_url
+industry, company_type, employee_count, funding
+freshers_score, glassdoor_rating, internships, hiring
+location (geography(Point,4326))  -- indexed with GiST
+address, city, state, country
+tech_stack[], roles[]
+data_source[]        -- e.g. ['osm','mca','scraped'] for provenance/dedup tracing
+last_verified_at      -- drives Challenge 3 re-sync scheduling
+created_at, updated_at
+```
+
+## Jobs
+```
+id, company_id, title, experience, salary, skills[]
+location, url, deadline
+```
+
+## Users
+```
+id, name, email, bookmarks[], applications[]
+```
+
+---
+
+# Engineering Roadmap
+
+## Phase 1 — Core Discovery
+- OSM/Overpass seed ingestion + self-hosted Nominatim geocoding
+- PostgreSQL + PostGIS schema with spatial indexes
+- Viewport-based map API with server-side Supercluster clustering
+- Basic search (`pg_trgm`) + filters
+- Company profiles (seeded data only)
+
+## Phase 2 — Data Depth & User Accounts
+- Scrapy careers-page crawler (Tier 2 sources)
+- Deduplication pipeline (rapidfuzz + proximity)
+- Authentication, Bookmarks, Application Tracker
+- Nearby companies, radius search
+
+## Phase 3 — Intelligence Layer
+- Meilisearch upgrade (if scale demands)
+- Celery-based continuous sync (Challenge 3)
+- AI Resume Matching, Recommendation Engine, Referral System, Cover Letter/Cold Email Generators
+
+---
+
+# AI Agent Breakdown
+
+| Agent | Responsibilities |
+|---|---|
+| **1 — UI/UX** | Landing page, responsive layouts, company cards, filter sidebar, dark mode, accessibility |
+| **2 — Maps** | Leaflet integration, server-aware marker clustering, radius search, geolocation, IT park overlays, heatmaps |
+| **3 — Backend** | REST APIs, auth, company CRUD, bookmarks, application tracker |
+| **4 — Data Aggregation** *(most critical)* | Fetch from Tier 1/2 sources, normalize names, geocode via self-hosted Nominatim, dedup, merge records, schedule syncs |
+| **5 — Search** | Full-text search, autocomplete, geo-distance queries, ranking, filtering |
+| **6 — AI** | Resume matching, recommendations, career assistant, cover letter/cold email generation |
+| **7 — DevOps** | CI/CD, Docker, monitoring, deployment, Redis caching, background workers |
+
+---
+
+# Success Metrics
+- Total indexed companies / supported cities
+- Monthly active users, average session duration
+- Companies viewed per session
+- Careers page click-through rate
+- Saved companies, applications tracked
+- Search-to-application conversion rate
+- **Data quality metrics (new):** % companies with verified `last_verified_at` < 30 days, duplicate rate post-dedup
+
+---
+
+# Long-Term Vision
+
+ScoutIT aims to become the definitive discovery platform for India's technology ecosystem, enabling students to explore companies geographically, uncover hidden opportunities beyond well-known brands, and make informed career decisions through accurate location data, rich company profiles, and intelligent search — built entirely on free and self-hostable infrastructure to keep the platform sustainable at scale.

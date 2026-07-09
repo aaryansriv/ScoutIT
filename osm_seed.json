@@ -1,0 +1,4269 @@
+[
+  {
+    "name": "Graylogic Technologies (P) Ltd",
+    "slug": "graylogic-technologies-(p)-ltd",
+    "website": "https://www.graylogictech.com/",
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4368217,
+    "lng": 78.5171502,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1341929876,
+    "osm_type": "node"
+  },
+  {
+    "name": "IGSA Labs",
+    "slug": "igsa-labs",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4108232,
+    "lng": 78.5433146,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1520935382,
+    "osm_type": "node"
+  },
+  {
+    "name": "CA Technologies",
+    "slug": "ca-technologies",
+    "website": null,
+    "phone": null,
+    "address": "115, IT Park Area, 500019",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4252488,
+    "lng": 78.3371948,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1708979372,
+    "osm_type": "node"
+  },
+  {
+    "name": "Klaxon IT Pvt Limited",
+    "slug": "klaxon-it-pvt-limited",
+    "website": null,
+    "phone": null,
+    "address": "Sbiicm road, 500034",
+    "city": "hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4061828,
+    "lng": 78.4388089,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 2352087835,
+    "osm_type": "node"
+  },
+  {
+    "name": "Vimukti Technologies Pvt. Ltd.",
+    "slug": "vimukti-technologies-pvt.-ltd.",
+    "website": "https://www.vimukti.com/",
+    "phone": "+91 9989696513",
+    "address": "28, Arul Colony, 500062",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4802343,
+    "lng": 78.5597281,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 2653181967,
+    "osm_type": "node"
+  },
+  {
+    "name": "SEO training company",
+    "slug": "seo-training-company",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4072383,
+    "lng": 78.4895496,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 2712519174,
+    "osm_type": "node"
+  },
+  {
+    "name": "shiridi sai & co",
+    "slug": "shiridi-sai-&-co",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4114899,
+    "lng": 78.4888552,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 2712659915,
+    "osm_type": "node"
+  },
+  {
+    "name": "virupaksha organics private limited",
+    "slug": "virupaksha-organics-private-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4135091,
+    "lng": 78.4927424,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 2712694274,
+    "osm_type": "node"
+  },
+  {
+    "name": "great deccan software",
+    "slug": "great-deccan-software",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4156396,
+    "lng": 78.4933368,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 2712709795,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ness Technologies",
+    "slug": "ness-technologies",
+    "website": "https://www.ness.com/en-in/Company/Pages/Contact-Us.aspx",
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4447312,
+    "lng": 78.3804836,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 2964578879,
+    "osm_type": "node"
+  },
+  {
+    "name": "Colruyt IT Consultancy India Pvt. Ltd.",
+    "slug": "colruyt-it-consultancy-india-pvt.-ltd.",
+    "website": "http://www.colruyt.in",
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4436265,
+    "lng": 78.381557,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 3009394901,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hatch Force",
+    "slug": "hatch-force",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4436259,
+    "lng": 78.4699308,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 3010469787,
+    "osm_type": "node"
+  },
+  {
+    "name": "Pearson Prometric center",
+    "slug": "pearson-prometric-center",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4253124,
+    "lng": 78.4248624,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 3159027259,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ikeva Hyderabad",
+    "slug": "ikeva-hyderabad",
+    "website": "https://www.ikeva.com/locations/hyderabad/banjarahills/",
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4141343,
+    "lng": 78.4489203,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 3218374885,
+    "osm_type": "node"
+  },
+  {
+    "name": "Agra Mithaiwala",
+    "slug": "agra-mithaiwala",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4958411,
+    "lng": 78.3983798,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 3388786586,
+    "osm_type": "node"
+  },
+  {
+    "name": "Geosys Enterprise Solutions Pvt. Ltd.",
+    "slug": "geosys-enterprise-solutions-pvt.-ltd.",
+    "website": "https://geosys.co.in/",
+    "phone": "+914065522333",
+    "address": "6-3-841/A/2/C-1, Shanthi Nagar Colony, 500016",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4333627,
+    "lng": 78.4487106,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 3404080921,
+    "osm_type": "node"
+  },
+  {
+    "name": "Jaini pvt ltd.",
+    "slug": "jaini-pvt-ltd.",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4581182,
+    "lng": 78.371696,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 3490944915,
+    "osm_type": "node"
+  },
+  {
+    "name": "Lampex Electronics Limited",
+    "slug": "lampex-electronics-limited",
+    "website": "https://lampex.com/",
+    "phone": "+91 40 23157701",
+    "address": "6-2-231/B, Vivek Nagar, People's Hospital Lane, Kukatpally, 500072",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4813509,
+    "lng": 78.4128561,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 4375736010,
+    "osm_type": "node"
+  },
+  {
+    "name": "Unwired Labs (India) Pvt Ltd",
+    "slug": "unwired-labs-(india)-pvt-ltd",
+    "website": "https://unwiredlabs.com",
+    "phone": "+91-4066-588335",
+    "address": "500033",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.421227,
+    "lng": 78.4006673,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 4398575802,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mother Dairy",
+    "slug": "mother-dairy",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3387939,
+    "lng": 78.6160269,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 4518702940,
+    "osm_type": "node"
+  },
+  {
+    "name": "Option Matrix Infotech Private Limited.",
+    "slug": "option-matrix-infotech-private-limited.",
+    "website": "https://optionmatrix.com/",
+    "phone": "+91 40 64553464",
+    "address": "100 Feet Road, Silicon Valley, Madhapur, 500081",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4520758,
+    "lng": 78.3934693,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 4644283716,
+    "osm_type": "node"
+  },
+  {
+    "name": "La McLean India Pvt. Ltd.",
+    "slug": "la-mclean-india-pvt.-ltd.",
+    "website": "http://www.mclean.in",
+    "phone": "7997951113",
+    "address": "1-89/3/B/40-42/KS/101, First Floor, Krishe Sapphire, Vittal Rao Nagar Madhapur,, 500081",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4425427,
+    "lng": 78.3871539,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 5004970204,
+    "osm_type": "node"
+  },
+  {
+    "name": "Virinchi Limited",
+    "slug": "virinchi-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.5637085,
+    "lng": 78.5343981,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 5323551821,
+    "osm_type": "node"
+  },
+  {
+    "name": "Celebrity prime developers",
+    "slug": "celebrity-prime-developers",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.437031,
+    "lng": 78.3662649,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 5405045516,
+    "osm_type": "node"
+  },
+  {
+    "name": "DLF park",
+    "slug": "dlf-park",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4475097,
+    "lng": 78.3549186,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 5405055429,
+    "osm_type": "node"
+  },
+  {
+    "name": "DSR Elite",
+    "slug": "dsr-elite",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4455688,
+    "lng": 78.3839957,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 5483179723,
+    "osm_type": "node"
+  },
+  {
+    "name": "Murthy & Manyam , Architect and Engineers",
+    "slug": "murthy-&-manyam-,-architect-and-engineers",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4127855,
+    "lng": 78.4516075,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 5578115622,
+    "osm_type": "node"
+  },
+  {
+    "name": "Tata Teleservices",
+    "slug": "tata-teleservices",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.2405517,
+    "lng": 78.4740863,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 5636454031,
+    "osm_type": "node"
+  },
+  {
+    "name": "Pramati Technologies Pvt. Ltd.",
+    "slug": "pramati-technologies-pvt.-ltd.",
+    "website": "https://www.pramati.com/",
+    "phone": null,
+    "address": "Road Number 1, Banjara Hills, 500034",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4233406,
+    "lng": 78.4493438,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6115279982,
+    "osm_type": "node"
+  },
+  {
+    "name": "TechMahindra SEZ",
+    "slug": "techmahindra-sez",
+    "website": "https://techmahindra.com/",
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4516662,
+    "lng": 78.3726007,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6161311486,
+    "osm_type": "node"
+  },
+  {
+    "name": "TechMahindra Infocity",
+    "slug": "techmahindra-infocity",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4532589,
+    "lng": 78.3716982,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6161344386,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sharp Detective & Security Services",
+    "slug": "sharp-detective-&-security-services",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4025757,
+    "lng": 78.4616176,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6208399485,
+    "osm_type": "node"
+  },
+  {
+    "name": "Tata Advance Systems Ltd.",
+    "slug": "tata-advance-systems-ltd.",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.2440483,
+    "lng": 78.5418811,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6273534626,
+    "osm_type": "node"
+  },
+  {
+    "name": "eSKAR Technologies",
+    "slug": "eskar-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4875728,
+    "lng": 78.3949419,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6288921960,
+    "osm_type": "node"
+  },
+  {
+    "name": "ZF India ITC U2",
+    "slug": "zf-india-itc-u2",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4039538,
+    "lng": 78.3313926,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6427367873,
+    "osm_type": "node"
+  },
+  {
+    "name": "Vintech Computers",
+    "slug": "vintech-computers",
+    "website": "https://www.vintechcomputers.com",
+    "phone": "9397974748",
+    "address": "1-3-183/40/57/1, Opp: Med Plus, Gandhinagar Main Road, Kavadiguda, 500080",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4167129,
+    "lng": 78.4883365,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6477254806,
+    "osm_type": "node"
+  },
+  {
+    "name": "JRD Interiors India Private Limited",
+    "slug": "jrd-interiors-india-private-limited",
+    "website": "https://www.jrdinteriors.com/",
+    "phone": "9182172167",
+    "address": "HIG B166, APHB Colony,Phase-IV,Gachibowli,, 500032",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4479993,
+    "lng": 78.3599578,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6501447999,
+    "osm_type": "node"
+  },
+  {
+    "name": "Delta Technologies & Management Pvt Ltd",
+    "slug": "delta-technologies-&-management-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.438977,
+    "lng": 78.3867579,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6633198227,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mythriis Consulting Private Limited",
+    "slug": "mythriis-consulting-private-limited",
+    "website": null,
+    "phone": null,
+    "address": "C14, Road Number 1, 500072",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4878216,
+    "lng": 78.4001015,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6667973185,
+    "osm_type": "node"
+  },
+  {
+    "name": "Satven - Satyam Venture Engineering Services",
+    "slug": "satven---satyam-venture-engineering-services",
+    "website": null,
+    "phone": null,
+    "address": "1-8-301-306, 3rd Floor, Ashoka My Home Chamber, Sardar Patel Road, 500003",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4422555,
+    "lng": 78.4802531,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6768700085,
+    "osm_type": "node"
+  },
+  {
+    "name": "krishnalLogic Technologies",
+    "slug": "krishnallogic-technologies",
+    "website": null,
+    "phone": null,
+    "address": "Gachibowli",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4472389,
+    "lng": 78.3556236,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6829520560,
+    "osm_type": "node"
+  },
+  {
+    "name": "Cloudtree Technologies",
+    "slug": "cloudtree-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4436864,
+    "lng": 78.4349322,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6847914738,
+    "osm_type": "node"
+  },
+  {
+    "name": "Trigeo Technologies",
+    "slug": "trigeo-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4516375,
+    "lng": 78.3921952,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6866164613,
+    "osm_type": "node"
+  },
+  {
+    "name": "Purva Summit",
+    "slug": "purva-summit",
+    "website": null,
+    "phone": null,
+    "address": "Whitefields Road, 500081",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4535856,
+    "lng": 78.3701194,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6868808571,
+    "osm_type": "node"
+  },
+  {
+    "name": "CipherHub Solutions",
+    "slug": "cipherhub-solutions",
+    "website": null,
+    "phone": null,
+    "address": "#201, Mount Raghava Complex, Dwarakapuri Colony, 500082",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4247098,
+    "lng": 78.4521203,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6917426913,
+    "osm_type": "node"
+  },
+  {
+    "name": "Kapston",
+    "slug": "kapston",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4501266,
+    "lng": 78.3869884,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6935208973,
+    "osm_type": "node"
+  },
+  {
+    "name": "Karvy",
+    "slug": "karvy",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4497721,
+    "lng": 78.3870909,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6935240991,
+    "osm_type": "node"
+  },
+  {
+    "name": "Gvr infra technologies",
+    "slug": "gvr-infra-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4487778,
+    "lng": 78.3893735,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 6935384866,
+    "osm_type": "node"
+  },
+  {
+    "name": "Oakton consulting technology",
+    "slug": "oakton-consulting-technology",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4339834,
+    "lng": 78.4058605,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021286921,
+    "osm_type": "node"
+  },
+  {
+    "name": "ICS Tech Service Pvt Ltd",
+    "slug": "ics-tech-service-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4396921,
+    "lng": 78.3854689,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303615,
+    "osm_type": "node"
+  },
+  {
+    "name": "Elearn Web Designing Course With Placement Hyderabad",
+    "slug": "elearn-web-designing-course-with-placement-hyderabad",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4399431,
+    "lng": 78.3849009,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303616,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sine90 Software Labs Pvt Ltd",
+    "slug": "sine90-software-labs-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4427508,
+    "lng": 78.3861477,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303618,
+    "osm_type": "node"
+  },
+  {
+    "name": "37 Media",
+    "slug": "37-media",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4426807,
+    "lng": 78.3861367,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303620,
+    "osm_type": "node"
+  },
+  {
+    "name": "Prime Software Solutions Pvt Ltd",
+    "slug": "prime-software-solutions-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4425246,
+    "lng": 78.3873128,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303621,
+    "osm_type": "node"
+  },
+  {
+    "name": "Global Logic Technologies",
+    "slug": "global-logic-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4434326,
+    "lng": 78.3865148,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303624,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sufisoft Pvt Ltd",
+    "slug": "sufisoft-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4424896,
+    "lng": 78.3873649,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303625,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shras IT Solutions Pvt Ltd",
+    "slug": "shras-it-solutions-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4425571,
+    "lng": 78.3872312,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303626,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aadithya IT Service",
+    "slug": "aadithya-it-service",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4423936,
+    "lng": 78.387371,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303627,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sep Architects Pvt Ltd.",
+    "slug": "sep-architects-pvt-ltd.",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4424829,
+    "lng": 78.3872417,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303628,
+    "osm_type": "node"
+  },
+  {
+    "name": "Prog9 Softtech Private Ltd",
+    "slug": "prog9-softtech-private-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4424393,
+    "lng": 78.3873089,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303631,
+    "osm_type": "node"
+  },
+  {
+    "name": "Abridge Sol",
+    "slug": "abridge-sol",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4423806,
+    "lng": 78.3861538,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303632,
+    "osm_type": "node"
+  },
+  {
+    "name": "Apex Covantage",
+    "slug": "apex-covantage",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4424234,
+    "lng": 78.3874247,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303634,
+    "osm_type": "node"
+  },
+  {
+    "name": "Friendknows Technologies Pvt Ltd",
+    "slug": "friendknows-technologies-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4419526,
+    "lng": 78.3854194,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303636,
+    "osm_type": "node"
+  },
+  {
+    "name": "Big C corporate Office",
+    "slug": "big-c-corporate-office",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4424394,
+    "lng": 78.3853676,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303643,
+    "osm_type": "node"
+  },
+  {
+    "name": "InteGen IT Services Pvt. Ltd.",
+    "slug": "integen-it-services-pvt.-ltd.",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4499208,
+    "lng": 78.3874684,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303650,
+    "osm_type": "node"
+  },
+  {
+    "name": "Agiliq Info Solutions India Private Ltd",
+    "slug": "agiliq-info-solutions-india-private-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4378651,
+    "lng": 78.3957729,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303665,
+    "osm_type": "node"
+  },
+  {
+    "name": "Votigo Software Pvt Ltd",
+    "slug": "votigo-software-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4385983,
+    "lng": 78.3871502,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303666,
+    "osm_type": "node"
+  },
+  {
+    "name": "Maventus Software Technologies Private. Ltd.",
+    "slug": "maventus-software-technologies-private.-ltd.",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4371861,
+    "lng": 78.3945689,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303667,
+    "osm_type": "node"
+  },
+  {
+    "name": "CADVision Engineers Pvt Ltd",
+    "slug": "cadvision-engineers-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4509736,
+    "lng": 78.3858634,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303668,
+    "osm_type": "node"
+  },
+  {
+    "name": "Golden Sun Technology Pvt Ltd",
+    "slug": "golden-sun-technology-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4509776,
+    "lng": 78.3860316,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303670,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fedele Info solutions India pvt ltd",
+    "slug": "fedele-info-solutions-india-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4335926,
+    "lng": 78.3922862,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303674,
+    "osm_type": "node"
+  },
+  {
+    "name": "Teamworks Creative Solutions",
+    "slug": "teamworks-creative-solutions",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4514281,
+    "lng": 78.3874948,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303675,
+    "osm_type": "node"
+  },
+  {
+    "name": "Syena Infosoft Pvt Ltd",
+    "slug": "syena-infosoft-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4517941,
+    "lng": 78.3877715,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303676,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dts Services",
+    "slug": "dts-services",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4506702,
+    "lng": 78.3873586,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303677,
+    "osm_type": "node"
+  },
+  {
+    "name": "Photon Technologies",
+    "slug": "photon-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4507461,
+    "lng": 78.3876159,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303678,
+    "osm_type": "node"
+  },
+  {
+    "name": "Smarttrak Solar Systems",
+    "slug": "smarttrak-solar-systems",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4439768,
+    "lng": 78.3853005,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303679,
+    "osm_type": "node"
+  },
+  {
+    "name": "Finexcore India Private Limited",
+    "slug": "finexcore-india-private-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4495375,
+    "lng": 78.3861145,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303681,
+    "osm_type": "node"
+  },
+  {
+    "name": "WebFurther India Pvt. Ltd.",
+    "slug": "webfurther-india-pvt.-ltd.",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4500391,
+    "lng": 78.3861339,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303682,
+    "osm_type": "node"
+  },
+  {
+    "name": "Verudix Solutions Pvt Ltd",
+    "slug": "verudix-solutions-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4379387,
+    "lng": 78.3878765,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303684,
+    "osm_type": "node"
+  },
+  {
+    "name": "SCI IT Solutions Pvt Ltd/ Radiant Digital Solutions Pvt Ltd",
+    "slug": "sci-it-solutions-pvt-ltd--radiant-digital-solutions-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4471383,
+    "lng": 78.38535,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303686,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ekincare (Aayuv Technologies Pvt Ltd)",
+    "slug": "ekincare-(aayuv-technologies-pvt-ltd)",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4380006,
+    "lng": 78.3874784,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303689,
+    "osm_type": "node"
+  },
+  {
+    "name": "Logic Planet IT Services Pvt Ltd",
+    "slug": "logic-planet-it-services-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4380455,
+    "lng": 78.3874954,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303690,
+    "osm_type": "node"
+  },
+  {
+    "name": "Infinus Capital Management Pvt Ltd",
+    "slug": "infinus-capital-management-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4377032,
+    "lng": 78.385525,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303691,
+    "osm_type": "node"
+  },
+  {
+    "name": "United Technologies Corp",
+    "slug": "united-technologies-corp",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4375191,
+    "lng": 78.3854449,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303698,
+    "osm_type": "node"
+  },
+  {
+    "name": "Velaga Soft Solutions Private Limited",
+    "slug": "velaga-soft-solutions-private-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.449272,
+    "lng": 78.3855176,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303699,
+    "osm_type": "node"
+  },
+  {
+    "name": "BeetleRim Technologies Private Limited",
+    "slug": "beetlerim-technologies-private-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4506391,
+    "lng": 78.3854539,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303700,
+    "osm_type": "node"
+  },
+  {
+    "name": "Vasista Enterprise Solutions Pvt. Ltd.",
+    "slug": "vasista-enterprise-solutions-pvt.-ltd.",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4474301,
+    "lng": 78.3852469,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303702,
+    "osm_type": "node"
+  },
+  {
+    "name": "BlackGrand Stone India Private Limited",
+    "slug": "blackgrand-stone-india-private-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4512452,
+    "lng": 78.3854514,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303704,
+    "osm_type": "node"
+  },
+  {
+    "name": "Chekhra Business Solutions Private Limited",
+    "slug": "chekhra-business-solutions-private-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4507851,
+    "lng": 78.3854519,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303705,
+    "osm_type": "node"
+  },
+  {
+    "name": "Lamtuf Plastics Limited",
+    "slug": "lamtuf-plastics-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4508641,
+    "lng": 78.3854503,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303706,
+    "osm_type": "node"
+  },
+  {
+    "name": "OnexSoftech Private limited",
+    "slug": "onexsoftech-private-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4517089,
+    "lng": 78.3854175,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7021303710,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fission Labs",
+    "slug": "fission-labs",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4348859,
+    "lng": 78.4033828,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820746,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ray Business Technologies Pvt Ltd.",
+    "slug": "ray-business-technologies-pvt-ltd.",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.438123,
+    "lng": 78.3937226,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820748,
+    "osm_type": "node"
+  },
+  {
+    "name": "Web Syn",
+    "slug": "web-syn",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4348029,
+    "lng": 78.3875868,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820754,
+    "osm_type": "node"
+  },
+  {
+    "name": "VNS Makro Technologies (P) Ltd.",
+    "slug": "vns-makro-technologies-(p)-ltd.",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4388839,
+    "lng": 78.3949558,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820760,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rapido Technologies",
+    "slug": "rapido-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4385117,
+    "lng": 78.3954752,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820763,
+    "osm_type": "node"
+  },
+  {
+    "name": "Omega IT Professionals Pvt Ltd",
+    "slug": "omega-it-professionals-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4385871,
+    "lng": 78.3952496,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820765,
+    "osm_type": "node"
+  },
+  {
+    "name": "CSR IMPEX Private Limited",
+    "slug": "csr-impex-private-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4450609,
+    "lng": 78.4002668,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820770,
+    "osm_type": "node"
+  },
+  {
+    "name": "Saky Technologies Pvt Ltd",
+    "slug": "saky-technologies-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.446079,
+    "lng": 78.3998989,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820775,
+    "osm_type": "node"
+  },
+  {
+    "name": "ENH iSecure Pvt Ltd",
+    "slug": "enh-isecure-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4453869,
+    "lng": 78.3980799,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820777,
+    "osm_type": "node"
+  },
+  {
+    "name": "Inforaise Technologies Pvt Ltd",
+    "slug": "inforaise-technologies-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4453459,
+    "lng": 78.3980738,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820781,
+    "osm_type": "node"
+  },
+  {
+    "name": "Nimbu Tech Systems",
+    "slug": "nimbu-tech-systems",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4342859,
+    "lng": 78.3933318,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820807,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sri Kakatiya Industries (India)Pvt.ltd",
+    "slug": "sri-kakatiya-industries-(india)pvt.ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4351204,
+    "lng": 78.3938267,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820808,
+    "osm_type": "node"
+  },
+  {
+    "name": "NCentric Technologies India pvt ltd",
+    "slug": "ncentric-technologies-india-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4498239,
+    "lng": 78.3925588,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820817,
+    "osm_type": "node"
+  },
+  {
+    "name": "Varsity Management pvt ltd",
+    "slug": "varsity-management-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.448758,
+    "lng": 78.3917836,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820819,
+    "osm_type": "node"
+  },
+  {
+    "name": "Kclink Technologies Pvt.Ltd",
+    "slug": "kclink-technologies-pvt.ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4488994,
+    "lng": 78.3917543,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820820,
+    "osm_type": "node"
+  },
+  {
+    "name": "Vision India Infrastructure Private Limited",
+    "slug": "vision-india-infrastructure-private-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4516349,
+    "lng": 78.3920656,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820822,
+    "osm_type": "node"
+  },
+  {
+    "name": "Techgallore It Solutions",
+    "slug": "techgallore-it-solutions",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4481249,
+    "lng": 78.3912448,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820827,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medintu Health Solutions Pvt. Ltd.",
+    "slug": "medintu-health-solutions-pvt.-ltd.",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4507745,
+    "lng": 78.3915126,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820831,
+    "osm_type": "node"
+  },
+  {
+    "name": "Virchow Biotech Pvt Ltd",
+    "slug": "virchow-biotech-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4510477,
+    "lng": 78.3914536,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820833,
+    "osm_type": "node"
+  },
+  {
+    "name": "Izetta IT Solutions",
+    "slug": "izetta-it-solutions",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4511435,
+    "lng": 78.3908647,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820834,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sneha Software Solutions",
+    "slug": "sneha-software-solutions",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4346899,
+    "lng": 78.3919878,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820839,
+    "osm_type": "node"
+  },
+  {
+    "name": "Athena Technology Solution",
+    "slug": "athena-technology-solution",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.436618,
+    "lng": 78.3956996,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820841,
+    "osm_type": "node"
+  },
+  {
+    "name": "Technovert",
+    "slug": "technovert",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4373379,
+    "lng": 78.393206,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820844,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shore Infotech India pvt",
+    "slug": "shore-infotech-india-pvt",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4368017,
+    "lng": 78.3962956,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820845,
+    "osm_type": "node"
+  },
+  {
+    "name": "Moldtek Technologies",
+    "slug": "moldtek-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4350336,
+    "lng": 78.4039997,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820859,
+    "osm_type": "node"
+  },
+  {
+    "name": "Choral Technologies",
+    "slug": "choral-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4401776,
+    "lng": 78.3937366,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820867,
+    "osm_type": "node"
+  },
+  {
+    "name": "Arbiva Technologies Pvt Ltd",
+    "slug": "arbiva-technologies-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4401774,
+    "lng": 78.3934036,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820868,
+    "osm_type": "node"
+  },
+  {
+    "name": "Vinsys IT Services India Pvt Ltd.",
+    "slug": "vinsys-it-services-india-pvt-ltd.",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.441144,
+    "lng": 78.3925285,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820890,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ingresos Technologies",
+    "slug": "ingresos-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4415909,
+    "lng": 78.390402,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820898,
+    "osm_type": "node"
+  },
+  {
+    "name": "RR Technologies",
+    "slug": "rr-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4418719,
+    "lng": 78.3887818,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7025820905,
+    "osm_type": "node"
+  },
+  {
+    "name": "BIR Solutions",
+    "slug": "bir-solutions",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.444095,
+    "lng": 78.4009588,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7027817040,
+    "osm_type": "node"
+  },
+  {
+    "name": "RMSI",
+    "slug": "rmsi",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4352373,
+    "lng": 78.3857761,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7035236544,
+    "osm_type": "node"
+  },
+  {
+    "name": "Proventures Education and Consulting Services",
+    "slug": "proventures-education-and-consulting-services",
+    "website": null,
+    "phone": null,
+    "address": ": Plot No.16, 4th Floor, Triveni Towers Silicon Valley, 100 Feet Road ,Madhapur, 500081",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4516919,
+    "lng": 78.3854901,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7140598803,
+    "osm_type": "node"
+  },
+  {
+    "name": "PLLC software Solutions",
+    "slug": "pllc-software-solutions",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3680701,
+    "lng": 78.5403041,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7152903470,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sutherland Global Service",
+    "slug": "sutherland-global-service",
+    "website": null,
+    "phone": null,
+    "address": "lancohills Road",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.412001,
+    "lng": 78.3705553,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7244175919,
+    "osm_type": "node"
+  },
+  {
+    "name": "Cyient Technologies pvt ltd",
+    "slug": "cyient-technologies-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": "Lancohills Road",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4118924,
+    "lng": 78.3706293,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7244175920,
+    "osm_type": "node"
+  },
+  {
+    "name": "Strstosphere it services pvtltd",
+    "slug": "strstosphere-it-services-pvtltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4901036,
+    "lng": 78.3937711,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7246482632,
+    "osm_type": "node"
+  },
+  {
+    "name": "Find logics software",
+    "slug": "find-logics-software",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4890374,
+    "lng": 78.3929332,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7246498934,
+    "osm_type": "node"
+  },
+  {
+    "name": "ux reactor india pvt",
+    "slug": "ux-reactor-india-pvt",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.489193,
+    "lng": 78.3930605,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7246498936,
+    "osm_type": "node"
+  },
+  {
+    "name": "collabra technologies",
+    "slug": "collabra-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4891624,
+    "lng": 78.3928739,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7246498937,
+    "osm_type": "node"
+  },
+  {
+    "name": "Wellsfargo",
+    "slug": "wellsfargo",
+    "website": null,
+    "phone": null,
+    "address": "Old Bombay Highway, Raidurgam",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4243166,
+    "lng": 78.3788008,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7248877411,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sri Technologies",
+    "slug": "sri-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.430947,
+    "lng": 78.3931322,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7385432960,
+    "osm_type": "node"
+  },
+  {
+    "name": "Bizviz Technologies",
+    "slug": "bizviz-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4572278,
+    "lng": 78.3706149,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7597687772,
+    "osm_type": "node"
+  },
+  {
+    "name": "Tech Mahindra BPO Limited",
+    "slug": "tech-mahindra-bpo-limited",
+    "website": null,
+    "phone": null,
+    "address": "plot no 53/a, Sebastian Road, 500003",
+    "city": "Secunderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4399563,
+    "lng": 78.5000521,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 7642365584,
+    "osm_type": "node"
+  },
+  {
+    "name": "NextBillion.ai",
+    "slug": "nextbillion.ai",
+    "website": "https://nextbillion.ai/",
+    "phone": null,
+    "address": "Trendz Utility, 1st Floor, Vittal Rao Nagar Rd, Vittal Rao Nagar, HITEC City, Hyderabad, Telangana 500081",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "lat": 17.4378622,
+    "lng": 78.3877308,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 8129902419,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mantravy Online Services",
+    "slug": "mantravy-online-services",
+    "website": "https://mantravy.com/",
+    "phone": "040 4858 1616",
+    "address": "532, 100 Feet Road, Megha Hills, Madhapur, 500081",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4519517,
+    "lng": 78.3939093,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 8354338133,
+    "osm_type": "node"
+  },
+  {
+    "name": "Tez Solutions",
+    "slug": "tez-solutions",
+    "website": null,
+    "phone": null,
+    "address": "1-33-155, Lake Ville Extension, RTC Colony, Tirumalagiri",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4741207,
+    "lng": 78.4970054,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 9272496603,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fleetronix Systems",
+    "slug": "fleetronix-systems",
+    "website": "https://fleetronix.io",
+    "phone": null,
+    "address": "House No:70/P, Road No:5, Janardhan Hills, Gachibowli, Hyderabad - 500032",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4373204,
+    "lng": 78.3689595,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 9274990414,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aha (Arha Media & Broadcasting Private Limited)",
+    "slug": "aha-(arha-media-&-broadcasting-private-limited)",
+    "website": "https://www.aha.video/",
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4263257,
+    "lng": 78.4387451,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 9369175405,
+    "osm_type": "node"
+  },
+  {
+    "name": "Absolute Online Web | Website Designers in Hyderabad | Digital Marketing in Hyderabad | SEO Services in Hyderabad",
+    "slug": "absolute-online-web-|-website-designers-in-hyderabad-|-digital-marketing-in-hyderabad-|-seo-services",
+    "website": "https://www.aoplweb.com/",
+    "phone": "+91 8885411511",
+    "address": "16-2-45/B, Sayeedabad Road Jeevan Yaar Jung Colony, Akbarbagh, New Malakpet, 500059",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3647284,
+    "lng": 78.5063426,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 9770198992,
+    "osm_type": "node"
+  },
+  {
+    "name": "Internet Marketing Services in Hyderabad | Book a service",
+    "slug": "internet-marketing-services-in-hyderabad-|-book-a-service",
+    "website": "https://aoplweb.in/",
+    "phone": "+91 9849720320",
+    "address": "Cyber Pearl B-Block,, HiTech City, Madhapur, Hyderabad, Telangana 500081, 500081",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4457128,
+    "lng": 78.3761857,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 9773299678,
+    "osm_type": "node"
+  },
+  {
+    "name": "Guidewell IT Private Limited",
+    "slug": "guidewell-it-private-limited",
+    "website": "https://guidewellit.com",
+    "phone": "+91 8883888769",
+    "address": "819/8 Manjeera Majestic Commercial, 8th Floor, JNTU Rd, Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4919043,
+    "lng": 78.3936423,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 9788465128,
+    "osm_type": "node"
+  },
+  {
+    "name": "Bosch Limited",
+    "slug": "bosch-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.443779,
+    "lng": 78.3739892,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 10279728138,
+    "osm_type": "node"
+  },
+  {
+    "name": "Gebbs Healthcare Solutions",
+    "slug": "gebbs-healthcare-solutions",
+    "website": null,
+    "phone": null,
+    "address": "Hitech City Road",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4437278,
+    "lng": 78.3738392,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 10279728139,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hindhuja Global Solutions",
+    "slug": "hindhuja-global-solutions",
+    "website": null,
+    "phone": null,
+    "address": "DLF Road",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4473795,
+    "lng": 78.3559499,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 10279728140,
+    "osm_type": "node"
+  },
+  {
+    "name": "Teleperformance Limited",
+    "slug": "teleperformance-limited",
+    "website": null,
+    "phone": null,
+    "address": "Hitech city Madhapur road",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4552628,
+    "lng": 78.3727811,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 10279728141,
+    "osm_type": "node"
+  },
+  {
+    "name": "IT",
+    "slug": "it",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4000808,
+    "lng": 78.5558495,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 10774569822,
+    "osm_type": "node"
+  },
+  {
+    "name": "Linkfields Innovations Private Limited",
+    "slug": "linkfields-innovations-private-limited",
+    "website": "https://linkfields.com/",
+    "phone": "+914045474849",
+    "address": "809, Gowra Fountain Head, Huda Techo Enclave, Vitta Rao Nagar, 500081",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4439943,
+    "lng": 78.3831535,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 10849248414,
+    "osm_type": "node"
+  },
+  {
+    "name": "Proventures Education & Consulting Services",
+    "slug": "proventures-education-&-consulting-services",
+    "website": "https://www.proventuresindia.com/",
+    "phone": null,
+    "address": "102- Nestcon Zion Apartments",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4654122,
+    "lng": 78.3085512,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11015675861,
+    "osm_type": "node"
+  },
+  {
+    "name": "HCL Technologies",
+    "slug": "hcl-technologies",
+    "website": null,
+    "phone": null,
+    "address": "H01B",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4473809,
+    "lng": 78.3712865,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11099903505,
+    "osm_type": "node"
+  },
+  {
+    "name": "Infrability IT Solutions",
+    "slug": "infrability-it-solutions",
+    "website": null,
+    "phone": null,
+    "address": "500032",
+    "city": "hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4226768,
+    "lng": 78.381343,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11101235047,
+    "osm_type": "node"
+  },
+  {
+    "name": "Microchip Hyderabad",
+    "slug": "microchip-hyderabad",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4008497,
+    "lng": 78.3384549,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11447353970,
+    "osm_type": "node"
+  },
+  {
+    "name": "ADP",
+    "slug": "adp",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.41538,
+    "lng": 78.3542806,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11447371958,
+    "osm_type": "node"
+  },
+  {
+    "name": "Evergent",
+    "slug": "evergent",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4226031,
+    "lng": 78.3470936,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11447371959,
+    "osm_type": "node"
+  },
+  {
+    "name": "EPIQ Systems",
+    "slug": "epiq-systems",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4225774,
+    "lng": 78.3469906,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11447371960,
+    "osm_type": "node"
+  },
+  {
+    "name": "OnePlus",
+    "slug": "oneplus",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4228419,
+    "lng": 78.3469795,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11447371961,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fedex ACC Hyderabad",
+    "slug": "fedex-acc-hyderabad",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4266377,
+    "lng": 78.3404173,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11447371962,
+    "osm_type": "node"
+  },
+  {
+    "name": "ZF Technology Centre",
+    "slug": "zf-technology-centre",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4265082,
+    "lng": 78.340219,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11447371963,
+    "osm_type": "node"
+  },
+  {
+    "name": "BETA CAE Systems India Pvt. Ltd. (Hyderabad Office)",
+    "slug": "beta-cae-systems-india-pvt.-ltd.-(hyderabad-office)",
+    "website": "https://www.beta-cae.com/",
+    "phone": "+918066493400",
+    "address": "500033",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4305019,
+    "lng": 78.4081313,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11578362769,
+    "osm_type": "node"
+  },
+  {
+    "name": "Digital Mojo",
+    "slug": "digital-mojo",
+    "website": "https://www.digitalmojo.in/",
+    "phone": null,
+    "address": "Plot No. 34A, Lane No. 12, 500033",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4120529,
+    "lng": 78.420126,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11601446167,
+    "osm_type": "node"
+  },
+  {
+    "name": "Manjeera trinity corporate",
+    "slug": "manjeera-trinity-corporate",
+    "website": null,
+    "phone": "9390683154",
+    "address": "514, manjeera trnity, 500072",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.489259,
+    "lng": 78.3926692,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11736399718,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ion Digital Zone CVK Infrastructure,Near coca cola factory,opp jubliant food",
+    "slug": "ion-digital-zone-cvk-infrastructure,near-coca-cola-factory,opp-jubliant-food",
+    "website": null,
+    "phone": null,
+    "address": "12, NFC Main Road",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.455895,
+    "lng": 78.5572447,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11993246269,
+    "osm_type": "node"
+  },
+  {
+    "name": "iON Digital Zone, iDZ L.B.Nagar",
+    "slug": "ion-digital-zone,-idz-l.b.nagar",
+    "website": null,
+    "phone": null,
+    "address": "Saroor Nagar Mini Tank Bund Road",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3443332,
+    "lng": 78.549101,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11993252069,
+    "osm_type": "node"
+  },
+  {
+    "name": "iON Digital Zone iDz2",
+    "slug": "ion-digital-zone-idz2",
+    "website": null,
+    "phone": null,
+    "address": "3-56/3, Vivekananda Nagar",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4470547,
+    "lng": 78.5717177,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11993257569,
+    "osm_type": "node"
+  },
+  {
+    "name": "iON Digital Zone, iDZ Karmanghat",
+    "slug": "ion-digital-zone,-idz-karmanghat",
+    "website": null,
+    "phone": null,
+    "address": "32/A, Bairamalguda Main Road",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3439132,
+    "lng": 78.5366913,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11993260572,
+    "osm_type": "node"
+  },
+  {
+    "name": "iON Digital Zone, Old Alwal",
+    "slug": "ion-digital-zone,-old-alwal",
+    "website": null,
+    "phone": null,
+    "address": "1-5-909/1, Father Balaiah Nagar",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.5068152,
+    "lng": 78.4976776,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11993260573,
+    "osm_type": "node"
+  },
+  {
+    "name": "iON Digital Zone iDz2,Mallapur,Secunderabad",
+    "slug": "ion-digital-zone-idz2,mallapur,secunderabad",
+    "website": null,
+    "phone": null,
+    "address": "3-56/3, Vivekananda Nagar",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4472685,
+    "lng": 78.5717789,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11993261570,
+    "osm_type": "node"
+  },
+  {
+    "name": "iON Digital Zone,Hayath Nagar Rd,Arunodhaya Nagar",
+    "slug": "ion-digital-zone,hayath-nagar-rd,arunodhaya-nagar",
+    "website": null,
+    "phone": null,
+    "address": "9, Hayath Nagar Road",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3317303,
+    "lng": 78.5902405,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 11993267169,
+    "osm_type": "node"
+  },
+  {
+    "name": "USI Tech Silicon pvt.ltd",
+    "slug": "usi-tech-silicon-pvt.ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4747763,
+    "lng": 78.568131,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 12536226080,
+    "osm_type": "node"
+  },
+  {
+    "name": "Charting Now Visual Data Solutions Private Limited",
+    "slug": "charting-now-visual-data-solutions-private-limited",
+    "website": "https://chartingnow.com",
+    "phone": "+91 9885564260",
+    "address": "Module No.204, 2nd Floor, Kamala Nagar, ECIL P.O.,, 500062",
+    "city": "hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4786643,
+    "lng": 78.5655075,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 12946439016,
+    "osm_type": "node"
+  },
+  {
+    "name": "Accenture Services Private Limited",
+    "slug": "accenture-services-private-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4190919,
+    "lng": 78.3482425,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 13021184118,
+    "osm_type": "node"
+  },
+  {
+    "name": "Paltech",
+    "slug": "paltech",
+    "website": null,
+    "phone": null,
+    "address": "1st Floor, TOWER-1, Phoenix Equinox, adjacent to IKEA, Gachibowli, 500032",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4364734,
+    "lng": 78.3735921,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 13078068652,
+    "osm_type": "node"
+  },
+  {
+    "name": "PrimEra Medical Technologies ( Corporate Office )",
+    "slug": "primera-medical-technologies-(-corporate-office-)",
+    "website": null,
+    "phone": null,
+    "address": "Capital Park Road, 500081",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4467376,
+    "lng": 78.386358,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 13614017002,
+    "osm_type": "node"
+  },
+  {
+    "name": "Gowra Fountainhead",
+    "slug": "gowra-fountainhead",
+    "website": "https://www.gowraventures.com/",
+    "phone": "073309 99305",
+    "address": "Huda Techno Enclave road, 500081",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.443798,
+    "lng": 78.3830878,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 13702819101,
+    "osm_type": "node"
+  },
+  {
+    "name": "Transguard Electrical Systems",
+    "slug": "transguard-electrical-systems",
+    "website": "http://www.transguard.in",
+    "phone": null,
+    "address": "500055",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.5299024,
+    "lng": 78.458329,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 13760072401,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aditya Trade Centre",
+    "slug": "aditya-trade-centre",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4365175,
+    "lng": 78.4464247,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 31548357,
+    "osm_type": "way"
+  },
+  {
+    "name": "White House Building",
+    "slug": "white-house-building",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4358713,
+    "lng": 78.4564682,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 75364518,
+    "osm_type": "way"
+  },
+  {
+    "name": "Deloitte",
+    "slug": "deloitte",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4483133,
+    "lng": 78.3752714,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 89918043,
+    "osm_type": "way"
+  },
+  {
+    "name": "Oracle Campus Phase 1",
+    "slug": "oracle-campus-phase-1",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4499285,
+    "lng": 78.373699,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 90465066,
+    "osm_type": "way"
+  },
+  {
+    "name": "IIC Technologies Pvt. Ltd.",
+    "slug": "iic-technologies-pvt.-ltd.",
+    "website": null,
+    "phone": null,
+    "address": "Banjarahiils, Rd. No. 3",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4258124,
+    "lng": 78.4442792,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 117653524,
+    "osm_type": "way"
+  },
+  {
+    "name": "Genpact IT company Uppal",
+    "slug": "genpact-it-company-uppal",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4114784,
+    "lng": 78.5483244,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 121543584,
+    "osm_type": "way"
+  },
+  {
+    "name": "GVK Biosciences Private Limited",
+    "slug": "gvk-biosciences-private-limited",
+    "website": "https://www.gvkbio.com/",
+    "phone": null,
+    "address": "Plot No.5C",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3935811,
+    "lng": 78.5476151,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 147986651,
+    "osm_type": "way"
+  },
+  {
+    "name": "Wipro Campus",
+    "slug": "wipro-campus",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4261764,
+    "lng": 78.3432427,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 186440854,
+    "osm_type": "way"
+  },
+  {
+    "name": "Q-City",
+    "slug": "q-city",
+    "website": null,
+    "phone": null,
+    "address": "500 032",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4274072,
+    "lng": 78.3317366,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 205616195,
+    "osm_type": "way"
+  },
+  {
+    "name": "Aditya Enclave",
+    "slug": "aditya-enclave",
+    "website": null,
+    "phone": null,
+    "address": "Ameerpet, 500018",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4362883,
+    "lng": 78.4447268,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 233493253,
+    "osm_type": "way"
+  },
+  {
+    "name": "Adithya Enclave (Nilgiri block)",
+    "slug": "adithya-enclave-(nilgiri-block)",
+    "website": null,
+    "phone": null,
+    "address": "Annapoorna Block,, 500038",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4366197,
+    "lng": 78.4451143,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 233493254,
+    "osm_type": "way"
+  },
+  {
+    "name": "Cargo Satellite Building",
+    "slug": "cargo-satellite-building",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.2368965,
+    "lng": 78.4197041,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 251671444,
+    "osm_type": "way"
+  },
+  {
+    "name": "Microsoft Central Kitchen",
+    "slug": "microsoft-central-kitchen",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4304972,
+    "lng": 78.3405394,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 261478386,
+    "osm_type": "way"
+  },
+  {
+    "name": "University Health Center",
+    "slug": "university-health-center",
+    "website": null,
+    "phone": null,
+    "address": "university health centre, JNTU Campus",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4915524,
+    "lng": 78.391048,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 264882569,
+    "osm_type": "way"
+  },
+  {
+    "name": "STS sylon techno solutions",
+    "slug": "sts-sylon-techno-solutions",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4099571,
+    "lng": 78.4889688,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 265627863,
+    "osm_type": "way"
+  },
+  {
+    "name": "wilshire software technologies",
+    "slug": "wilshire-software-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4106612,
+    "lng": 78.4885353,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 265629199,
+    "osm_type": "way"
+  },
+  {
+    "name": "RASVEK softech pvt",
+    "slug": "rasvek-softech-pvt",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4133658,
+    "lng": 78.4911762,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 265633158,
+    "osm_type": "way"
+  },
+  {
+    "name": "Divyasree Solitaire",
+    "slug": "divyasree-solitaire",
+    "website": "http://www.divyasree.com/Commercial/Completed/SOLITAIRE.html",
+    "phone": null,
+    "address": "Inorbit Mall Road",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4366418,
+    "lng": 78.3817229,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 292769248,
+    "osm_type": "way"
+  },
+  {
+    "name": "Salesforce India Private Limited",
+    "slug": "salesforce-india-private-limited",
+    "website": null,
+    "phone": null,
+    "address": "Block 5, DivyaSree Orion IT/ITES SEZ, Survey 66/1 Panmakhta, Raidurg Village, Serilingampally Mandal, Ranga Reddy District, Divyasree Orion Rd, Madhura Nagar Colony, Gachibowli, 500104",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4233798,
+    "lng": 78.3775411,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 297099095,
+    "osm_type": "way"
+  },
+  {
+    "name": "iQi Solutions Pvt.Ltd",
+    "slug": "iqi-solutions-pvt.ltd",
+    "website": "https://www.trakkin.in/",
+    "phone": null,
+    "address": "8-3-833/167, Sri Nagar Colony Main Road, 500073",
+    "city": "hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4301659,
+    "lng": 78.4302335,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 340234130,
+    "osm_type": "way"
+  },
+  {
+    "name": "Main Block",
+    "slug": "main-block",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4207692,
+    "lng": 78.3380422,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 342031872,
+    "osm_type": "way"
+  },
+  {
+    "name": "Meenakshi Technova",
+    "slug": "meenakshi-technova",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.421499,
+    "lng": 78.3395527,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 342032577,
+    "osm_type": "way"
+  },
+  {
+    "name": "Sai Amu Residency 1",
+    "slug": "sai-amu-residency-1",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4268352,
+    "lng": 78.3260588,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 342254662,
+    "osm_type": "way"
+  },
+  {
+    "name": "Spotways, infologitech systems",
+    "slug": "spotways,-infologitech-systems",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4336248,
+    "lng": 78.3687738,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 342261567,
+    "osm_type": "way"
+  },
+  {
+    "name": "New City Church",
+    "slug": "new-city-church",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4331807,
+    "lng": 78.3694543,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 342261630,
+    "osm_type": "way"
+  },
+  {
+    "name": "KRITHIKA DEVELOPERS",
+    "slug": "krithika-developers",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.5065433,
+    "lng": 78.6274411,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 355887135,
+    "osm_type": "way"
+  },
+  {
+    "name": "Eesavyasa Technologies Pvt Ltd",
+    "slug": "eesavyasa-technologies-pvt-ltd",
+    "website": "https://www.eesavyasa.com/",
+    "phone": "+91 40 23777767",
+    "address": "Plot 79, SVCIE Phase 3, Dr Feroz Road, 500037",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4655997,
+    "lng": 78.4386688,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 356180663,
+    "osm_type": "way"
+  },
+  {
+    "name": "Swan Environmental Pvt Ltd",
+    "slug": "swan-environmental-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": "922",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4495782,
+    "lng": 78.3927097,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 356182760,
+    "osm_type": "way"
+  },
+  {
+    "name": "Technals Co-Working",
+    "slug": "technals-co-working",
+    "website": "https://www.technals.com/",
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4460882,
+    "lng": 78.4660659,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 356222565,
+    "osm_type": "way"
+  },
+  {
+    "name": "GlobalLogic Technologies",
+    "slug": "globallogic-technologies",
+    "website": "https://www.globallogic.com/",
+    "phone": "040-30419999",
+    "address": "Plot No 590A, Road no 31, Jubilee Hills, 500033",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4373998,
+    "lng": 78.405784,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 356244516,
+    "osm_type": "way"
+  },
+  {
+    "name": "Dot Labs Web Solutions Pvt Ltd",
+    "slug": "dot-labs-web-solutions-pvt-ltd",
+    "website": null,
+    "phone": null,
+    "address": "Plot No: 27, Jubilee Enclave, 500081",
+    "city": "madhapur",
+    "state": null,
+    "country": "India",
+    "lat": 17.4563787,
+    "lng": 78.374192,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 356252775,
+    "osm_type": "way"
+  },
+  {
+    "name": "Infinitium Network Solutions",
+    "slug": "infinitium-network-solutions",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4345595,
+    "lng": 78.4039524,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 356262263,
+    "osm_type": "way"
+  },
+  {
+    "name": "Aishwarya Tiffins",
+    "slug": "aishwarya-tiffins",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.455747,
+    "lng": 78.4128428,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 357035088,
+    "osm_type": "way"
+  },
+  {
+    "name": "NEEMiiT Private Limited",
+    "slug": "neemiit-private-limited",
+    "website": "https://www.neemiit.com/",
+    "phone": null,
+    "address": "Plot No 3, Balamrai Road, 500003",
+    "city": "Secunderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4463268,
+    "lng": 78.4854122,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 357101616,
+    "osm_type": "way"
+  },
+  {
+    "name": "Sree mahitha projects Pvt. Ltd.",
+    "slug": "sree-mahitha-projects-pvt.-ltd.",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4096463,
+    "lng": 78.4506341,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 357381560,
+    "osm_type": "way"
+  },
+  {
+    "name": "Hair Saloon",
+    "slug": "hair-saloon",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3993258,
+    "lng": 78.5666218,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 357414025,
+    "osm_type": "way"
+  },
+  {
+    "name": "GHR Digitals (Flex/Cloth Bannner's/Digital Wall Poster's Designing, Printing, Advertising)",
+    "slug": "ghr-digitals-(flex-cloth-bannner's-digital-wall-poster's-designing,-printing,-advertising)",
+    "website": null,
+    "phone": "+918686274499",
+    "address": "H.No:-2-3, 691/1/C/2, Ali Cafe Road, X' Roads, Ganga Nagar, Amberpet, Hyderabad, Telangana, 500013",
+    "city": "Amberpet",
+    "state": null,
+    "country": "India",
+    "lat": 17.3827714,
+    "lng": 78.5175938,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 357607151,
+    "osm_type": "way"
+  },
+  {
+    "name": "NSL IT Park",
+    "slug": "nsl-it-park",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4027451,
+    "lng": 78.5464712,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 357739815,
+    "osm_type": "way"
+  },
+  {
+    "name": "Pai Electronics",
+    "slug": "pai-electronics",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3979678,
+    "lng": 78.5604376,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 357779876,
+    "osm_type": "way"
+  },
+  {
+    "name": "Digital Nirvana Information Systems Ltd",
+    "slug": "digital-nirvana-information-systems-ltd",
+    "website": null,
+    "phone": null,
+    "address": "Quena Square, Banjara Hills Road No. 1",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4177629,
+    "lng": 78.4562139,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 360200240,
+    "osm_type": "way"
+  },
+  {
+    "name": "Rage Club & Kitchen",
+    "slug": "rage-club-&-kitchen",
+    "website": null,
+    "phone": null,
+    "address": "Plot 789, Jubilee Hills Road No 36, 500033",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4350638,
+    "lng": 78.4017602,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 360462638,
+    "osm_type": "way"
+  },
+  {
+    "name": "CMR College of Engineering & Technology",
+    "slug": "cmr-college-of-engineering-&-technology",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.6046143,
+    "lng": 78.4862643,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 378628217,
+    "osm_type": "way"
+  },
+  {
+    "name": "Jaini Pvt.Ltd",
+    "slug": "jaini-pvt.ltd",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4582573,
+    "lng": 78.3716929,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 413287762,
+    "osm_type": "way"
+  },
+  {
+    "name": "Deloitte G/H Block",
+    "slug": "deloitte-g-h-block",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.443656,
+    "lng": 78.3697278,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 413783553,
+    "osm_type": "way"
+  },
+  {
+    "name": "Stone Profits Sytems",
+    "slug": "stone-profits-sytems",
+    "website": "https://stoneprofits.com/",
+    "phone": null,
+    "address": "284,285, Rajarejwari Nagar, Konapur, 500084",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4696856,
+    "lng": 78.3557584,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 477290919,
+    "osm_type": "way"
+  },
+  {
+    "name": "Dr. Reddy's Laboratories Limited",
+    "slug": "dr.-reddy's-laboratories-limited",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.5486618,
+    "lng": 78.3778462,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 514609443,
+    "osm_type": "way"
+  },
+  {
+    "name": "Vaishnavi Cynosure",
+    "slug": "vaishnavi-cynosure",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4368373,
+    "lng": 78.3671059,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 543748698,
+    "osm_type": "way"
+  },
+  {
+    "name": "Salapuria Sattva Knowledge City",
+    "slug": "salapuria-sattva-knowledge-city",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4325444,
+    "lng": 78.3811622,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 558276571,
+    "osm_type": "way"
+  },
+  {
+    "name": "Jarus Technologies",
+    "slug": "jarus-technologies",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4617201,
+    "lng": 78.5873746,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 576861388,
+    "osm_type": "way"
+  },
+  {
+    "name": "GutenBurg IT park",
+    "slug": "gutenburg-it-park",
+    "website": null,
+    "phone": null,
+    "address": "183 survey No, Kaljyothi Road",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4619552,
+    "lng": 78.3429187,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 589208742,
+    "osm_type": "way"
+  },
+  {
+    "name": "Shanti Jyoti Children hospital",
+    "slug": "shanti-jyoti-children-hospital",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3299801,
+    "lng": 78.5789045,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 624085198,
+    "osm_type": "way"
+  },
+  {
+    "name": "Cognizant Technologies",
+    "slug": "cognizant-technologies",
+    "website": null,
+    "phone": null,
+    "address": "Mindspace",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4381445,
+    "lng": 78.3834557,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 625040462,
+    "osm_type": "way"
+  },
+  {
+    "name": "Jigya Software Services",
+    "slug": "jigya-software-services",
+    "website": null,
+    "phone": null,
+    "address": "12, Trendz Avenue, Vittal Rao Nagar, 500081",
+    "city": "Madhapur, Hyderabad, India",
+    "state": null,
+    "country": "India",
+    "lat": 17.4386629,
+    "lng": 78.3869782,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 626554610,
+    "osm_type": "way"
+  },
+  {
+    "name": "C-Tel Infosystems",
+    "slug": "c-tel-infosystems",
+    "website": "https://ctel.in/",
+    "phone": null,
+    "address": "Plot No. 63, 1st and 2nd Floors,, Kavuri Hills Phase 1, Near Jubilee Ridge Hotel, Madhapur, Kavuri Hills Phase 1, Kavuri Hills, Madhapur, 500033",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.441277,
+    "lng": 78.3979602,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 632251671,
+    "osm_type": "way"
+  },
+  {
+    "name": "Zaggle Prepaid Ocean Services Pvt Ltd.",
+    "slug": "zaggle-prepaid-ocean-services-pvt-ltd.",
+    "website": null,
+    "phone": null,
+    "address": "plot no 8, sector 1,, Cyber Towers - Madhapur Main Road, 500081",
+    "city": "hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4454126,
+    "lng": 78.3851531,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 642086170,
+    "osm_type": "way"
+  },
+  {
+    "name": "Smiline Dental Hospital",
+    "slug": "smiline-dental-hospital",
+    "website": null,
+    "phone": "040 2980 4422",
+    "address": "Smiline Dental Hospital, Hitec - Kukatpally Main Road, 500084",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4600441,
+    "lng": 78.3845515,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 653405751,
+    "osm_type": "way"
+  },
+  {
+    "name": "Survi Babaiah Gardens",
+    "slug": "survi-babaiah-gardens",
+    "website": null,
+    "phone": null,
+    "address": "Survi Babiah Goud Gardens, Rampally Main road, nagaram, 500083",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4898502,
+    "lng": 78.6111805,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 696173521,
+    "osm_type": "way"
+  },
+  {
+    "name": "FDDI, An Institue of National Importance, Ministry of Commerce & Industry, Government of India",
+    "slug": "fddi,-an-institue-of-national-importance,-ministry-of-commerce-&-industry,-government-of-india",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4191898,
+    "lng": 78.3889636,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 750398139,
+    "osm_type": "way"
+  },
+  {
+    "name": "Sonata Software",
+    "slug": "sonata-software",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4063575,
+    "lng": 78.3211639,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 773660988,
+    "osm_type": "way"
+  },
+  {
+    "name": "Laxmi Infobahn",
+    "slug": "laxmi-infobahn",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.406908,
+    "lng": 78.3237268,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 773812175,
+    "osm_type": "way"
+  },
+  {
+    "name": "Genpact",
+    "slug": "genpact",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4850693,
+    "lng": 78.3588343,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 782005880,
+    "osm_type": "way"
+  },
+  {
+    "name": "MAQ Software",
+    "slug": "maq-software",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4464491,
+    "lng": 78.3689052,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 782300587,
+    "osm_type": "way"
+  },
+  {
+    "name": "Chennai shopping mall",
+    "slug": "chennai-shopping-mall",
+    "website": null,
+    "phone": null,
+    "address": "Moosapet Y Junction - Balanagar Road, 500072",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4754846,
+    "lng": 78.4226838,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 837808480,
+    "osm_type": "way"
+  },
+  {
+    "name": "Tech Mahindra SEZ",
+    "slug": "tech-mahindra-sez",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.5714207,
+    "lng": 78.4354075,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 846811095,
+    "osm_type": "way"
+  },
+  {
+    "name": "Sohini Tech Park",
+    "slug": "sohini-tech-park",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4226606,
+    "lng": 78.3470114,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1133394530,
+    "osm_type": "way"
+  },
+  {
+    "name": "Internationa IT Park - Uppal",
+    "slug": "internationa-it-park---uppal",
+    "website": null,
+    "phone": null,
+    "address": "IDA, Uppal, 500039",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3996721,
+    "lng": 78.5555074,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1158587261,
+    "osm_type": "way"
+  },
+  {
+    "name": "Vegetable & Fruits Dealer",
+    "slug": "vegetable-&-fruits-dealer",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3953561,
+    "lng": 78.5651659,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1172892220,
+    "osm_type": "way"
+  },
+  {
+    "name": "Vamsiram Jyothi Techpark",
+    "slug": "vamsiram-jyothi-techpark",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4224441,
+    "lng": 78.3451391,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1222803959,
+    "osm_type": "way"
+  },
+  {
+    "name": "Neekidia Furnitures",
+    "slug": "neekidia-furnitures",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.3487058,
+    "lng": 78.5532704,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1236750011,
+    "osm_type": "way"
+  },
+  {
+    "name": "Wells Fargo Tower 4",
+    "slug": "wells-fargo-tower-4",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4249716,
+    "lng": 78.3774987,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1299545984,
+    "osm_type": "way"
+  },
+  {
+    "name": "Naresh i Technologies",
+    "slug": "naresh-i-technologies",
+    "website": null,
+    "phone": null,
+    "address": "7-1-56, Government school road",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.438244,
+    "lng": 78.4526346,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1347933992,
+    "osm_type": "way"
+  },
+  {
+    "name": "Samastha Kitchen",
+    "slug": "samastha-kitchen",
+    "website": null,
+    "phone": null,
+    "address": "Nallagandla Road, 500019",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4676003,
+    "lng": 78.3093308,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1471529495,
+    "osm_type": "way"
+  },
+  {
+    "name": "Vasavi Sky City",
+    "slug": "vasavi-sky-city",
+    "website": null,
+    "phone": null,
+    "address": "104 Ward, Old Bombay Road, 500032",
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4388773,
+    "lng": 78.3650169,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1510996024,
+    "osm_type": "way"
+  },
+  {
+    "name": "Microsoft Visitor Center",
+    "slug": "microsoft-visitor-center",
+    "website": null,
+    "phone": null,
+    "address": null,
+    "city": "Hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4332079,
+    "lng": 78.3448746,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 1517350752,
+    "osm_type": "way"
+  },
+  {
+    "name": "Tech Mahindra",
+    "slug": "tech-mahindra",
+    "website": null,
+    "phone": null,
+    "address": "Plot No. 22 to 34, Hi-Tech City, Madhapur, 500081",
+    "city": "hyderabad",
+    "state": null,
+    "country": "India",
+    "lat": 17.4519323,
+    "lng": 78.3739365,
+    "data_source": [
+      "osm"
+    ],
+    "osm_id": 5167102,
+    "osm_type": "relation"
+  }
+]
