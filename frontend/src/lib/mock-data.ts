@@ -1,4 +1,4 @@
-import mockData from './mock-companies.json';
+import mockData from './mock-companies-v2.json';
 
 export type Company = {
   city: string;
@@ -18,3 +18,4 @@ export type Company = {
 };
 
 export const MOCK_COMPANIES: Company[] = mockData as Company[];
+// Force reload
