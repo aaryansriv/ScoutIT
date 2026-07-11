@@ -8,7 +8,7 @@ import "leaflet.markercluster/dist/MarkerCluster.Default.css";
 import "leaflet.markercluster";
 
 import type { FilterState } from "@/app/map/page";
-import { Company } from "@/lib/mock-data";
+import { Company, Landmark } from "@/lib/mock-data";
 
 // Fix default Leaflet icon paths
 delete (L.Icon.Default.prototype as any)._getIconUrl;
@@ -57,7 +57,7 @@ function createMarkerIcon(company: Company) {
       ">
         ${logo_initial ? `
           <img 
-            src="https://www.google.com/s2/favicons?sz=128&domain=${company.domain || company.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}" 
+            src="${company.logo_url || 'https://www.google.com/s2/favicons?sz=128&domain=' + (company.domain || company.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com')}" 
             alt="${company.name}" 
             style="width: 100%; height: 100%; object-fit: contain; padding: 2px;"
             onerror="this.style.setProperty('display', 'none', 'important'); this.nextElementSibling.style.setProperty('display', 'flex', 'important');"
@@ -110,7 +110,7 @@ function buildPopupHTML(c: Company) {
         <div style="width:40px;height:40px;border-radius:10px;background:#ffffff;
                     display:flex;align-items:center;justify-content:center;flex-shrink:0;overflow:hidden;border:1px solid rgba(255,255,255,0.1);">
           <img 
-            src="https://www.google.com/s2/favicons?sz=128&domain=${c.domain || c.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}" 
+            src="${c.logo_url || 'https://www.google.com/s2/favicons?sz=128&domain=' + (c.domain || c.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com')}" 
             alt="${c.name}" 
             style="width: 100%; height: 100%; object-fit: contain; padding: 2px;"
             onerror="this.style.setProperty('display', 'none', 'important'); this.nextElementSibling.style.setProperty('display', 'flex', 'important');"
@@ -133,18 +133,65 @@ function buildPopupHTML(c: Company) {
           <span>●</span> Actively Hiring
         </div>` : ""}
       <div style="border-top:1px solid rgba(255,255,255,0.08);padding-top:10px;display:flex;gap:8px">
-        <a href="/company/${c.slug}"
+        <button class="view-profile-btn" data-id="${c.id}"
            style="flex:1;text-align:center;padding:8px;border-radius:10px;
-                  background:${color}33;color:${color};text-decoration:none;
+                  background:${color}33;color:${color};text-decoration:none;cursor:pointer;
                   font-size:12px;font-weight:600;border:1px solid ${color}44">
           View Profile →
-        </a>
+        </button>
         <button class="delete-company-btn" data-id="${c.id}"
                 style="padding:8px 12px;border-radius:10px;background:#ef444433;color:#ef4444;
                        border:1px solid #ef444444;cursor:pointer;font-weight:600;font-size:12px;">
           Delete
         </button>
       </div>
+    </div>`;
+}
+
+/* ─── Landmark Markers ──────────────────────────────────────────────────── */
+
+function createLandmarkIcon(landmark: Landmark) {
+  const iconMap: Record<string, { emoji: string; bg: string; border: string }> = {
+    historical: { emoji: '🏛️', bg: '#f59e0b22', border: '#f59e0b' },
+    mall:       { emoji: '🛍️', bg: '#ec489922', border: '#ec4899' },
+    landmark:   { emoji: '📍', bg: '#3b82f622', border: '#3b82f6' },
+  };
+  const style = iconMap[landmark.type] || iconMap.landmark;
+
+  const html = `
+    <div style="
+      position: relative; width: 32px; height: 32px;
+      display: flex; align-items: center; justify-content: center;
+    ">
+      <div style="
+        position: relative; z-index: 10; width: 100%; height: 100%;
+        background: ${style.bg}; backdrop-filter: blur(6px);
+        border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+        display: flex; align-items: center; justify-content: center;
+        border: 2px solid ${style.border};
+        font-size: 16px;
+      ">${style.emoji}</div>
+    </div>
+  `;
+  return L.divIcon({ html, className: 'landmark-marker', iconSize: [32, 32], iconAnchor: [16, 16], popupAnchor: [0, -18] });
+}
+
+function buildLandmarkPopupHTML(l: Landmark) {
+  const typeColors: Record<string, string> = { historical: '#f59e0b', mall: '#ec4899', landmark: '#3b82f6' };
+  const color = typeColors[l.type] || '#64748b';
+  const typeLabels: Record<string, string> = { historical: 'Historical Place', mall: 'Shopping Mall', landmark: 'Landmark' };
+  return `
+    <div style="padding:14px;min-width:200px;font-family:'Inter',sans-serif">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
+        <div style="font-size:24px">${l.type === 'historical' ? '🏛️' : l.type === 'mall' ? '🛍️' : '📍'}</div>
+        <div>
+          <div style="font-weight:700;font-size:14px;color:#f1f5f9;line-height:1.2">${l.name}</div>
+          <div style="font-size:10px;text-transform:uppercase;color:${color};
+                      background:${color}22;padding:2px 8px;border-radius:20px;
+                      display:inline-block;margin-top:2px;font-weight:600;letter-spacing:0.5px">${typeLabels[l.type] || l.type}</div>
+        </div>
+      </div>
+      <p style="font-size:12px;color:#94a3b8;margin:0;line-height:1.4">${l.description}</p>
     </div>`;
 }
 
@@ -155,19 +202,26 @@ interface MapViewProps {
   filters: FilterState;
   selectedCompany?: Company | null;
   onDeleteCompany?: (id: string) => void;
+  onViewProfile?: (company: Company) => void;
+  landmarks?: Landmark[];
 }
 
-export default function MapView({ companies, filters, selectedCompany, onDeleteCompany }: MapViewProps) {
+export default function MapView({ companies, filters, selectedCompany, onDeleteCompany, onViewProfile, landmarks = [] }: MapViewProps) {
   const mapRef = useRef<L.Map | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const clusterGroupRef = useRef<L.MarkerClusterGroup | null>(null);
   const standaloneGroupRef = useRef<L.LayerGroup | null>(null);
+  const landmarkGroupRef = useRef<L.LayerGroup | null>(null);
   const onDeleteCompanyRef = useRef(onDeleteCompany);
+  const onViewProfileRef = useRef(onViewProfile);
+  const companiesRef = useRef(companies);
 
   // Keep ref up to date to avoid map recreation
   useEffect(() => {
     onDeleteCompanyRef.current = onDeleteCompany;
-  }, [onDeleteCompany]);
+    onViewProfileRef.current = onViewProfile;
+    companiesRef.current = companies;
+  }, [onDeleteCompany, onViewProfile, companies]);
 
   // Initialize map ONLY ONCE
   useEffect(() => {
@@ -204,7 +258,7 @@ export default function MapView({ companies, filters, selectedCompany, onDeleteC
           return `
             <div style="display:flex;align-items:center;gap:8px;padding:4px 0;">
               <div style="width:24px;height:24px;border-radius:4px;background:#ffffff;display:flex;align-items:center;justify-content:center;color:white;font-size:10px;font-weight:bold;overflow:hidden;flex-shrink:0;">
-                <img src="https://www.google.com/s2/favicons?sz=128&domain=${c.domain || c.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}" onerror="this.style.setProperty('display','none','important'); this.nextElementSibling.style.setProperty('display','flex','important');" style="width:100%;height:100%;object-fit:contain;padding:2px;" />
+                <img src="${c.logo_url || 'https://www.google.com/s2/favicons?sz=128&domain=' + (c.domain || c.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com')}" onerror="this.style.setProperty('display','none','important'); this.nextElementSibling.style.setProperty('display','flex','important');" style="width:100%;height:100%;object-fit:contain;padding:2px;" />
                 <div style="display:none;align-items:center;justify-content:center;width:100%;height:100%;background:${c.logo_color || '#3b82f6'};">${c.logo_initial}</div>
               </div>
               <div style="font-size:12px;font-weight:600;color:white;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:140px;">
@@ -233,17 +287,31 @@ export default function MapView({ companies, filters, selectedCompany, onDeleteC
       a.layer.unbindTooltip();
     });
 
+    const landmarkGroup = L.layerGroup().addTo(map);
+
     standaloneGroupRef.current = standaloneGroup;
     clusterGroupRef.current = clusterGroup;
+    landmarkGroupRef.current = landmarkGroup;
     mapRef.current = map;
 
     // Delete handling
     const handleMapClick = (e: MouseEvent) => {
       const target = e.target as HTMLElement;
+      
       const deleteBtn = target.closest('.delete-company-btn');
       if (deleteBtn) {
         const id = deleteBtn.getAttribute('data-id');
         if (id && onDeleteCompanyRef.current) onDeleteCompanyRef.current(id);
+        return;
+      }
+
+      const viewBtn = target.closest('.view-profile-btn');
+      if (viewBtn) {
+        const id = viewBtn.getAttribute('data-id');
+        if (id && onViewProfileRef.current) {
+          const company = companiesRef.current.find(c => c.id === id);
+          if (company) onViewProfileRef.current(company);
+        }
       }
     };
     containerRef.current.addEventListener('click', handleMapClick);
@@ -284,6 +352,22 @@ export default function MapView({ companies, filters, selectedCompany, onDeleteC
     clusterGroup.addLayers(clusterMarkers);
     standaloneMarkers.forEach(marker => standaloneGroup.addLayer(marker));
   }, [companies]);
+
+  // Update landmark markers
+  useEffect(() => {
+    const landmarkGroup = landmarkGroupRef.current;
+    if (!landmarkGroup) return;
+
+    landmarkGroup.clearLayers();
+
+    landmarks.forEach((lm) => {
+      const marker = L.marker([lm.lat, lm.lng], {
+        icon: createLandmarkIcon(lm),
+        zIndexOffset: -100, // landmarks behind company markers
+      }).bindPopup(buildLandmarkPopupHTML(lm), { maxWidth: 260, className: 'scoutit-popup' });
+      landmarkGroup.addLayer(marker);
+    });
+  }, [landmarks]);
 
   // Pan to city
   useEffect(() => {

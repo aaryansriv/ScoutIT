@@ -1,21 +1,24 @@
 "use client";
 
 import { usePathname, useRouter } from "next/navigation";
-import { Map, Bookmark, BarChart2, GitCompare, Moon, Sun, Home, MapPin } from "lucide-react";
+import { Map, Bookmark, BarChart2, GitCompare, Moon, Sun, Home, MapPin, Building2 } from "lucide-react";
 import { useTheme } from "next-themes";
 import { FloatingDock } from "@/components/ui/floating-dock";
 import { useState } from "react";
 import { CityQuickNav } from "./map/city-quick-nav";
 import { AnimatePresence, motion } from "framer-motion";
+import { CompanyLogo } from "@/components/ui/company-logo";
 
 export function Navbar({ 
   searchBar,
   activeCity,
-  onCitySelect
+  onCitySelect,
+  onProfileClick
 }: { 
   searchBar?: React.ReactNode;
   activeCity?: string;
   onCitySelect?: (city: string) => void;
+  onProfileClick?: () => void;
 }) {
   const pathname = usePathname();
   const router = useRouter();
@@ -25,7 +28,11 @@ export function Navbar({
   const navItems = [
     { href: "/",          label: "Home",          icon: <Home className="w-5 h-5" /> },
     { href: "/bookmarks", label: "Bookmarks",     icon: <Bookmark className="w-5 h-5" /> },
-    { href: "/tracker",   label: "Tracker",       icon: <BarChart2 className="w-5 h-5" /> },
+    { 
+      label: "Profiles",       
+      icon: <Building2 className="w-5 h-5" />,
+      onClick: onProfileClick
+    },
     { 
       label: "Cities",       
       icon: <MapPin className="w-5 h-5" />,

@@ -1,14 +1,22 @@
 import { useState, useEffect } from 'react';
 
+export interface Contact {
+  id: string;
+  name: string;
+  role: string;
+  linkedin: string;
+}
+
 export interface CompanyNotesData {
   notes: string;
-  linkedIns: string[];
+  linkedIns?: string[]; // Deprecated, kept for migration
+  contacts: Contact[];
   careerPage: string;
 }
 
 const DEFAULT_NOTES: CompanyNotesData = {
   notes: '',
-  linkedIns: [],
+  contacts: [],
   careerPage: '',
 };
 
@@ -21,7 +29,20 @@ export function useCompanyNotes(slug: string) {
     try {
       const stored = localStorage.getItem(`scoutit-notes-${slug}`);
       if (stored) {
-        setData(JSON.parse(stored));
+        const parsed = JSON.parse(stored);
+        
+        // Migration logic: convert old linkedIns array to contacts
+        if (parsed.linkedIns && (!parsed.contacts || parsed.contacts.length === 0)) {
+          parsed.contacts = parsed.linkedIns.map((url: string) => ({
+            id: Math.random().toString(36).substr(2, 9),
+            name: "Unknown",
+            role: "",
+            linkedin: url
+          }));
+          // optionally delete linkedIns to clean up, but keeping it is fine
+        }
+        
+        setData({ ...DEFAULT_NOTES, ...parsed });
       }
     } catch (e) {
       console.error('Failed to load notes from localStorage:', e);

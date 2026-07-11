@@ -47,7 +47,7 @@ export function SearchBar({ onCitySelect, onToggleSidebar, sidebarOpen, companie
 
   const companySuggestions = useMemo(() => {
     if (!query) return companies.slice(0, 4);
-    return companyFuse.search(query).map(r => r.item).slice(0, 6); // show up to 6 companies
+    return companyFuse.search(query).map(r => r.item).slice(0, 12); // show up to 12 companies
   }, [query, companyFuse, companies]);
 
   const hasSuggestions = query.length >= 1 && (citySuggestions.length > 0 || companySuggestions.length > 0);
@@ -166,7 +166,7 @@ export function SearchBar({ onCitySelect, onToggleSidebar, sidebarOpen, companie
                       {/* Logo fallback */}
                       <div className="w-8 h-8 rounded-lg bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 overflow-hidden relative">
                          <img 
-                            src={`https://www.google.com/s2/favicons?sz=64&domain=${c.domain || c.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}`}
+                            src={c.logo_url || `https://www.google.com/s2/favicons?sz=128&domain=${c.domain || c.name.toLowerCase().replace(/[^a-z0-9]/g, '') + '.com'}`}
                             alt={c.name}
                             className="w-full h-full object-contain p-1"
                             onError={(e) => {
@@ -182,7 +182,7 @@ export function SearchBar({ onCitySelect, onToggleSidebar, sidebarOpen, companie
                       </div>
                       <div className="flex flex-col overflow-hidden">
                         <span className="font-medium text-foreground truncate">{c.name}</span>
-                        <span className="text-xs text-muted-foreground truncate">{c.location_name}</span>
+                        <span className="text-xs text-muted-foreground truncate">{c.location_name}, {c.city}</span>
                       </div>
                     </div>
                     

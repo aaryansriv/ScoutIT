@@ -1,0 +1,497 @@
+[
+  {
+    "id": "043c83cc-7396-4968-a57a-4d94ca0c0b76",
+    "name": "Charminar",
+    "city": "Hyderabad",
+    "type": "historical",
+    "lat": 17.3616,
+    "lng": 78.4747,
+    "description": "Iconic 16th-century monument and mosque"
+  },
+  {
+    "id": "19aa2284-fde5-4559-9499-9670202bc0bb",
+    "name": "Golconda Fort",
+    "city": "Hyderabad",
+    "type": "historical",
+    "lat": 17.3833,
+    "lng": 78.4011,
+    "description": "Medieval fortified citadel, capital of Qutb Shahi dynasty"
+  },
+  {
+    "id": "56818a2f-6395-471a-8df1-90bc6339403c",
+    "name": "Hussain Sagar Lake",
+    "city": "Hyderabad",
+    "type": "landmark",
+    "lat": 17.4239,
+    "lng": 78.4738,
+    "description": "Heart-shaped artificial lake with Buddha statue"
+  },
+  {
+    "id": "ad94108f-9485-44f2-9ed8-65a1d0c4e1f5",
+    "name": "Salar Jung Museum",
+    "city": "Hyderabad",
+    "type": "historical",
+    "lat": 17.3713,
+    "lng": 78.4804,
+    "description": "One of the largest one-man art museums in the world"
+  },
+  {
+    "id": "cdf0e9b2-5d7c-40ef-9284-665945c3cd97",
+    "name": "Inorbit Mall",
+    "city": "Hyderabad",
+    "type": "mall",
+    "lat": 17.4352,
+    "lng": 78.3879,
+    "description": "Major shopping mall in HITEC City"
+  },
+  {
+    "id": "21cc8502-e543-4391-b58e-b2a9e21fee19",
+    "name": "Forum Sujana Mall",
+    "city": "Hyderabad",
+    "type": "mall",
+    "lat": 17.4451,
+    "lng": 78.3614,
+    "description": "Shopping and entertainment hub in Kukatpally"
+  },
+  {
+    "id": "46842957-1b0d-4f30-ad8b-785c7be1d4c6",
+    "name": "GVK One Mall",
+    "city": "Hyderabad",
+    "type": "mall",
+    "lat": 17.4238,
+    "lng": 78.4534,
+    "description": "Premium mall on Banjara Hills Road No. 1"
+  },
+  {
+    "id": "aa28bc78-49bb-40c2-a99c-f8988e18d47a",
+    "name": "Ramoji Film City",
+    "city": "Hyderabad",
+    "type": "landmark",
+    "lat": 17.2543,
+    "lng": 78.6808,
+    "description": "World's largest integrated film studio complex"
+  },
+  {
+    "id": "d92f9518-8916-41da-8eb3-0c68d2cb6744",
+    "name": "Bangalore Palace",
+    "city": "Bengaluru",
+    "type": "historical",
+    "lat": 12.9988,
+    "lng": 77.5921,
+    "description": "Tudor-style palace built in 1878"
+  },
+  {
+    "id": "20b850c9-bc81-4ae2-85c1-c2961d39a843",
+    "name": "Tipu Sultan's Summer Palace",
+    "city": "Bengaluru",
+    "type": "historical",
+    "lat": 12.9593,
+    "lng": 77.5737,
+    "description": "18th-century Indo-Islamic architecture"
+  },
+  {
+    "id": "74e395bf-f293-47ad-a273-27f3e49c1369",
+    "name": "Vidhana Soudha",
+    "city": "Bengaluru",
+    "type": "historical",
+    "lat": 12.9796,
+    "lng": 77.5907,
+    "description": "Seat of the Karnataka state legislature"
+  },
+  {
+    "id": "edf29e9a-7acc-4c6f-9987-f11609c77c04",
+    "name": "Lalbagh Botanical Garden",
+    "city": "Bengaluru",
+    "type": "landmark",
+    "lat": 12.9507,
+    "lng": 77.5848,
+    "description": "Historic botanical garden with Glass House"
+  },
+  {
+    "id": "ce107ab7-9221-426b-9e64-cff3e460ea58",
+    "name": "Phoenix Marketcity",
+    "city": "Bengaluru",
+    "type": "mall",
+    "lat": 12.9967,
+    "lng": 77.6469,
+    "description": "Massive mall on Whitefield Road"
+  },
+  {
+    "id": "20b7d367-41cd-4264-af30-a44ddb7b68c5",
+    "name": "Orion Mall",
+    "city": "Bengaluru",
+    "type": "mall",
+    "lat": 12.9914,
+    "lng": 77.5579,
+    "description": "Premium mall at Brigade Gateway, Rajajinagar"
+  },
+  {
+    "id": "824285cb-6e31-4550-88f0-8d289ecd38cd",
+    "name": "UB City Mall",
+    "city": "Bengaluru",
+    "type": "mall",
+    "lat": 12.9716,
+    "lng": 77.5967,
+    "description": "India's first luxury mall on Vittal Mallya Road"
+  },
+  {
+    "id": "00dad04f-b297-43cd-81c6-7c8e4511f7a5",
+    "name": "Forum Mall, Koramangala",
+    "city": "Bengaluru",
+    "type": "mall",
+    "lat": 12.9346,
+    "lng": 77.6105,
+    "description": "Popular lifestyle mall in Koramangala"
+  },
+  {
+    "id": "8221c201-3552-4fa0-96ed-6be44be98874",
+    "name": "Akshardham Temple",
+    "city": "Noida",
+    "type": "historical",
+    "lat": 28.6127,
+    "lng": 77.2773,
+    "description": "Swaminarayan Akshardham cultural complex"
+  },
+  {
+    "id": "b385be7c-90b1-4dd8-b6be-2236491af854",
+    "name": "Worlds of Wonder",
+    "city": "Noida",
+    "type": "landmark",
+    "lat": 28.5679,
+    "lng": 77.3262,
+    "description": "Amusement and water park in Sector 38A"
+  },
+  {
+    "id": "8fee226d-93e4-4c39-9021-791710461620",
+    "name": "Noida Botanical Garden",
+    "city": "Noida",
+    "type": "landmark",
+    "lat": 28.5602,
+    "lng": 77.3473,
+    "description": "Green park in Sector 38"
+  },
+  {
+    "id": "8cc7fb9a-7465-4ab5-a67c-5a451ed95afc",
+    "name": "DLF Mall of India",
+    "city": "Noida",
+    "type": "mall",
+    "lat": 28.5677,
+    "lng": 77.3217,
+    "description": "One of the largest malls in India, Sector 18"
+  },
+  {
+    "id": "c3944689-0fb5-450a-b935-b2b36e9886e6",
+    "name": "The Great India Place",
+    "city": "Noida",
+    "type": "mall",
+    "lat": 28.5681,
+    "lng": 77.3224,
+    "description": "Major shopping mall near Sector 18 metro"
+  },
+  {
+    "id": "1586411f-2340-47ae-ac7a-c89254f3ad54",
+    "name": "Logix City Centre",
+    "city": "Noida",
+    "type": "mall",
+    "lat": 28.5724,
+    "lng": 77.3258,
+    "description": "Shopping center in Sector 32"
+  },
+  {
+    "id": "0c19441a-7fb4-40d6-b323-2fb1aad923f4",
+    "name": "Atta Market",
+    "city": "Noida",
+    "type": "landmark",
+    "lat": 28.581,
+    "lng": 77.3346,
+    "description": "Famous street market and food hub"
+  },
+  {
+    "id": "99acd708-0f95-4909-ae0a-2c104bab92a3",
+    "name": "Shaniwar Wada",
+    "city": "Pune",
+    "type": "historical",
+    "lat": 18.5195,
+    "lng": 73.8553,
+    "description": "Historic Peshwa palace fortress from 1732"
+  },
+  {
+    "id": "a87d303d-f00d-4e9e-bbc5-5f9381ffb080",
+    "name": "Aga Khan Palace",
+    "city": "Pune",
+    "type": "historical",
+    "lat": 18.5525,
+    "lng": 73.9016,
+    "description": "Historical palace, Mahatma Gandhi memorial"
+  },
+  {
+    "id": "64efc707-4b74-4aef-a905-c954757179fd",
+    "name": "Sinhagad Fort",
+    "city": "Pune",
+    "type": "historical",
+    "lat": 18.3664,
+    "lng": 73.7555,
+    "description": "Hill fortress with Maratha history"
+  },
+  {
+    "id": "0783973d-89fe-41d4-84a5-dec1c6b86456",
+    "name": "Dagdusheth Halwai Temple",
+    "city": "Pune",
+    "type": "historical",
+    "lat": 18.5166,
+    "lng": 73.8556,
+    "description": "Famous Ganpati temple in the heart of Pune"
+  },
+  {
+    "id": "c9ebb0f2-74ae-43a2-9a2b-a5670c65d71e",
+    "name": "Phoenix Marketcity Pune",
+    "city": "Pune",
+    "type": "mall",
+    "lat": 18.5604,
+    "lng": 73.916,
+    "description": "Premium mall in Viman Nagar"
+  },
+  {
+    "id": "a0629ccb-db44-4f4b-bbaf-88b7891d3368",
+    "name": "Seasons Mall",
+    "city": "Pune",
+    "type": "mall",
+    "lat": 18.5062,
+    "lng": 73.937,
+    "description": "Large mall in Magarpatta City"
+  },
+  {
+    "id": "194e2b36-65bd-459b-9a1e-b1afad3371f4",
+    "name": "Amanora Mall",
+    "city": "Pune",
+    "type": "mall",
+    "lat": 18.5206,
+    "lng": 73.936,
+    "description": "Shopping center in Hadapsar"
+  },
+  {
+    "id": "1a0e2f84-50be-4209-8e6c-b9556611f75d",
+    "name": "Westend Mall",
+    "city": "Pune",
+    "type": "mall",
+    "lat": 18.5575,
+    "lng": 73.7832,
+    "description": "Popular mall in Aundh"
+  },
+  {
+    "id": "1d85bed5-8388-4aef-b5f2-00df0cdaf5d4",
+    "name": "Fort St. George",
+    "city": "Chennai",
+    "type": "historical",
+    "lat": 13.0798,
+    "lng": 80.2868,
+    "description": "First English fortress in India, built 1644"
+  },
+  {
+    "id": "2f15f46d-c64b-4d6e-a410-e94fd5252095",
+    "name": "Kapaleeshwarar Temple",
+    "city": "Chennai",
+    "type": "historical",
+    "lat": 13.0339,
+    "lng": 80.2695,
+    "description": "7th-century Dravidian-architecture Shiva temple"
+  },
+  {
+    "id": "b251a92a-cfaf-4d40-aff4-73a29b2329da",
+    "name": "Marina Beach",
+    "city": "Chennai",
+    "type": "landmark",
+    "lat": 13.05,
+    "lng": 80.2824,
+    "description": "India's longest urban beach (13 km)"
+  },
+  {
+    "id": "9ea84d33-6055-4f26-82c2-9c47463e23c1",
+    "name": "Mahabalipuram Shore Temple",
+    "city": "Chennai",
+    "type": "historical",
+    "lat": 12.6166,
+    "lng": 80.1993,
+    "description": "UNESCO World Heritage Site, 8th century"
+  },
+  {
+    "id": "8e66e983-d62a-4e3e-b586-549b5272bade",
+    "name": "Phoenix Marketcity Chennai",
+    "city": "Chennai",
+    "type": "mall",
+    "lat": 12.9961,
+    "lng": 80.2195,
+    "description": "Largest mall in Chennai, Velachery"
+  },
+  {
+    "id": "794b9995-23e3-4138-ab41-6f3f8784c823",
+    "name": "Express Avenue",
+    "city": "Chennai",
+    "type": "mall",
+    "lat": 13.0606,
+    "lng": 80.2644,
+    "description": "Premium mall on Whites Road"
+  },
+  {
+    "id": "605797cd-3b7d-4829-bd32-0a82a0379131",
+    "name": "VR Chennai",
+    "city": "Chennai",
+    "type": "mall",
+    "lat": 13.0102,
+    "lng": 80.2227,
+    "description": "Luxury mall in Anna Nagar"
+  },
+  {
+    "id": "44c06eca-08a7-4b9e-8374-0b10b99496a1",
+    "name": "Forum Vijaya Mall",
+    "city": "Chennai",
+    "type": "mall",
+    "lat": 13.0479,
+    "lng": 80.2127,
+    "description": "Popular mall on Arcot Road, Vadapalani"
+  },
+  {
+    "id": "11668639-6037-4f69-9d4d-dbb41e918fe9",
+    "name": "Gateway of India",
+    "city": "Mumbai",
+    "type": "historical",
+    "lat": 18.922,
+    "lng": 72.8347,
+    "description": "Iconic arch monument built in 1924"
+  },
+  {
+    "id": "6facf62a-3e46-4ea9-9dc2-11385084e7da",
+    "name": "Chhatrapati Shivaji Terminus",
+    "city": "Mumbai",
+    "type": "historical",
+    "lat": 18.9398,
+    "lng": 72.8354,
+    "description": "UNESCO heritage Victorian-Gothic railway station"
+  },
+  {
+    "id": "ef00bc20-b493-4d4e-a4f4-354eb99c10b4",
+    "name": "Elephanta Caves",
+    "city": "Mumbai",
+    "type": "historical",
+    "lat": 18.9633,
+    "lng": 72.9315,
+    "description": "UNESCO rock-cut cave temples on Elephanta Island"
+  },
+  {
+    "id": "f1e4b526-8d55-42d2-8a1c-ef020e0bda71",
+    "name": "Marine Drive",
+    "city": "Mumbai",
+    "type": "landmark",
+    "lat": 18.9432,
+    "lng": 72.8234,
+    "description": "Iconic 3.6 km promenade along the Arabian Sea"
+  },
+  {
+    "id": "911c96f2-c1fe-4b01-8649-08ee5bfe588e",
+    "name": "Phoenix Palladium",
+    "city": "Mumbai",
+    "type": "mall",
+    "lat": 18.996,
+    "lng": 72.8287,
+    "description": "Premium luxury mall in Lower Parel"
+  },
+  {
+    "id": "61575cdb-31cb-4fb7-aa5c-2b1194100400",
+    "name": "R City Mall",
+    "city": "Mumbai",
+    "type": "mall",
+    "lat": 19.0944,
+    "lng": 72.9255,
+    "description": "One of the largest malls in Mumbai, Ghatkopar"
+  },
+  {
+    "id": "8a08b99d-c3f9-427e-9423-ded88ec1567d",
+    "name": "Inorbit Mall Malad",
+    "city": "Mumbai",
+    "type": "mall",
+    "lat": 19.1872,
+    "lng": 72.8396,
+    "description": "Major shopping mall in Malad West"
+  },
+  {
+    "id": "08da58db-0718-452c-aca9-7e2e024e13a4",
+    "name": "Infiniti Mall Andheri",
+    "city": "Mumbai",
+    "type": "mall",
+    "lat": 19.1368,
+    "lng": 72.8264,
+    "description": "Popular mall in Andheri West"
+  },
+  {
+    "id": "a8ca94de-e84d-4445-8677-b18dfb959dd0",
+    "name": "Kingdom of Dreams",
+    "city": "Gurugram",
+    "type": "landmark",
+    "lat": 28.4691,
+    "lng": 77.068,
+    "description": "India's first live entertainment destination"
+  },
+  {
+    "id": "6d35ca8b-3af7-4f98-9c6f-d8a7c3127248",
+    "name": "Sultanpur Bird Sanctuary",
+    "city": "Gurugram",
+    "type": "landmark",
+    "lat": 28.4672,
+    "lng": 76.8889,
+    "description": "National park and bird sanctuary"
+  },
+  {
+    "id": "e050c104-25f4-485d-82b2-a79c71853e6b",
+    "name": "Qutub Minar (nearby)",
+    "city": "Gurugram",
+    "type": "historical",
+    "lat": 28.5245,
+    "lng": 77.1855,
+    "description": "UNESCO heritage minaret, world's tallest brick tower"
+  },
+  {
+    "id": "7dfee0bd-7a9b-41b5-a756-7b393f6ee41b",
+    "name": "Sheetla Mata Mandir",
+    "city": "Gurugram",
+    "type": "historical",
+    "lat": 28.475,
+    "lng": 77.039,
+    "description": "Ancient Sheetla Devi temple, city's oldest shrine"
+  },
+  {
+    "id": "a9ce8963-7096-4a1b-8105-326a75f4edfe",
+    "name": "Ambience Mall",
+    "city": "Gurugram",
+    "type": "mall",
+    "lat": 28.5043,
+    "lng": 77.0968,
+    "description": "India's largest mall on NH-48"
+  },
+  {
+    "id": "08560539-a180-431d-8d5d-8263a7f02f91",
+    "name": "MGF Metropolitan Mall",
+    "city": "Gurugram",
+    "type": "mall",
+    "lat": 28.479,
+    "lng": 77.0855,
+    "description": "Premium mall on MG Road"
+  },
+  {
+    "id": "59df7bae-7c29-494c-b498-7535a2b7d255",
+    "name": "DLF Mega Mall",
+    "city": "Gurugram",
+    "type": "mall",
+    "lat": 28.4824,
+    "lng": 77.0931,
+    "description": "Major shopping center in DLF Phase 1"
+  },
+  {
+    "id": "926d5fa0-4833-4c32-bf0b-f0fa2a4ddd89",
+    "name": "Galaxy Mall",
+    "city": "Gurugram",
+    "type": "mall",
+    "lat": 28.451,
+    "lng": 77.0645,
+    "description": "Entertainment and shopping hub in Sector 44"
+  }
+]

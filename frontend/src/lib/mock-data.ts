@@ -1,4 +1,5 @@
 import mockData from './mock-companies-v2.json';
+import landmarkData from './landmarks.json';
 
 export type Company = {
   city: string;
@@ -15,7 +16,18 @@ export type Company = {
   tech_stack: string[];
   location_name: string;
   domain?: string;
+  logo_url?: string;
+};
+
+export type Landmark = {
+  id: string;
+  name: string;
+  city: string;
+  type: 'historical' | 'mall' | 'landmark';
+  lat: number;
+  lng: number;
+  description: string;
 };
 
 export const MOCK_COMPANIES: Company[] = mockData as Company[];
-// Force reload
+export const LANDMARKS: Landmark[] = landmarkData as Landmark[];

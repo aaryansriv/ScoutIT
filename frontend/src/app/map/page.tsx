@@ -8,7 +8,8 @@ import { CityQuickNav } from "@/components/map/city-quick-nav";
 import { motion, AnimatePresence } from "framer-motion";
 import { Navbar } from "@/components/navbar";
 import { CompanySidebar } from "@/components/map/company-sidebar";
-import { Company, MOCK_COMPANIES } from "@/lib/mock-data";
+import { ProfileOverlay } from "@/components/map/profile-overlay";
+import { Company, Landmark, MOCK_COMPANIES, LANDMARKS } from "@/lib/mock-data";
 import { List } from "lucide-react";
 
 // Leaflet must be loaded client-side only (no SSR)
@@ -53,8 +54,31 @@ export default function MapPage() {
   const [rightSidebarOpen, setRightSidebarOpen] = useState(false);
   const [selectedCompany, setSelectedCompany] = useState<Company | null>(null);
 
+  // Profile Overlay State
+  const [openedCompanies, setOpenedCompanies] = useState<Company[]>([]);
+  const [activeProfileIndex, setActiveProfileIndex] = useState(0);
+  const [profileMinimized, setProfileMinimized] = useState(false);
+
   const handleDeleteCompany = (id: string) => {
     setCompanies((prev) => prev.filter((c) => c.id !== id));
+    setOpenedCompanies((prev) => {
+      const filtered = prev.filter(c => c.id !== id);
+      if (activeProfileIndex >= filtered.length) {
+        setActiveProfileIndex(Math.max(0, filtered.length - 1));
+      }
+      return filtered;
+    });
+  };
+
+  const handleViewProfile = (company: Company) => {
+    const existingIndex = openedCompanies.findIndex(c => c.id === company.id);
+    if (existingIndex >= 0) {
+      setActiveProfileIndex(existingIndex);
+    } else {
+      setOpenedCompanies(prev => [...prev, company]);
+      setActiveProfileIndex(openedCompanies.length);
+    }
+    setProfileMinimized(false);
   };
 
   // Filter companies based on active filters
@@ -67,6 +91,11 @@ export default function MapPage() {
     if (filters.hiring === false && c.hiring) return false;
     return true;
   });
+
+  // Filter landmarks by city
+  const filteredLandmarks = filters.city
+    ? LANDMARKS.filter((l) => l.city === filters.city)
+    : LANDMARKS;
 
   // Automatically open right sidebar if city is selected
   useEffect(() => {
@@ -83,13 +112,22 @@ export default function MapPage() {
           companies={filteredCompanies} 
           filters={filters} 
           selectedCompany={selectedCompany} 
-          onDeleteCompany={handleDeleteCompany} 
+          onDeleteCompany={handleDeleteCompany}
+          onViewProfile={handleViewProfile}
+          landmarks={filteredLandmarks}
         />
       </div>
 
       <Navbar
         activeCity={filters.city}
         onCitySelect={(city) => setFilters((f) => ({ ...f, city }))}
+        onProfileClick={() => {
+          if (openedCompanies.length > 0) {
+            setProfileMinimized(false);
+          } else {
+            setRightSidebarOpen(true);
+          }
+        }}
         searchBar={
           <SearchBar
             onCitySelect={(city) => setFilters((f) => ({ ...f, city }))}
@@ -127,9 +165,12 @@ export default function MapPage() {
         >
           <CompanySidebar 
             companies={filteredCompanies} 
+            allCompanies={companies}
             city={filters.city} 
+            onCityChange={(c) => setFilters(f => ({ ...f, city: c }))}
             onClose={() => setRightSidebarOpen(false)} 
             onCompanyClick={(company) => setSelectedCompany(company)}
+            onViewProfile={handleViewProfile}
             onDeleteCompany={handleDeleteCompany}
           />
         </motion.aside>
@@ -150,6 +191,29 @@ export default function MapPage() {
         </AnimatePresence>
 
       </div>
+      
+      {/* Profile Overlay */}
+      <AnimatePresence>
+        {openedCompanies.length > 0 && !profileMinimized && (
+          <ProfileOverlay
+            companies={openedCompanies}
+            activeIndex={activeProfileIndex}
+            onNext={() => setActiveProfileIndex((i) => Math.min(i + 1, openedCompanies.length - 1))}
+            onPrev={() => setActiveProfileIndex((i) => Math.max(i - 1, 0))}
+            onMinimize={() => setProfileMinimized(true)}
+            onClose={(id) => {
+              setOpenedCompanies(prev => {
+                const filtered = prev.filter(c => c.id !== id);
+                if (activeProfileIndex >= filtered.length) {
+                  setActiveProfileIndex(Math.max(0, filtered.length - 1));
+                }
+                return filtered;
+              });
+            }}
+          />
+        )}
+      </AnimatePresence>
+
     </div>
   );
 }
